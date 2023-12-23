@@ -1,0 +1,6 @@
+keras_nightly==2.5.0.dev2021032900
+#numpy==1.19.5
+numpy==1.13.3
+pandas==2.1.4
+scikit_learn==1.3.2
+tensorflow==2.5.0

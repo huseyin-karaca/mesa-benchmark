@@ -16,7 +16,7 @@ print("Generating dataset for Task %d" % (TASK))
 OUTPUTFILE="hdf_task%d" % (TASK)
 
 if TASK in [1, 2]:
-    PATH_TO_FILES = "./datasets/task%d/" % (TASK)
+    PATH_TO_FILES = "./data/mesa/processed/task%d/" % (TASK)
 else:
     PATH_TO_FILES = "./data/mesa/actigraphy_test/"
 

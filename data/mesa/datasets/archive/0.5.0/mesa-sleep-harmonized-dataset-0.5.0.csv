@@ -1,0 +1,2238 @@
+mesaid,examnumber,nsrr_age,nsrr_age_gt89,nsrr_sex,nsrr_race,nsrr_ahi_hp3u,nsrr_ahi_hp3r_aasm15,nsrr_ahi_hp4u_aasm15,nsrr_ahi_hp4r,nsrr_ttldursp_f1,nsrr_phrnumar_f1,nsrr_flag_spsw
+1,5,70.00,no,female,white,18.14,27.56,9.94,23.02,344.00,27.03,full scoring
+2,5,83.00,no,female,white,8.34,10.75,3.85,7.38,374.00,24.55,full scoring
+6,5,57.00,no,female,hispanic,62.51,67.21,51.12,58.32,358.00,21.79,full scoring
+10,5,57.00,no,male,white,40.91,48.00,32.18,45.27,110.00,46.91,full scoring
+12,5,80.00,no,male,white,27.47,33.63,20.22,29.89,273.00,28.79,full scoring
+14,5,60.00,no,female,black or african american,11.37,12.94,6.54,9.24,422.00,11.23,full scoring
+16,5,57.00,no,female,hispanic,2.70,4.41,1.42,3.70,422.00,14.93,full scoring
+21,5,78.00,no,female,hispanic,19.28,25.91,12.51,21.06,470.00,29.36,full scoring
+27,5,72.00,no,female,white,10.00,12.93,5.37,8.54,492.00,13.17,full scoring
+28,5,60.00,no,female,white,21.87,27.47,17.89,24.58,332.00,29.82,full scoring
+29,5,77.00,no,male,white,,,,,,,unknown
+33,5,77.00,no,male,asian,70.48,73.61,66.69,71.82,269.00,59.33,full scoring
+35,5,67.00,no,male,hispanic,4.89,11.13,2.71,10.05,221.00,18.46,full scoring
+36,5,75.00,no,male,hispanic,12.00,18.75,6.25,14.25,240.00,24.50,full scoring
+38,5,63.00,no,male,white,7.33,8.32,3.56,4.95,303.00,7.52,full scoring
+46,5,79.00,no,female,white,23.41,24.81,19.69,22.48,387.00,15.19,full scoring
+48,5,82.00,no,female,white,8.12,9.28,4.31,5.97,362.00,18.40,full scoring
+50,5,68.00,no,male,black or african american,8.92,9.97,5.59,7.10,397.00,11.49,full scoring
+52,5,56.00,no,male,black or african american,8.29,10.76,3.88,7.24,340.00,14.82,full scoring
+54,5,61.00,no,female,black or african american,27.27,33.12,20.45,27.66,308.00,32.14,full scoring
+56,5,63.00,no,female,black or african american,4.39,5.03,1.55,2.45,465.00,11.23,full scoring
+64,5,58.00,no,male,hispanic,43.70,46.42,35.77,40.98,265.00,28.30,full scoring
+70,5,59.00,no,female,white,8.97,9.21,4.36,4.73,495.00,10.06,full scoring
+74,5,75.00,no,male,black or african american,17.44,22.46,11.08,18.92,406.00,20.39,full scoring
+77,5,61.00,no,male,hispanic,4.55,6.34,2.76,4.97,435.00,11.59,full scoring
+79,5,74.00,no,female,white,27.22,30.40,19.56,25.64,227.00,28.55,full scoring
+81,5,80.00,no,female,black or african american,41.66,46.11,38.10,44.69,337.00,37.74,full scoring
+84,5,58.00,no,female,hispanic,6.67,8.41,4.35,7.10,414.00,18.26,full scoring
+85,5,60.00,no,female,black or african american,4.96,12.46,3.31,10.93,472.00,13.73,full scoring
+87,5,75.00,no,female,black or african american,11.91,12.63,7.46,8.61,418.00,8.04,full scoring
+93,5,79.00,no,male,asian,,,,,,,unknown
+99,5,71.00,no,male,white,24.40,26.54,16.98,21.76,364.00,22.09,full scoring
+101,5,63.00,no,female,hispanic,6.14,7.67,2.92,5.06,391.00,12.89,full scoring
+105,5,68.00,no,female,black or african american,19.72,21.07,14.66,17.02,356.00,11.29,full scoring
+107,5,82.00,no,male,white,52.57,58.83,49.96,56.61,460.00,23.74,full scoring
+109,5,66.00,no,male,hispanic,16.03,23.02,8.73,17.30,378.00,26.67,full scoring
+110,5,60.00,no,male,white,36.23,39.46,27.46,33.23,260.00,17.31,full scoring
+111,5,77.00,no,female,white,0.00,0.00,0.00,0.00,231.00,18.18,full scoring
+113,5,61.00,no,female,asian,1.96,3.27,0.33,2.29,367.00,12.26,full scoring
+117,5,65.00,no,female,black or african american,,,,,,,unknown
+118,5,56.00,no,female,hispanic,12.87,13.59,7.95,9.69,415.00,17.49,full scoring
+120,5,60.00,no,female,hispanic,8.21,18.37,4.89,16.61,307.00,23.84,full scoring
+121,5,58.00,no,male,white,13.90,18.12,8.62,14.25,341.00,30.09,full scoring
+125,5,82.00,no,male,white,43.72,46.65,38.14,41.66,409.00,19.80,full scoring
+128,5,62.00,no,male,hispanic,,,,,,,unknown
+132,5,62.00,no,male,hispanic,4.55,6.83,1.25,4.21,527.00,23.11,full scoring
+133,5,84.00,no,male,white,22.09,26.61,14.09,20.35,345.00,25.39,full scoring
+134,5,89.00,no,female,white,,,,,,,unknown
+138,5,63.00,no,male,hispanic,30.47,30.94,24.33,25.98,254.00,21.73,full scoring
+139,5,65.00,no,female,white,,,,,,,unknown
+140,5,67.00,no,male,black or african american,43.98,50.12,36.89,44.72,322.00,35.59,full scoring
+144,5,67.00,no,female,hispanic,16.61,20.95,9.42,15.25,484.00,18.84,full scoring
+149,5,81.00,no,female,white,15.41,20.55,9.04,15.21,292.00,17.47,full scoring
+152,5,80.00,no,male,black or african american,7.06,10.82,1.41,6.59,255.00,17.65,full scoring
+155,5,76.00,no,male,hispanic,29.55,34.90,25.84,31.63,404.00,12.03,full scoring
+159,5,58.00,no,female,hispanic,1.37,4.10,0.68,3.42,439.00,15.17,full scoring
+167,5,59.00,no,female,asian,0.45,3.17,0.00,2.94,265.00,18.57,full scoring
+168,5,63.00,no,female,white,,,,,,,unknown
+169,5,71.00,no,male,white,43.93,45.76,38.03,40.68,295.00,33.97,full scoring
+171,5,59.00,no,female,white,5.92,6.74,2.48,3.85,436.00,13.49,full scoring
+179,5,75.00,no,female,hispanic,,,,,,,unknown
+182,5,72.00,no,male,black or african american,,,,,,,unknown
+183,5,65.00,no,male,black or african american,38.66,39.93,32.75,34.86,284.00,18.59,full scoring
+187,5,62.00,no,female,hispanic,14.85,16.39,9.31,12.02,509.00,9.31,full scoring
+188,5,71.00,no,male,asian,20.84,31.44,15.27,30.36,334.00,31.44,full scoring
+193,5,89.00,no,male,white,17.54,20.05,13.23,16.98,431.00,19.07,full scoring
+194,5,57.00,no,female,hispanic,8.02,11.89,5.12,9.40,434.00,11.75,full scoring
+195,5,84.00,no,female,hispanic,6.46,18.28,4.98,17.72,325.00,26.03,full scoring
+196,5,75.00,no,male,white,51.58,54.04,34.74,39.30,171.00,20.70,full scoring
+197,5,67.00,no,female,black or african american,27.33,29.04,18.79,21.14,281.00,11.74,full scoring
+199,5,90.00,yes,male,white,,,,,,,unknown
+204,5,75.00,no,male,asian,2.17,6.36,0.62,5.12,387.00,16.90,full scoring
+209,5,82.00,no,male,white,,,,,,,unknown
+211,5,61.00,no,female,black or african american,14.33,14.87,9.13,11.10,335.00,22.57,full scoring
+214,5,88.00,no,female,hispanic,,,,,,,unknown
+219,5,68.00,no,female,asian,21.37,24.46,13.65,17.77,233.00,13.39,full scoring
+220,5,81.00,no,female,black or african american,39.21,40.00,33.82,34.74,456.00,22.50,full scoring
+225,5,63.00,no,female,white,1.96,2.27,1.21,1.51,397.00,5.44,full scoring
+236,5,75.00,no,male,hispanic,19.92,29.38,9.96,21.91,241.00,22.66,full scoring
+241,5,79.00,no,female,white,9.68,12.62,4.25,8.36,409.00,21.86,full scoring
+248,5,69.00,no,female,black or african american,26.74,34.42,15.81,26.74,258.00,37.21,full scoring
+251,5,73.00,no,female,black or african american,4.59,5.70,2.06,3.80,379.00,20.58,full scoring
+255,5,61.00,no,female,hispanic,,,,,,,unknown
+258,5,64.00,no,female,white,1.55,2.25,0.85,1.69,426.00,8.31,full scoring
+269,5,80.00,no,male,white,29.59,36.77,22.12,32.63,217.00,40.92,full scoring
+271,5,56.00,no,male,hispanic,18.45,19.01,14.79,15.63,426.00,8.73,full scoring
+275,5,59.00,no,male,white,3.93,5.97,3.64,5.68,412.00,13.98,full scoring
+282,5,68.00,no,female,black or african american,17.98,19.88,11.41,14.01,347.00,18.50,full scoring
+284,5,60.00,no,female,asian,1.96,5.61,0.98,5.05,428.00,26.07,full scoring
+285,5,70.00,no,male,white,20.71,24.56,15.80,20.50,281.00,18.79,full scoring
+286,5,68.00,no,female,hispanic,78.83,81.93,69.69,73.99,446.00,48.30,full scoring
+288,5,64.00,no,male,hispanic,5.31,5.78,2.34,3.28,384.00,12.19,full scoring
+292,5,57.00,no,male,black or african american,1.12,1.44,0.96,1.44,374.00,6.26,full scoring
+295,5,62.00,no,female,black or african american,0.00,0.12,0.00,0.12,490.00,16.04,full scoring
+299,5,74.00,no,male,white,11.84,16.44,5.59,13.97,365.00,43.73,full scoring
+301,5,63.00,no,male,white,18.81,22.07,12.59,17.25,386.00,19.27,full scoring
+303,5,64.00,no,female,white,7.18,12.68,3.38,9.51,284.00,13.31,full scoring
+306,5,77.00,no,male,white,29.81,32.83,16.79,22.45,318.00,19.25,full scoring
+310,5,57.00,no,female,black or african american,24.71,30.13,18.24,24.85,454.00,30.00,full scoring
+312,5,75.00,no,male,hispanic,31.97,39.84,24.84,36.89,244.00,41.31,full scoring
+314,5,77.00,no,male,white,16.28,19.18,13.61,17.40,269.00,20.52,full scoring
+318,5,75.00,no,male,hispanic,8.53,13.87,4.27,10.93,225.00,40.80,full scoring
+319,5,75.00,no,female,white,27.83,35.92,18.95,30.59,304.00,27.63,full scoring
+320,5,61.00,no,male,asian,,,,,,,unknown
+323,5,79.00,no,male,white,2.46,6.32,1.40,5.26,171.00,11.23,full scoring
+328,5,73.00,no,male,black or african american,17.23,18.00,11.03,12.58,310.00,20.13,full scoring
+329,5,61.00,no,male,white,9.13,36.74,1.74,35.65,276.00,46.96,full scoring
+332,5,74.00,no,male,hispanic,42.36,52.53,37.73,50.09,466.00,49.44,full scoring
+337,5,78.00,no,male,white,,,,,,,unknown
+338,5,56.00,no,male,white,75.23,78.02,71.89,76.72,323.00,70.22,full scoring
+339,5,86.00,no,female,black or african american,0.96,5.11,0.00,4.47,188.00,37.98,full scoring
+344,5,69.00,no,male,black or african american,11.91,12.34,8.09,9.50,423.00,8.51,full scoring
+345,5,58.00,no,male,white,8.20,10.65,2.59,6.33,417.00,11.37,full scoring
+346,5,65.00,no,male,hispanic,69.76,69.76,66.60,67.46,209.00,37.89,full scoring
+347,5,84.00,no,male,hispanic,15.22,18.27,10.39,14.15,335.00,24.54,full scoring
+350,5,71.00,no,female,hispanic,19.63,22.06,12.02,15.66,544.00,13.35,full scoring
+359,5,56.00,no,male,hispanic,14.92,16.79,9.17,11.81,386.00,17.56,full scoring
+363,5,64.00,no,female,black or african american,22.85,23.47,18.03,19.12,386.00,15.39,full scoring
+368,5,82.00,no,male,white,12.00,22.29,3.43,16.29,70.00,27.43,full scoring
+372,5,57.00,no,female,black or african american,10.86,11.84,6.65,8.27,370.00,14.43,full scoring
+374,5,76.00,no,male,black or african american,58.73,60.64,54.91,58.89,377.00,41.06,full scoring
+380,5,58.00,no,male,white,38.20,40.90,34.83,38.43,267.00,30.34,full scoring
+381,5,77.00,no,male,black or african american,27.58,34.33,15.99,25.23,409.00,23.62,full scoring
+382,5,61.00,no,female,black or african american,8.53,9.45,3.81,5.12,457.00,6.70,full scoring
+384,5,73.00,no,male,black or african american,7.86,8.86,4.37,5.86,481.00,15.34,full scoring
+385,5,63.00,no,male,hispanic,1.68,2.05,1.12,1.68,322.00,9.13,full scoring
+386,5,87.00,no,male,black or african american,63.71,64.50,58.15,59.74,453.00,18.15,full scoring
+388,5,82.00,no,female,black or african american,9.32,12.52,3.79,7.57,206.00,12.23,full scoring
+392,5,84.00,no,female,black or african american,16.08,17.34,9.79,12.45,429.00,14.55,full scoring
+393,5,82.00,no,female,white,0.91,2.57,0.60,2.27,397.00,16.32,full scoring
+399,5,62.00,no,female,black or african american,63.91,67.23,48.08,54.72,307.00,26.19,full scoring
+402,5,78.00,no,male,white,40.29,44.67,37.45,43.14,274.00,36.79,full scoring
+403,5,77.00,no,female,white,,,,,,,unknown
+405,5,78.00,no,male,hispanic,41.13,43.40,37.36,41.89,318.00,30.19,full scoring
+407,5,77.00,no,female,black or african american,26.29,28.39,21.13,23.71,372.00,16.13,full scoring
+408,5,62.00,no,male,asian,1.37,8.24,0.98,8.24,306.00,22.16,full scoring
+414,5,65.00,no,female,white,4.09,7.33,0.51,4.94,352.00,24.72,full scoring
+415,5,75.00,no,female,black or african american,1.00,4.99,0.57,4.85,421.00,30.21,full scoring
+416,5,58.00,no,male,white,2.16,11.35,2.16,11.35,222.00,18.38,full scoring
+419,5,69.00,no,female,white,4.16,6.98,1.78,5.94,404.00,10.10,full scoring
+423,5,61.00,no,male,white,21.71,22.44,17.56,18.54,246.00,21.22,full scoring
+427,5,56.00,no,female,white,0.59,0.74,0.00,0.15,406.00,12.71,full scoring
+435,5,69.00,no,male,white,44.03,47.58,39.03,44.68,372.00,34.03,full scoring
+439,5,61.00,no,female,black or african american,,,,,,,unknown
+440,5,73.00,no,female,black or african american,6.37,12.03,3.68,10.61,424.00,33.25,full scoring
+443,5,64.00,no,male,white,14.22,24.05,8.53,22.24,464.00,39.57,full scoring
+445,5,56.00,no,female,black or african american,2.07,2.26,1.69,1.88,319.00,9.97,full scoring
+446,5,73.00,no,female,white,,,,,,,unknown
+452,5,73.00,no,female,hispanic,7.18,8.77,3.99,5.78,301.00,9.97,full scoring
+457,5,58.00,no,female,black or african american,12.73,13.76,5.56,7.17,410.00,7.46,full scoring
+458,5,57.00,no,female,white,4.40,6.13,2.20,4.40,382.00,13.98,full scoring
+459,5,63.00,no,male,hispanic,30.53,34.13,23.32,28.41,283.00,22.26,full scoring
+460,5,77.00,no,female,asian,8.26,11.48,4.23,9.26,298.00,24.77,full scoring
+464,5,57.00,no,female,white,11.24,13.35,4.22,7.59,427.00,12.93,full scoring
+465,5,60.00,no,male,white,31.79,38.21,18.75,28.21,336.00,34.29,full scoring
+468,5,87.00,no,male,hispanic,54.30,55.80,42.00,44.10,400.00,15.75,full scoring
+469,5,63.00,no,male,white,1.99,2.90,0.36,1.63,331.00,13.05,full scoring
+470,5,62.00,no,female,white,23.32,27.51,16.79,21.76,386.00,15.39,full scoring
+474,5,78.00,no,male,hispanic,19.86,25.07,14.64,22.03,414.00,16.38,full scoring
+476,5,74.00,no,male,hispanic,20.00,27.74,11.13,23.06,372.00,25.48,full scoring
+483,5,78.00,no,male,hispanic,15.23,15.96,4.40,5.87,327.00,7.52,full scoring
+485,5,61.00,no,female,black or african american,25.02,26.30,22.32,24.03,422.00,11.23,full scoring
+488,5,59.00,no,female,white,3.78,6.39,1.57,4.43,460.00,19.57,full scoring
+490,5,74.00,no,male,hispanic,5.78,26.65,3.17,24.78,322.00,25.53,full scoring
+491,5,76.00,no,male,white,10.96,13.22,6.26,10.26,345.00,12.35,full scoring
+495,5,76.00,no,male,asian,18.10,19.53,11.80,15.86,295.00,33.36,full scoring
+499,5,64.00,no,female,hispanic,15.95,18.79,9.32,15.95,380.00,21.47,full scoring
+501,5,62.00,no,male,asian,2.87,5.53,2.46,5.12,293.00,13.52,full scoring
+505,5,71.00,no,male,white,48.45,49.69,31.96,34.64,291.00,14.85,full scoring
+509,5,64.00,no,female,hispanic,0.98,5.25,0.66,4.92,366.00,15.25,full scoring
+512,5,58.00,no,female,hispanic,3.70,7.40,1.23,5.34,146.00,14.38,full scoring
+518,5,70.00,no,female,white,8.59,8.76,5.51,5.68,370.00,15.57,full scoring
+519,5,66.00,no,female,white,11.61,17.10,6.13,13.39,372.00,28.39,full scoring
+522,5,63.00,no,male,white,8.95,16.43,6.01,14.82,409.00,23.33,full scoring
+523,5,68.00,no,male,white,26.06,26.06,22.26,22.53,221.00,11.95,full scoring
+526,5,62.00,no,female,hispanic,22.31,26.03,11.40,19.34,242.00,34.71,full scoring
+527,5,61.00,no,male,asian,47.45,53.18,38.73,47.45,220.00,48.00,full scoring
+528,5,66.00,no,male,black or african american,3.42,6.67,1.98,5.59,333.00,16.22,full scoring
+529,5,61.00,no,male,asian,6.35,10.94,3.69,9.01,406.00,15.37,full scoring
+533,5,69.00,no,male,white,22.61,27.54,15.98,22.27,353.00,22.78,full scoring
+534,5,77.00,no,male,black or african american,2.76,10.38,2.11,10.05,370.00,23.68,full scoring
+536,5,71.00,no,male,white,16.86,18.67,13.23,16.31,331.00,30.82,full scoring
+537,5,60.00,no,male,black or african american,27.78,30.67,16.44,19.78,270.00,7.78,full scoring
+545,5,82.00,no,male,black or african american,12.00,18.36,7.45,15.09,330.00,26.36,full scoring
+548,5,70.00,no,male,hispanic,6.83,8.80,4.33,7.22,457.00,19.82,full scoring
+550,5,75.00,no,male,white,9.38,10.63,7.97,9.53,384.00,21.41,full scoring
+553,5,68.00,no,male,black or african american,25.60,33.16,16.81,28.69,389.00,39.18,full scoring
+554,5,78.00,no,female,hispanic,9.40,20.66,3.46,16.95,485.00,43.55,full scoring
+555,5,86.00,no,female,hispanic,9.00,9.79,6.47,7.89,380.00,9.00,full scoring
+556,5,74.00,no,female,white,17.59,19.64,11.05,15.00,440.00,15.55,full scoring
+558,5,74.00,no,female,white,3.99,4.98,2.79,3.79,301.00,7.77,full scoring
+560,5,81.00,no,female,hispanic,5.48,6.42,2.82,4.86,383.00,22.72,full scoring
+561,5,85.00,no,female,black or african american,9.02,13.83,3.85,9.62,499.00,17.19,full scoring
+563,5,75.00,no,female,white,1.88,3.90,0.14,2.60,415.00,11.71,full scoring
+565,5,69.00,no,male,white,6.67,8.44,5.11,7.56,270.00,21.11,full scoring
+571,5,81.00,no,male,white,44.11,46.08,33.22,37.16,457.00,19.82,full scoring
+572,5,65.00,no,female,white,29.24,30.96,22.94,25.89,591.00,18.27,full scoring
+581,5,57.00,no,male,white,3.16,7.25,1.52,6.32,513.00,19.42,full scoring
+583,5,82.00,no,male,white,4.20,18.75,1.35,18.15,400.00,41.85,full scoring
+586,5,58.00,no,female,hispanic,0.45,1.51,0.15,1.21,397.00,15.11,full scoring
+587,5,65.00,no,male,hispanic,18.27,22.72,11.85,17.78,243.00,26.91,full scoring
+589,5,64.00,no,male,asian,35.52,40.81,25.39,34.46,397.00,42.62,full scoring
+590,5,59.00,no,male,hispanic,35.45,35.45,27.88,27.88,198.00,,sleep/wake only
+594,5,72.00,no,female,hispanic,4.67,10.43,1.37,7.83,437.00,30.21,full scoring
+595,5,81.00,no,male,white,,,,,,,unknown
+596,5,59.00,no,female,white,7.52,7.90,5.48,5.99,471.00,4.84,full scoring
+599,5,77.00,no,female,black or african american,9.41,11.49,4.64,6.84,491.00,10.51,full scoring
+601,5,58.00,no,female,asian,5.96,7.13,3.76,5.31,463.00,9.98,full scoring
+602,5,66.00,no,male,hispanic,32.74,37.71,18.51,26.40,350.00,22.97,full scoring
+604,5,76.00,no,female,asian,6.12,6.67,1.22,1.90,441.00,10.07,full scoring
+609,5,73.00,no,male,asian,32.16,38.44,20.30,28.56,334.00,25.87,full scoring
+612,5,76.00,no,male,white,3.96,4.12,2.47,2.80,364.00,7.09,full scoring
+614,5,62.00,no,male,white,35.97,43.87,23.36,35.97,357.00,35.13,full scoring
+620,5,68.00,no,female,asian,21.75,26.13,13.58,20.58,411.00,18.98,full scoring
+621,5,61.00,no,male,asian,6.37,11.68,3.98,10.88,226.00,25.22,full scoring
+626,5,77.00,no,female,white,39.53,42.84,30.64,36.99,472.00,33.94,full scoring
+628,5,72.00,no,male,white,8.31,16.15,6.46,14.92,390.00,22.31,full scoring
+629,5,59.00,no,female,white,5.82,7.12,2.26,4.85,371.00,18.27,full scoring
+632,5,65.00,no,male,white,2.12,3.40,0.57,1.98,424.00,16.13,full scoring
+636,5,75.00,no,female,hispanic,5.29,6.88,2.47,4.41,340.00,11.82,full scoring
+639,5,68.00,no,female,hispanic,2.26,2.71,0.68,1.58,266.00,10.15,full scoring
+640,5,72.00,no,female,white,15.38,15.75,10.88,11.25,320.00,6.75,full scoring
+643,5,60.00,no,male,hispanic,65.12,66.59,47.80,52.93,246.00,25.61,full scoring
+648,5,66.00,no,male,hispanic,29.84,35.97,19.63,29.69,382.00,31.88,full scoring
+651,5,74.00,no,male,white,60.96,61.92,58.46,60.19,312.00,54.42,full scoring
+652,5,68.00,no,male,white,15.51,17.53,8.76,11.46,178.00,14.83,full scoring
+655,5,71.00,no,female,black or african american,4.72,5.75,2.06,3.10,407.00,11.65,full scoring
+657,5,60.00,no,female,hispanic,54.02,55.63,42.07,44.14,261.00,25.52,full scoring
+658,5,68.00,no,female,black or african american,30.49,37.42,22.25,30.66,364.00,25.88,full scoring
+664,5,62.00,no,male,black or african american,0.50,0.99,0.17,0.66,363.00,10.25,full scoring
+672,5,82.00,no,female,hispanic,12.26,29.43,8.68,27.55,318.00,35.09,full scoring
+675,5,81.00,no,female,hispanic,44.69,46.36,33.97,36.61,431.00,13.78,full scoring
+677,5,62.00,no,male,hispanic,15.40,17.01,11.07,13.32,374.00,18.45,full scoring
+679,5,61.00,no,female,white,51.18,54.44,43.32,47.54,313.00,17.64,full scoring
+680,5,82.00,no,female,hispanic,36.09,41.25,21.56,30.70,256.00,26.25,full scoring
+683,5,59.00,no,male,black or african american,12.90,14.64,5.65,9.13,414.00,17.10,full scoring
+684,5,70.00,no,male,black or african american,19.48,21.04,15.19,17.53,154.00,17.53,full scoring
+686,5,58.00,no,female,hispanic,21.05,23.48,15.47,19.33,419.00,26.49,full scoring
+688,5,69.00,no,female,asian,0.27,0.82,0.00,0.55,220.00,12.00,full scoring
+690,5,75.00,no,female,hispanic,,,,,,,unknown
+692,5,89.00,no,female,asian,3.61,17.05,2.46,16.72,366.00,33.77,full scoring
+694,5,76.00,no,male,black or african american,20.26,22.27,18.56,21.03,388.00,19.33,full scoring
+702,5,72.00,no,female,asian,25.59,31.28,16.49,25.31,211.00,27.01,full scoring
+705,5,60.00,no,female,white,6.32,8.77,2.46,5.96,342.00,15.26,full scoring
+711,5,64.00,no,female,white,7.09,13.23,5.18,12.00,440.00,18.14,full scoring
+712,5,78.00,no,female,hispanic,21.24,27.60,13.95,22.17,387.00,22.33,full scoring
+713,5,58.00,no,male,asian,19.03,22.86,10.04,15.86,454.00,31.19,full scoring
+715,5,60.00,no,female,white,28.44,31.82,18.44,23.77,462.00,19.09,full scoring
+716,5,65.00,no,female,black or african american,16.78,17.72,9.53,10.87,447.00,8.72,full scoring
+718,5,63.00,no,male,black or african american,82.00,85.60,70.53,76.53,450.00,60.53,full scoring
+719,5,79.00,no,male,asian,40.00,42.77,33.40,38.94,282.00,26.60,full scoring
+725,5,57.00,no,female,hispanic,28.64,33.17,12.05,17.11,463.00,16.07,full scoring
+726,5,71.00,no,male,white,7.52,8.97,4.00,5.94,495.00,8.73,full scoring
+727,5,88.00,no,male,black or african american,31.31,33.54,27.27,32.12,297.00,24.24,full scoring
+728,5,82.00,no,female,white,1.12,13.76,0.64,13.44,375.00,27.52,full scoring
+743,5,77.00,no,female,hispanic,31.08,33.85,25.54,28.46,390.00,17.38,full scoring
+744,5,58.00,no,male,black or african american,79.70,83.18,70.91,75.76,396.00,45.45,full scoring
+747,5,74.00,no,male,hispanic,8.20,9.12,4.79,6.65,388.00,12.37,full scoring
+755,5,77.00,no,male,white,11.70,15.66,7.55,13.40,318.00,17.55,full scoring
+762,5,74.00,no,female,white,4.95,7.42,2.27,5.36,291.00,18.14,full scoring
+763,5,57.00,no,female,white,,,,,,,unknown
+764,5,77.00,no,male,hispanic,23.02,29.46,16.57,25.17,391.00,27.77,full scoring
+768,5,61.00,no,female,white,1.45,3.55,0.48,2.74,372.00,11.45,full scoring
+771,5,59.00,no,female,asian,10.03,11.51,4.60,6.41,365.00,6.74,full scoring
+776,5,72.00,no,male,hispanic,20.96,25.78,14.22,22.65,249.00,29.16,full scoring
+782,5,57.00,no,female,white,3.72,5.10,2.48,4.14,435.00,9.52,full scoring
+784,5,74.00,no,female,hispanic,18.17,19.00,11.50,14.67,360.00,31.50,full scoring
+789,5,80.00,no,female,asian,73.27,77.04,67.99,72.96,398.00,,sleep/wake only
+791,5,59.00,no,female,black or african american,27.23,31.39,23.24,27.92,346.00,22.20,full scoring
+792,5,73.00,no,male,white,10.15,13.85,5.23,10.15,195.00,11.38,full scoring
+796,5,77.00,no,female,white,11.89,20.94,3.58,15.85,318.00,39.06,full scoring
+797,5,62.00,no,male,white,19.51,23.31,12.52,18.28,489.00,28.34,full scoring
+800,5,61.00,no,female,hispanic,9.59,11.02,5.71,7.96,294.00,7.35,full scoring
+801,5,59.00,no,male,black or african american,6.54,7.02,2.39,3.35,376.00,13.56,full scoring
+804,5,63.00,no,female,black or african american,6.07,6.96,3.75,5.00,336.00,10.54,full scoring
+806,5,76.00,no,female,hispanic,,,,,,,unknown
+807,5,61.00,no,male,white,60.49,65.38,53.52,60.86,491.00,42.53,full scoring
+811,5,74.00,no,male,black or african american,57.07,63.61,40.15,51.20,266.00,39.02,full scoring
+812,5,62.00,no,male,white,5.47,7.15,3.93,6.31,428.00,10.09,full scoring
+813,5,72.00,no,female,black or african american,9.71,14.41,4.41,11.18,408.00,23.53,full scoring
+821,5,58.00,no,female,white,10.19,14.78,7.32,13.06,418.00,14.21,full scoring
+823,5,69.00,no,female,hispanic,11.70,16.98,4.45,11.37,364.00,13.52,full scoring
+828,5,76.00,no,female,white,2.63,15.56,0.56,15.38,320.00,29.81,full scoring
+837,5,60.00,no,male,hispanic,4.80,6.30,0.90,3.15,400.00,12.75,full scoring
+838,5,74.00,no,female,white,7.88,9.24,4.09,6.21,396.00,12.12,full scoring
+852,5,73.00,no,female,white,4.60,9.49,2.79,7.81,430.00,16.88,full scoring
+854,5,74.00,no,male,black or african american,1.20,1.68,0.60,1.32,501.00,7.43,full scoring
+856,5,63.00,no,male,white,11.49,12.40,5.11,7.11,329.00,10.94,full scoring
+860,5,73.00,no,female,white,27.17,28.03,21.15,22.87,488.00,10.70,full scoring
+862,5,79.00,no,male,hispanic,2.75,6.33,1.38,5.50,218.00,11.56,full scoring
+863,5,71.00,no,female,black or african american,49.83,52.67,30.97,36.51,401.00,16.76,full scoring
+864,5,78.00,no,female,hispanic,58.19,59.31,53.61,55.42,432.00,32.08,full scoring
+867,5,84.00,no,male,white,,,,,,,unknown
+873,5,69.00,no,male,asian,2.90,10.31,2.20,9.73,518.00,18.19,full scoring
+884,5,76.00,no,female,asian,11.20,13.56,8.11,10.91,407.00,8.99,full scoring
+886,5,71.00,no,male,white,,,,,,,unknown
+889,5,60.00,no,female,black or african american,12.59,12.96,9.14,10.00,486.00,13.33,full scoring
+892,5,62.00,no,male,white,26.46,37.80,15.35,35.43,254.00,46.54,full scoring
+893,5,55.00,no,female,white,2.41,3.54,1.61,2.73,373.00,7.40,full scoring
+899,5,63.00,no,female,white,1.61,2.90,0.64,2.25,373.00,16.73,full scoring
+902,5,68.00,no,male,white,9.68,11.13,7.74,9.84,372.00,16.45,full scoring
+904,5,62.00,no,female,hispanic,10.42,15.06,4.63,10.66,259.00,23.86,full scoring
+908,5,76.00,no,male,black or african american,10.06,15.27,6.83,13.47,334.00,14.73,full scoring
+910,5,81.00,no,female,white,24.63,27.41,19.26,22.59,324.00,12.04,full scoring
+912,5,60.00,no,female,white,14.00,18.14,12.43,17.14,420.00,22.71,full scoring
+914,5,61.00,no,male,black or african american,8.32,10.27,6.03,8.32,368.00,10.11,full scoring
+916,5,67.00,no,female,black or african american,11.09,15.19,6.23,12.00,395.00,21.72,full scoring
+917,5,86.00,no,male,hispanic,17.36,28.32,10.05,24.21,394.00,44.62,full scoring
+920,5,89.00,no,female,white,13.63,16.09,9.65,12.49,317.00,17.79,full scoring
+921,5,73.00,no,male,black or african american,43.67,45.31,38.16,40.20,294.00,25.51,full scoring
+923,5,67.00,no,male,hispanic,57.26,62.55,47.96,57.99,329.00,50.52,full scoring
+926,5,87.00,no,female,hispanic,1.79,2.33,0.18,0.90,335.00,5.73,full scoring
+928,5,70.00,no,male,black or african american,1.32,1.81,0.99,1.48,365.00,28.93,full scoring
+931,5,64.00,no,female,hispanic,46.43,53.92,36.73,48.42,513.00,43.86,full scoring
+933,5,87.00,no,female,white,14.60,17.23,9.78,13.43,411.00,14.89,full scoring
+934,5,67.00,no,male,black or african american,48.20,52.42,36.40,44.49,356.00,37.58,full scoring
+935,5,57.00,no,male,hispanic,39.57,52.82,29.68,49.47,376.00,52.18,full scoring
+937,5,64.00,no,male,white,85.18,92.11,66.93,79.90,398.00,53.82,full scoring
+939,5,71.00,no,female,white,8.09,14.43,4.31,11.33,445.00,22.65,full scoring
+943,5,57.00,no,male,asian,9.92,16.48,6.40,14.40,375.00,23.84,full scoring
+946,5,58.00,no,male,black or african american,17.83,17.83,11.32,11.60,212.00,6.79,full scoring
+947,5,77.00,no,male,black or african american,,,,,,,unknown
+949,5,55.00,no,female,black or african american,2.49,2.76,2.21,2.76,217.00,22.67,full scoring
+951,5,55.00,no,female,white,16.56,18.40,11.04,13.58,424.00,16.98,full scoring
+957,5,79.00,no,male,black or african american,,,,,,,unknown
+960,5,60.00,no,female,black or african american,25.24,26.13,19.26,20.15,271.00,10.18,full scoring
+962,5,61.00,no,male,white,4.10,6.48,2.25,4.89,454.00,19.96,full scoring
+967,5,79.00,no,male,black or african american,2.68,5.06,1.04,3.72,403.00,15.93,full scoring
+968,5,84.00,no,female,black or african american,47.57,47.96,43.50,44.85,309.00,30.68,full scoring
+971,5,78.00,no,female,white,1.01,2.19,0.51,1.69,356.00,8.09,full scoring
+976,5,55.00,no,female,black or african american,5.23,8.36,1.67,5.44,287.00,16.93,full scoring
+977,5,56.00,no,male,asian,19.81,20.96,12.43,14.31,415.00,14.75,full scoring
+979,5,76.00,no,female,asian,20.79,24.00,17.30,21.49,430.00,28.60,full scoring
+980,5,75.00,no,female,black or african american,6.25,9.01,1.74,5.38,413.00,16.27,full scoring
+989,5,83.00,no,male,hispanic,61.61,61.61,61.35,61.35,223.00,,sleep/wake only
+994,5,70.00,no,female,white,18.40,21.17,10.43,14.68,564.00,14.15,full scoring
+1000,5,73.00,no,female,white,,,,,,,unknown
+1010,5,82.00,no,female,black or african american,18.29,21.80,12.29,16.68,410.00,22.10,full scoring
+1013,5,69.00,no,male,white,56.79,57.86,53.14,55.29,280.00,45.86,full scoring
+1016,5,64.00,no,male,asian,13.18,15.79,7.55,11.53,437.00,17.30,full scoring
+1017,5,68.00,no,female,white,4.22,8.59,2.62,7.28,412.00,19.81,full scoring
+1018,5,57.00,no,female,white,1.09,2.04,0.14,1.09,441.00,9.80,full scoring
+1019,5,66.00,no,male,white,23.60,28.47,15.32,22.88,333.00,23.42,full scoring
+1020,5,80.00,no,male,white,10.86,12.22,4.89,6.24,221.00,13.30,full scoring
+1021,5,80.00,no,female,white,14.79,16.21,9.24,11.80,422.00,15.07,full scoring
+1022,5,62.00,no,male,black or african american,2.01,4.82,1.00,3.81,299.00,14.65,full scoring
+1026,5,73.00,no,female,white,74.16,76.85,60.00,66.74,89.00,45.17,full scoring
+1030,5,84.00,no,female,white,5.97,7.84,3.58,6.14,352.00,15.34,full scoring
+1033,5,70.00,no,male,hispanic,3.45,11.51,1.48,9.86,365.00,14.79,full scoring
+1035,5,76.00,no,female,white,6.95,15.08,4.24,13.73,354.00,20.17,full scoring
+1039,5,83.00,no,male,white,10.87,24.46,4.18,20.91,287.00,43.28,full scoring
+1041,5,58.00,no,male,hispanic,69.37,71.90,65.06,68.61,237.00,46.33,full scoring
+1043,5,74.00,no,male,black or african american,5.20,5.35,2.83,2.99,381.00,6.46,full scoring
+1044,5,57.00,no,female,hispanic,4.36,10.44,1.71,8.73,385.00,21.35,full scoring
+1048,5,56.00,no,female,asian,0.19,0.19,0.00,0.00,322.00,8.57,full scoring
+1055,5,62.00,no,female,black or african american,8.82,10.70,4.63,7.08,415.00,12.43,full scoring
+1058,5,72.00,no,female,hispanic,12.42,18.35,7.06,14.82,425.00,26.54,full scoring
+1068,5,84.00,no,male,white,2.64,5.81,0.53,3.70,227.00,30.13,full scoring
+1074,5,72.00,no,female,black or african american,0.52,0.65,0.52,0.65,460.00,4.96,full scoring
+1077,5,69.00,no,female,black or african american,21.25,26.49,10.30,18.96,367.00,27.79,full scoring
+1080,5,67.00,no,male,hispanic,59.84,63.47,45.47,53.21,380.00,47.21,full scoring
+1085,5,60.00,no,male,white,6.07,7.01,3.24,4.58,445.00,10.38,full scoring
+1087,5,65.00,no,male,black or african american,44.23,51.34,27.99,43.61,388.00,42.22,full scoring
+1089,5,61.00,no,male,hispanic,20.59,27.45,16.60,24.73,376.00,26.65,full scoring
+1090,5,66.00,no,male,white,96.00,97.53,93.57,96.26,470.00,48.64,full scoring
+1091,5,77.00,no,female,white,16.72,19.00,11.96,14.96,341.00,22.17,full scoring
+1092,5,65.00,no,male,asian,48.05,49.02,41.60,42.97,437.00,15.65,full scoring
+1094,5,85.00,no,female,hispanic,6.39,8.71,5.42,8.52,310.00,27.48,full scoring
+1098,5,78.00,no,female,black or african american,3.51,8.03,1.00,6.78,239.00,36.90,full scoring
+1102,5,65.00,no,female,white,40.52,43.82,29.53,35.34,382.00,27.17,full scoring
+1105,5,61.00,no,male,black or african american,63.79,66.63,60.47,64.42,380.00,53.05,full scoring
+1109,5,81.00,no,male,black or african american,8.07,9.64,5.11,6.89,305.00,17.31,full scoring
+1113,5,78.00,no,female,asian,4.71,6.53,2.28,4.25,395.00,30.53,full scoring
+1118,5,59.00,no,male,black or african american,20.63,20.63,14.25,14.25,160.00,,sleep/wake only
+1121,5,78.00,no,female,black or african american,6.51,8.63,1.98,6.23,424.00,30.71,full scoring
+1122,5,62.00,no,male,white,9.33,15.24,5.90,12.57,315.00,23.81,full scoring
+1127,5,55.00,no,female,white,7.26,7.52,6.48,6.87,463.00,4.67,full scoring
+1128,5,72.00,no,female,hispanic,35.10,38.88,22.57,29.56,412.00,24.76,full scoring
+1133,5,75.00,no,male,hispanic,55.41,56.60,49.80,52.01,353.00,35.69,full scoring
+1139,5,87.00,no,male,black or african american,26.20,33.80,18.76,28.63,371.00,22.32,full scoring
+1140,5,67.00,no,female,black or african american,11.21,12.16,6.29,7.65,439.00,9.29,full scoring
+1146,5,71.00,no,female,black or african american,14.59,16.23,10.04,13.42,514.00,30.70,full scoring
+1148,5,64.00,no,male,black or african american,15.27,17.68,10.98,14.20,224.00,11.52,full scoring
+1150,5,56.00,no,male,white,9.61,9.61,7.79,7.98,331.00,4.71,full scoring
+1152,5,82.00,no,female,white,11.09,12.23,6.68,9.20,476.00,16.76,full scoring
+1161,5,80.00,no,male,hispanic,36.25,38.13,21.88,26.72,384.00,14.84,full scoring
+1162,5,64.00,no,male,white,16.96,20.58,11.78,16.81,382.00,19.63,full scoring
+1164,5,69.00,no,male,black or african american,6.73,14.58,2.62,12.52,321.00,30.28,full scoring
+1169,5,81.00,no,male,white,,,,,,,unknown
+1173,5,68.00,no,female,white,7.25,9.10,3.08,5.55,389.00,14.65,full scoring
+1177,5,70.00,no,female,black or african american,1.66,2.71,0.75,1.81,398.00,8.89,full scoring
+1187,5,77.00,no,male,white,48.04,55.82,34.37,48.99,316.00,40.63,full scoring
+1188,5,64.00,no,female,hispanic,21.95,25.06,12.99,19.39,328.00,25.43,full scoring
+1194,5,75.00,no,male,hispanic,21.84,27.93,15.74,25.57,305.00,29.31,full scoring
+1204,5,69.00,no,male,hispanic,62.77,64.73,60.49,63.42,368.00,41.41,full scoring
+1206,5,75.00,no,male,asian,10.62,16.89,3.86,12.06,373.00,28.15,full scoring
+1209,5,61.00,no,female,white,20.70,22.78,14.09,18.09,345.00,16.70,full scoring
+1212,5,62.00,no,male,white,69.45,84.41,51.65,74.17,381.00,56.38,full scoring
+1213,5,59.00,no,male,white,,,,,,,unknown
+1215,5,75.00,no,female,white,6.08,9.25,4.63,8.06,454.00,12.69,full scoring
+1216,5,69.00,no,female,black or african american,5.15,5.95,3.30,4.49,454.00,7.40,full scoring
+1219,5,80.00,no,female,asian,6.10,6.38,3.26,3.55,423.00,5.53,full scoring
+1222,5,80.00,no,male,black or african american,,,,,,,unknown
+1224,5,69.00,no,male,hispanic,13.16,16.26,8.52,12.00,310.00,8.90,full scoring
+1227,5,60.00,no,female,asian,12.04,15.61,7.81,14.28,269.00,16.73,full scoring
+1236,5,89.00,no,male,black or african american,11.27,19.89,8.95,18.73,362.00,17.73,full scoring
+1256,5,63.00,no,female,white,11.58,14.80,7.08,11.42,373.00,16.41,full scoring
+1260,5,57.00,no,male,white,6.87,15.11,2.29,12.82,262.00,22.21,full scoring
+1263,5,69.00,no,male,black or african american,26.36,30.17,14.91,19.60,346.00,25.66,full scoring
+1265,5,67.00,no,male,hispanic,65.19,65.58,56.15,58.46,312.00,53.27,full scoring
+1266,5,63.00,no,male,white,26.31,32.68,19.44,26.98,358.00,29.50,full scoring
+1268,5,55.00,no,male,asian,9.51,17.49,5.37,15.96,391.00,31.76,full scoring
+1271,5,79.00,no,male,hispanic,21.76,23.38,14.71,17.35,408.00,10.29,full scoring
+1278,5,81.00,no,male,asian,17.60,38.36,10.91,36.77,341.00,55.60,full scoring
+1280,5,68.00,no,female,white,,,,,,,unknown
+1281,5,67.00,no,male,hispanic,27.54,33.44,18.83,26.98,427.00,20.52,full scoring
+1284,5,66.00,no,female,hispanic,37.61,43.42,31.79,39.83,351.00,32.65,full scoring
+1290,5,90.00,yes,male,hispanic,59.31,64.48,50.34,56.90,174.00,39.31,full scoring
+1291,5,57.00,no,female,hispanic,37.54,40.20,32.07,35.47,406.00,17.44,full scoring
+1294,5,71.00,no,female,hispanic,16.18,20.56,12.13,16.85,356.00,20.06,full scoring
+1297,5,80.00,no,female,hispanic,24.50,27.44,19.53,24.03,387.00,26.51,full scoring
+1298,5,76.00,no,female,white,1.94,5.81,0.65,5.48,186.00,15.16,full scoring
+1300,5,60.00,no,female,hispanic,13.89,16.72,8.24,12.66,488.00,13.89,full scoring
+1301,5,63.00,no,female,white,58.18,61.82,36.11,43.22,329.00,33.92,full scoring
+1305,5,70.00,no,female,black or african american,0.60,0.72,0.36,0.48,499.00,9.26,full scoring
+1308,5,66.00,no,male,hispanic,20.92,23.51,14.76,18.81,370.00,18.16,full scoring
+1309,5,69.00,no,female,hispanic,4.63,7.57,2.80,5.89,428.00,15.42,full scoring
+1311,5,62.00,no,male,black or african american,6.05,8.83,5.07,8.17,367.00,22.72,full scoring
+1320,5,71.00,no,male,hispanic,,,,,,,unknown
+1321,5,59.00,no,female,hispanic,42.49,46.22,34.74,41.05,418.00,30.43,full scoring
+1324,5,66.00,no,female,white,20.28,25.23,13.98,20.80,352.00,25.74,full scoring
+1328,5,80.00,no,male,asian,27.62,29.68,23.49,26.98,378.00,29.05,full scoring
+1332,5,76.00,no,female,hispanic,,,,,,,unknown
+1334,5,66.00,no,female,white,36.13,41.88,18.00,29.13,480.00,23.25,full scoring
+1341,5,79.00,no,male,white,,,,,,,unknown
+1342,5,56.00,no,male,white,52.74,54.01,50.90,52.51,521.00,45.60,full scoring
+1349,5,81.00,no,female,asian,12.54,14.01,9.62,11.71,287.00,13.80,full scoring
+1354,5,62.00,no,female,black or african american,0.71,0.89,0.00,0.18,338.00,8.17,full scoring
+1356,5,60.00,no,female,asian,14.65,18.09,11.59,16.31,471.00,15.16,full scoring
+1357,5,90.00,yes,female,white,,,,,,,unknown
+1374,5,78.00,no,male,black or african american,30.67,32.67,24.67,27.78,270.00,14.89,full scoring
+1376,5,61.00,no,male,black or african american,45.63,46.48,32.54,34.65,284.00,14.58,full scoring
+1378,5,78.00,no,female,hispanic,43.98,45.86,35.50,38.95,191.00,17.91,full scoring
+1381,5,83.00,no,female,asian,6.34,12.89,4.44,11.20,284.00,12.68,full scoring
+1385,5,60.00,no,male,white,12.30,15.49,9.10,12.54,244.00,18.44,full scoring
+1387,5,55.00,no,female,white,0.96,2.06,0.28,1.38,436.00,15.41,full scoring
+1388,5,63.00,no,male,black or african american,13.56,14.49,9.29,10.77,323.00,3.53,full scoring
+1389,5,78.00,no,female,white,4.95,6.06,2.20,3.30,218.00,10.18,full scoring
+1390,5,64.00,no,male,white,17.60,21.60,10.24,16.32,375.00,25.60,full scoring
+1391,5,88.00,no,female,white,18.17,20.00,11.01,13.58,327.00,12.29,full scoring
+1395,5,56.00,no,female,hispanic,9.61,13.60,5.02,9.61,406.00,12.12,full scoring
+1403,5,78.00,no,female,hispanic,13.10,16.50,8.73,14.56,371.00,18.92,full scoring
+1404,5,76.00,no,female,black or african american,36.60,40.05,25.65,33.00,400.00,24.75,full scoring
+1405,5,55.00,no,male,white,16.44,19.45,10.27,14.38,438.00,16.58,full scoring
+1408,5,68.00,no,female,black or african american,4.80,6.24,2.56,4.16,375.00,15.84,full scoring
+1410,5,84.00,no,female,black or african american,17.21,17.54,11.31,13.28,366.00,20.00,full scoring
+1413,5,80.00,no,female,white,0.43,0.86,0.22,0.65,278.00,23.74,full scoring
+1418,5,86.00,no,male,white,29.14,35.14,20.91,29.31,350.00,27.43,full scoring
+1420,5,59.00,no,male,white,3.52,7.84,1.44,6.56,375.00,18.40,full scoring
+1427,5,83.00,no,male,hispanic,67.03,70.31,60.47,65.16,128.00,39.84,full scoring
+1430,5,88.00,no,male,black or african american,32.31,34.83,26.85,29.37,286.00,26.64,full scoring
+1431,5,74.00,no,female,white,3.13,13.16,0.63,11.28,383.00,22.25,full scoring
+1435,5,61.00,no,male,black or african american,5.84,15.58,3.90,15.19,154.00,33.51,full scoring
+1443,5,60.00,no,male,hispanic,2.70,3.06,1.44,2.16,333.00,11.53,full scoring
+1446,5,79.00,no,male,black or african american,3.18,5.68,1.59,4.77,264.00,26.14,full scoring
+1448,5,57.00,no,male,asian,28.92,31.81,22.65,26.51,249.00,20.72,full scoring
+1453,5,60.00,no,male,white,10.24,14.82,4.57,10.24,328.00,12.26,full scoring
+1458,5,62.00,no,female,white,,,,,,,unknown
+1459,5,89.00,no,female,white,13.51,17.48,7.21,12.97,333.00,18.74,full scoring
+1463,5,70.00,no,male,asian,5.20,11.00,4.20,10.60,300.00,17.60,full scoring
+1464,5,55.00,no,male,black or african american,48.65,50.68,40.95,44.46,444.00,21.35,full scoring
+1470,5,63.00,no,female,hispanic,1.39,2.24,0.85,1.81,563.00,6.29,full scoring
+1472,5,74.00,no,male,white,12.84,16.15,9.09,13.13,416.00,13.27,full scoring
+1474,5,70.00,no,female,black or african american,4.98,12.92,1.85,10.15,325.00,30.09,full scoring
+1476,5,68.00,no,female,white,10.68,12.00,6.25,7.73,365.00,8.71,full scoring
+1478,5,80.00,no,male,black or african american,17.30,22.96,11.79,18.67,392.00,23.72,full scoring
+1480,5,80.00,no,female,white,,,,,,,unknown
+1483,5,66.00,no,male,black or african american,16.28,20.11,10.85,16.60,188.00,13.72,full scoring
+1488,5,59.00,no,female,white,15.00,15.30,7.20,8.40,200.00,3.00,full scoring
+1492,5,70.00,no,male,white,12.00,14.55,7.09,10.73,330.00,16.00,full scoring
+1493,5,60.00,no,female,asian,52.70,58.17,39.92,46.77,263.00,35.13,full scoring
+1497,5,65.00,no,male,black or african american,65.06,67.03,60.70,63.79,427.00,47.07,full scoring
+1498,5,71.00,no,male,hispanic,0.84,3.03,0.00,2.36,356.00,18.03,full scoring
+1501,5,76.00,no,male,white,33.00,33.68,23.73,25.09,440.00,14.73,full scoring
+1502,5,81.00,no,male,asian,17.69,26.54,17.21,26.38,373.00,26.06,full scoring
+1510,5,75.00,no,male,white,14.24,15.93,10.34,13.56,354.00,15.76,full scoring
+1515,5,62.00,no,female,white,3.57,4.90,1.84,3.57,588.00,14.69,full scoring
+1516,5,60.00,no,male,black or african american,26.69,28.73,20.40,23.12,353.00,15.64,full scoring
+1520,5,74.00,no,male,hispanic,10.31,14.92,5.54,10.92,390.00,17.38,full scoring
+1523,5,57.00,no,female,black or african american,9.55,14.83,4.26,11.59,352.00,21.48,full scoring
+1527,5,69.00,no,female,asian,14.04,14.63,12.41,13.30,406.00,26.16,full scoring
+1528,5,60.00,no,male,black or african american,22.18,23.97,14.89,17.42,403.00,22.18,full scoring
+1529,5,71.00,no,male,asian,10.36,13.81,6.47,9.93,139.00,23.31,full scoring
+1531,5,71.00,no,female,hispanic,11.77,14.88,6.35,10.85,520.00,24.81,full scoring
+1535,5,83.00,no,female,white,,,,,,,unknown
+1539,5,75.00,no,male,hispanic,32.14,41.49,27.27,39.94,308.00,47.34,full scoring
+1541,5,67.00,no,male,asian,66.69,73.86,53.78,67.17,251.00,35.86,full scoring
+1542,5,63.00,no,male,black or african american,4.86,7.29,2.43,5.34,247.00,21.38,full scoring
+1546,5,69.00,no,female,hispanic,17.69,19.67,10.61,13.58,424.00,18.68,full scoring
+1548,5,77.00,no,male,asian,,,,,,,unknown
+1552,5,73.00,no,female,white,40.70,42.52,25.57,28.70,230.00,19.57,full scoring
+1562,5,57.00,no,male,hispanic,41.82,50.41,25.62,40.33,363.00,35.70,full scoring
+1563,5,65.00,no,female,hispanic,16.13,18.21,11.45,13.87,346.00,10.75,full scoring
+1564,5,62.00,no,male,white,,,,,,,unknown
+1569,5,59.00,no,male,white,14.13,15.46,10.14,12.30,361.00,29.58,full scoring
+1570,5,55.00,no,female,white,4.42,4.66,2.03,2.39,502.00,7.05,full scoring
+1571,5,80.00,no,female,hispanic,16.10,23.56,9.51,19.17,410.00,27.22,full scoring
+1572,5,62.00,no,female,white,,,,,,,unknown
+1573,5,69.00,no,female,black or african american,16.38,18.29,6.10,8.76,315.00,10.86,full scoring
+1577,5,76.00,no,female,black or african american,3.96,6.86,1.71,4.88,455.00,15.30,full scoring
+1584,5,68.00,no,male,white,16.51,20.18,13.03,18.35,327.00,26.61,full scoring
+1588,5,57.00,no,male,black or african american,,,,,,,unknown
+1589,5,71.00,no,female,hispanic,31.26,32.84,25.42,27.16,380.00,9.95,full scoring
+1590,5,67.00,no,male,black or african american,16.77,18.80,12.14,14.46,415.00,11.71,full scoring
+1591,5,62.00,no,female,white,3.64,9.97,1.90,8.71,379.00,22.32,full scoring
+1595,5,80.00,no,male,white,30.45,30.90,26.12,26.87,402.00,11.04,full scoring
+1604,5,86.00,no,male,hispanic,103.48,103.67,101.31,101.70,305.00,55.28,full scoring
+1607,5,83.00,no,male,white,8.43,14.33,4.72,11.63,356.00,21.91,full scoring
+1608,5,58.00,no,female,black or african american,15.69,19.04,7.77,12.79,394.00,24.37,full scoring
+1612,5,79.00,no,male,white,2.19,4.21,1.18,3.71,356.00,12.30,full scoring
+1613,5,66.00,no,female,white,35.79,37.13,25.69,28.96,404.00,19.46,full scoring
+1615,5,81.00,no,female,asian,9.34,14.00,5.08,10.71,437.00,15.65,full scoring
+1616,5,57.00,no,male,hispanic,12.08,15.48,7.00,13.14,283.00,16.33,full scoring
+1619,5,86.00,no,female,white,19.56,22.21,14.75,17.90,362.00,29.67,full scoring
+1620,5,55.00,no,female,asian,4.76,6.59,4.02,5.85,328.00,10.79,full scoring
+1621,5,86.00,no,female,white,,,,,,,unknown
+1623,5,81.00,no,female,white,13.06,16.08,8.18,11.91,418.00,8.61,full scoring
+1626,5,63.00,no,female,black or african american,22.85,27.01,13.56,21.87,491.00,26.40,full scoring
+1629,5,78.00,no,male,white,,,,,,,unknown
+1634,5,57.00,no,male,hispanic,28.00,31.43,16.76,22.10,315.00,17.71,full scoring
+1637,5,64.00,no,female,hispanic,15.55,20.93,12.16,17.54,301.00,17.34,full scoring
+1640,5,68.00,no,male,white,24.00,41.57,15.13,37.74,345.00,46.43,full scoring
+1641,5,62.00,no,female,hispanic,6.57,6.57,3.37,3.37,338.00,,sleep/wake only
+1644,5,75.00,no,female,black or african american,13.60,16.05,9.77,13.08,344.00,29.65,full scoring
+1647,5,67.00,no,male,asian,5.35,6.60,3.11,4.73,482.00,11.95,full scoring
+1650,5,72.00,no,male,hispanic,74.26,85.11,66.38,83.62,282.00,74.04,full scoring
+1655,5,69.00,no,male,white,36.87,50.47,23.41,43.88,428.00,50.89,full scoring
+1656,5,71.00,no,male,hispanic,46.12,53.72,40.99,50.91,363.00,53.39,full scoring
+1659,5,56.00,no,male,black or african american,63.36,63.36,53.55,53.55,214.00,,sleep/wake only
+1661,5,55.00,no,male,hispanic,20.54,30.27,14.59,25.14,222.00,21.08,full scoring
+1662,5,72.00,no,female,black or african american,,,,,,,unknown
+1670,5,57.00,no,female,hispanic,0.51,1.89,0.17,1.71,350.00,16.46,full scoring
+1672,5,79.00,no,female,white,10.27,13.37,4.73,8.80,368.00,24.46,full scoring
+1673,5,69.00,no,female,white,15.41,20.32,12.27,18.41,440.00,12.82,full scoring
+1677,5,61.00,no,female,asian,6.35,8.65,3.27,6.54,312.00,15.58,full scoring
+1680,5,87.00,no,male,white,68.80,69.42,66.91,69.11,191.00,50.58,full scoring
+1682,5,59.00,no,male,asian,33.00,39.75,20.25,29.63,160.00,36.75,full scoring
+1684,5,84.00,no,female,black or african american,2.86,3.16,1.65,1.95,399.00,14.59,full scoring
+1686,5,78.00,no,male,white,35.56,45.27,22.87,35.87,383.00,46.53,full scoring
+1688,5,83.00,no,male,white,,,,,,,unknown
+1691,5,57.00,no,female,hispanic,30.09,32.94,16.74,20.47,337.00,,sleep/wake only
+1693,5,78.00,no,male,black or african american,26.18,29.73,16.91,22.50,440.00,27.55,full scoring
+1694,5,66.00,no,female,asian,4.90,6.08,3.55,5.75,355.00,17.41,full scoring
+1698,5,68.00,no,male,asian,11.12,13.80,8.43,12.27,313.00,14.76,full scoring
+1700,5,76.00,no,male,hispanic,48.18,55.27,35.64,50.18,330.00,42.91,full scoring
+1703,5,90.00,yes,male,asian,1.19,1.59,1.19,1.59,302.00,6.16,full scoring
+1704,5,60.00,no,male,black or african american,19.74,22.26,13.16,16.84,310.00,15.10,full scoring
+1705,5,68.00,no,female,black or african american,8.47,11.29,4.59,7.76,170.00,14.12,full scoring
+1707,5,61.00,no,male,black or african american,14.29,18.61,10.57,16.38,403.00,16.82,full scoring
+1708,5,76.00,no,female,black or african american,6.59,8.67,3.64,6.59,346.00,14.39,full scoring
+1713,5,67.00,no,female,asian,11.86,21.06,8.32,18.41,339.00,34.51,full scoring
+1716,5,57.00,no,male,hispanic,26.15,27.08,21.23,22.46,195.00,10.77,full scoring
+1717,5,60.00,no,female,white,3.56,5.28,1.23,3.68,489.00,9.20,full scoring
+1731,5,63.00,no,female,hispanic,6.37,8.44,4.00,6.81,405.00,12.74,full scoring
+1732,5,59.00,no,female,hispanic,5.92,5.92,3.23,3.36,446.00,6.32,full scoring
+1733,5,57.00,no,female,black or african american,7.96,10.17,3.39,6.19,407.00,13.56,full scoring
+1735,5,57.00,no,male,asian,13.81,15.89,12.33,15.15,404.00,20.35,full scoring
+1738,5,80.00,no,female,hispanic,42.48,53.36,27.35,44.87,226.00,48.32,full scoring
+1742,5,88.00,no,male,black or african american,3.28,4.28,1.14,2.42,421.00,10.12,full scoring
+1743,5,62.00,no,female,white,,,,,,,unknown
+1744,5,54.00,no,female,white,45.16,53.71,31.77,44.19,372.00,32.10,full scoring
+1752,5,89.00,no,female,black or african american,8.45,10.38,4.75,7.21,341.00,17.77,full scoring
+1756,5,66.00,no,female,white,42.61,45.18,32.78,37.20,421.00,18.38,full scoring
+1757,5,56.00,no,female,white,9.25,14.48,4.87,10.71,493.00,13.02,full scoring
+1758,5,67.00,no,female,hispanic,30.55,30.55,25.05,25.05,273.00,,sleep/wake only
+1759,5,74.00,no,male,hispanic,34.68,44.68,29.35,43.23,372.00,63.39,full scoring
+1760,5,81.00,no,female,asian,5.01,9.40,3.29,8.62,383.00,22.25,full scoring
+1764,5,61.00,no,male,asian,45.00,52.88,33.81,45.00,236.00,36.36,full scoring
+1766,5,75.00,no,female,black or african american,0.77,1.54,0.15,1.08,390.00,13.54,full scoring
+1768,5,75.00,no,male,white,82.54,85.98,72.92,79.52,418.00,50.10,full scoring
+1769,5,56.00,no,female,hispanic,21.33,21.47,15.96,16.65,436.00,15.14,full scoring
+1772,5,66.00,no,female,white,0.76,2.74,0.30,2.28,394.00,15.23,full scoring
+1778,5,73.00,no,male,black or african american,0.92,2.75,0.92,2.75,131.00,14.66,full scoring
+1781,5,73.00,no,male,hispanic,9.57,11.17,4.15,7.18,376.00,21.70,full scoring
+1783,5,78.00,no,male,black or african american,8.02,8.69,6.01,6.68,449.00,10.02,full scoring
+1789,5,55.00,no,female,hispanic,2.92,4.58,1.94,4.17,432.00,22.08,full scoring
+1790,5,55.00,no,male,black or african american,68.23,68.96,60.73,62.56,328.00,37.68,full scoring
+1795,5,60.00,no,female,black or african american,22.94,25.51,13.16,17.01,374.00,23.26,full scoring
+1797,5,68.00,no,female,black or african american,38.16,40.37,24.14,28.85,599.00,27.35,full scoring
+1801,5,83.00,no,male,white,38.48,48.94,32.29,46.58,407.00,42.60,full scoring
+1803,5,75.00,no,female,black or african american,9.26,9.94,7.20,8.23,175.00,24.69,full scoring
+1805,5,73.00,no,male,white,37.26,47.18,24.79,41.71,351.00,46.50,full scoring
+1807,5,61.00,no,female,black or african american,,,,,,,unknown
+1809,5,85.00,no,male,white,13.71,22.26,7.66,19.41,337.00,39.70,full scoring
+1811,5,80.00,no,male,black or african american,6.90,14.05,1.90,11.67,252.00,20.95,full scoring
+1821,5,82.00,no,male,black or african american,19.60,22.01,9.95,13.72,398.00,19.15,full scoring
+1833,5,70.00,no,female,asian,29.92,33.74,20.61,27.59,361.00,26.26,full scoring
+1838,5,72.00,no,male,black or african american,47.24,47.73,46.41,46.91,362.00,18.07,full scoring
+1842,5,58.00,no,male,black or african american,1.73,5.19,0.69,4.32,347.00,22.82,full scoring
+1844,5,80.00,no,female,hispanic,37.06,51.62,21.47,44.12,408.00,44.71,full scoring
+1847,5,78.00,no,female,white,8.15,10.81,3.56,6.52,405.00,8.74,full scoring
+1850,5,71.00,no,male,black or african american,1.89,5.66,1.62,5.39,445.00,20.90,full scoring
+1853,5,57.00,no,female,black or african american,,,,,,,unknown
+1856,5,63.00,no,female,white,6.51,10.97,2.23,9.09,350.00,14.06,full scoring
+1859,5,76.00,no,female,black or african american,6.02,7.41,4.17,6.02,518.00,22.59,full scoring
+1862,5,69.00,no,male,black or african american,22.88,28.70,12.64,22.07,299.00,37.73,full scoring
+1863,5,72.00,no,male,asian,50.30,52.60,42.25,46.85,365.00,29.59,full scoring
+1866,5,57.00,no,male,black or african american,0.63,4.20,0.00,3.57,286.00,14.48,full scoring
+1874,5,84.00,no,male,hispanic,10.59,19.09,7.06,17.17,374.00,22.94,full scoring
+1876,5,76.00,no,female,hispanic,4.52,8.39,3.06,7.58,372.00,21.13,full scoring
+1878,5,88.00,no,female,black or african american,22.63,23.20,17.33,18.33,419.00,9.74,full scoring
+1879,5,63.00,no,female,hispanic,56.40,58.80,40.65,45.45,400.00,17.55,full scoring
+1882,5,86.00,no,male,hispanic,15.83,20.17,10.61,17.57,345.00,48.17,full scoring
+1884,5,71.00,no,female,black or african american,1.07,2.13,0.36,1.78,506.00,19.92,full scoring
+1887,5,71.00,no,female,asian,8.39,10.73,4.82,7.46,386.00,12.59,full scoring
+1890,5,81.00,no,female,white,10.82,19.34,6.56,15.74,183.00,33.11,full scoring
+1891,5,74.00,no,male,hispanic,51.43,51.43,48.72,48.72,133.00,,sleep/wake only
+1892,5,65.00,no,male,white,55.40,66.31,42.78,57.61,352.00,42.27,full scoring
+1900,5,66.00,no,male,asian,62.20,62.51,57.80,58.74,191.00,33.93,full scoring
+1901,5,77.00,no,male,white,11.78,19.38,6.67,15.81,387.00,21.86,full scoring
+1906,5,57.00,no,male,asian,33.95,36.47,23.53,27.32,380.00,18.79,full scoring
+1907,5,63.00,no,female,white,18.86,24.30,12.41,20.38,474.00,24.18,full scoring
+1912,5,80.00,no,male,asian,7.02,8.38,6.11,7.70,265.00,13.13,full scoring
+1913,5,57.00,no,female,hispanic,51.43,52.55,48.62,50.44,427.00,30.35,full scoring
+1914,5,57.00,no,male,white,73.29,76.03,52.18,60.98,307.00,42.61,full scoring
+1917,5,69.00,no,female,white,11.16,13.80,6.67,9.77,387.00,16.12,full scoring
+1921,5,73.00,no,male,asian,24.00,24.72,19.34,20.06,335.00,11.82,full scoring
+1922,5,90.00,yes,male,hispanic,,,,,,,unknown
+1924,5,86.00,no,male,white,13.08,17.82,10.14,15.37,367.00,13.90,full scoring
+1927,5,73.00,no,female,asian,7.88,8.16,5.16,6.01,419.00,13.75,full scoring
+1940,5,68.00,no,male,hispanic,8.83,12.55,5.10,10.07,435.00,24.83,full scoring
+1950,5,87.00,no,male,white,,,,,,,unknown
+1951,5,80.00,no,female,hispanic,14.31,14.89,12.72,13.73,415.00,16.77,full scoring
+1957,5,64.00,no,female,white,5.79,7.92,3.40,5.91,477.00,13.71,full scoring
+1959,5,71.00,no,female,black or african american,10.46,13.54,6.86,10.97,350.00,19.71,full scoring
+1964,5,68.00,no,male,black or african american,5.56,8.01,0.65,3.76,367.00,12.59,full scoring
+1973,5,70.00,no,female,black or african american,16.83,19.00,8.50,10.83,360.00,6.17,full scoring
+1980,5,87.00,no,male,white,5.78,8.50,3.05,6.26,374.00,16.20,full scoring
+1981,5,84.00,no,female,black or african american,15.32,18.65,8.49,14.58,325.00,17.54,full scoring
+1982,5,77.00,no,male,black or african american,27.55,30.00,19.18,22.93,416.00,,sleep/wake only
+1983,5,67.00,no,female,white,59.39,62.45,45.31,51.12,392.00,22.65,full scoring
+1986,5,68.00,no,male,asian,14.74,17.14,9.43,13.71,350.00,24.34,full scoring
+1989,5,81.00,no,male,white,31.60,33.85,25.83,28.72,374.00,22.30,full scoring
+1995,5,75.00,no,female,black or african american,8.47,12.07,5.41,10.09,333.00,20.36,full scoring
+1997,5,71.00,no,male,asian,30.83,45.06,19.68,37.71,253.00,41.50,full scoring
+1998,5,67.00,no,male,white,29.35,32.86,19.75,24.92,325.00,21.78,full scoring
+1999,5,75.00,no,male,black or african american,,,,,,,unknown
+2003,5,56.00,no,male,black or african american,23.30,25.36,12.99,16.49,291.00,13.81,full scoring
+2019,5,56.00,no,female,hispanic,3.20,6.83,1.89,6.25,413.00,21.79,full scoring
+2021,5,73.00,no,male,asian,,,,,,,unknown
+2024,5,87.00,no,male,hispanic,2.52,5.05,1.68,4.63,428.00,8.69,full scoring
+2030,5,85.00,no,male,black or african american,4.90,19.77,2.54,18.76,355.00,40.56,full scoring
+2035,5,82.00,no,male,white,15.25,16.75,10.25,13.00,240.00,15.75,full scoring
+2037,5,68.00,no,female,white,13.77,16.62,10.13,13.38,462.00,12.21,full scoring
+2039,5,75.00,no,male,hispanic,32.47,34.94,16.71,20.13,316.00,9.68,full scoring
+2040,5,81.00,no,male,white,15.81,22.63,9.34,18.68,334.00,18.68,full scoring
+2042,5,79.00,no,male,black or african american,2.58,6.88,0.69,5.33,349.00,21.32,full scoring
+2043,5,63.00,no,male,white,14.37,23.57,5.68,19.39,359.00,41.62,full scoring
+2048,5,77.00,no,male,hispanic,,,,,,,unknown
+2049,5,59.00,no,male,asian,1.53,2.20,1.19,1.86,354.00,6.95,full scoring
+2050,5,77.00,no,male,white,54.42,57.69,49.04,54.42,312.00,32.50,full scoring
+2055,5,78.00,no,female,white,3.81,11.59,0.95,9.52,378.00,35.87,full scoring
+2066,5,80.00,no,male,black or african american,0.66,0.88,0.44,0.66,273.00,6.59,full scoring
+2067,5,82.00,no,female,white,22.71,27.44,9.32,16.81,457.00,,sleep/wake only
+2071,5,75.00,no,male,white,,,,,,,unknown
+2074,5,69.00,no,male,white,,,,,,,unknown
+2083,5,75.00,no,male,white,24.28,31.38,15.59,26.25,304.00,49.93,full scoring
+2084,5,79.00,no,female,white,9.66,10.34,6.44,7.80,354.00,12.37,full scoring
+2087,5,76.00,no,male,black or african american,12.76,15.35,5.20,10.16,254.00,24.80,full scoring
+2094,5,70.00,no,female,black or african american,0.78,1.36,0.19,0.78,308.00,17.53,full scoring
+2096,5,59.00,no,male,white,35.49,49.01,14.37,34.23,426.00,40.00,full scoring
+2100,5,76.00,no,female,black or african american,17.94,21.86,10.25,17.64,398.00,41.61,full scoring
+2104,5,80.00,no,female,hispanic,64.26,67.45,56.38,60.85,282.00,26.60,full scoring
+2105,5,76.00,no,female,black or african american,38.32,39.50,29.58,31.43,357.00,12.44,full scoring
+2106,5,67.00,no,female,black or african american,61.01,61.85,57.13,58.82,356.00,28.82,full scoring
+2109,5,58.00,no,male,asian,44.16,47.28,34.32,39.36,250.00,24.48,full scoring
+2113,5,82.00,no,male,white,,,,,,,unknown
+2114,5,76.00,no,male,black or african american,6.98,8.14,2.99,5.32,361.00,9.31,full scoring
+2118,5,56.00,no,female,black or african american,110.33,111.33,93.55,96.54,422.00,30.43,full scoring
+2119,5,82.00,no,female,asian,3.03,5.19,0.87,3.75,416.00,10.38,full scoring
+2123,5,57.00,no,female,white,6.80,7.41,2.72,3.93,397.00,15.42,full scoring
+2126,5,59.00,no,male,white,71.37,77.12,61.44,70.79,417.00,45.47,full scoring
+2127,5,70.00,no,female,white,35.40,36.15,28.88,30.75,322.00,19.94,full scoring
+2129,5,78.00,no,female,black or african american,36.20,47.93,22.46,38.88,179.00,51.96,full scoring
+2133,5,58.00,no,male,black or african american,52.11,54.08,49.74,52.11,152.00,23.68,full scoring
+2139,5,61.00,no,male,white,27.01,30.28,21.04,25.17,422.00,31.00,full scoring
+2143,5,77.00,no,male,hispanic,12.86,19.39,7.55,16.12,294.00,22.65,full scoring
+2144,5,78.00,no,female,black or african american,,,,,,,unknown
+2145,5,58.00,no,female,hispanic,78.33,81.04,66.46,70.83,288.00,22.50,full scoring
+2147,5,62.00,no,male,asian,18.01,22.92,10.88,17.54,513.00,18.71,full scoring
+2149,5,81.00,no,male,white,19.65,20.07,15.21,16.69,284.00,16.69,full scoring
+2150,5,70.00,no,female,hispanic,12.26,14.03,8.71,11.13,372.00,13.06,full scoring
+2163,5,79.00,no,female,white,7.99,9.24,3.60,5.95,383.00,17.86,full scoring
+2165,5,79.00,no,female,black or african american,26.10,26.88,18.31,20.84,308.00,25.52,full scoring
+2167,5,72.00,no,male,white,30.22,34.52,19.85,26.22,405.00,28.15,full scoring
+2169,5,58.00,no,male,white,3.69,5.08,2.92,4.46,390.00,11.23,full scoring
+2170,5,70.00,no,female,hispanic,19.09,20.64,13.12,15.03,503.00,10.14,full scoring
+2172,5,81.00,no,female,white,12.61,23.87,6.72,20.34,357.00,29.58,full scoring
+2173,5,58.00,no,female,black or african american,20.91,24.77,14.09,20.45,264.00,30.00,full scoring
+2175,5,68.00,no,female,asian,3.55,4.90,1.96,3.92,490.00,11.76,full scoring
+2177,5,81.00,no,female,hispanic,,,,,,,unknown
+2183,5,68.00,no,female,black or african american,10.40,16.58,5.48,12.65,427.00,13.07,full scoring
+2188,5,57.00,no,female,white,28.35,32.75,15.76,22.61,491.00,22.85,full scoring
+2191,5,85.00,no,female,hispanic,43.77,44.02,32.09,32.70,488.00,4.43,full scoring
+2192,5,68.00,no,female,white,1.18,4.90,0.39,4.12,306.00,16.08,full scoring
+2193,5,76.00,no,male,white,39.47,55.79,27.54,52.81,342.00,97.72,full scoring
+2204,5,87.00,no,female,black or african american,27.77,29.08,20.04,22.27,458.00,12.31,full scoring
+2206,5,80.00,no,male,black or african american,2.69,2.88,1.35,1.54,312.00,11.15,full scoring
+2208,5,62.00,no,male,black or african american,75.53,75.53,61.52,61.52,394.00,,sleep/wake only
+2212,5,59.00,no,male,white,13.42,19.58,5.05,14.84,380.00,28.89,full scoring
+2214,5,75.00,no,male,white,6.73,11.82,1.65,7.63,401.00,18.70,full scoring
+2215,5,78.00,no,male,hispanic,23.38,25.79,16.16,19.94,349.00,19.08,full scoring
+2216,5,65.00,no,male,black or african american,46.96,52.30,37.70,45.65,460.00,37.96,full scoring
+2217,5,76.00,no,male,hispanic,6.10,8.95,4.27,7.32,295.00,21.56,full scoring
+2218,5,73.00,no,female,white,72.06,73.51,64.21,66.83,413.00,25.71,full scoring
+2221,5,90.00,yes,male,black or african american,19.47,21.32,11.32,15.79,228.00,24.21,full scoring
+2227,5,75.00,no,female,white,4.23,8.18,1.90,6.72,411.00,13.58,full scoring
+2233,5,79.00,no,female,hispanic,18.40,22.40,13.40,20.00,300.00,28.80,full scoring
+2239,5,88.00,no,male,asian,62.82,64.31,61.82,63.48,362.00,38.45,full scoring
+2240,5,60.00,no,female,black or african american,,,,,,,unknown
+2243,5,55.00,no,male,hispanic,27.16,28.99,19.26,21.89,296.00,19.05,full scoring
+2246,5,67.00,no,male,hispanic,43.03,47.76,33.41,41.46,343.00,31.84,full scoring
+2251,5,72.00,no,male,white,31.28,40.34,15.38,30.09,351.00,33.33,full scoring
+2260,5,63.00,no,male,hispanic,28.64,31.06,25.18,28.64,398.00,21.71,full scoring
+2263,5,65.00,no,female,hispanic,19.40,26.27,10.75,20.30,201.00,17.31,full scoring
+2264,5,58.00,no,male,black or african american,40.75,43.43,28.21,34.03,268.00,32.01,full scoring
+2265,5,68.00,no,female,asian,6.50,7.90,4.46,6.11,471.00,15.29,full scoring
+2266,5,67.00,no,male,black or african american,6.75,8.34,4.37,6.49,453.00,15.63,full scoring
+2267,5,56.00,no,male,hispanic,25.02,28.51,17.68,23.65,482.00,42.45,full scoring
+2268,5,85.00,no,female,black or african american,11.68,12.22,6.47,7.54,334.00,8.80,full scoring
+2269,5,70.00,no,male,hispanic,12.84,20.44,7.07,16.24,229.00,17.82,full scoring
+2274,5,63.00,no,female,black or african american,4.44,5.93,3.52,5.00,324.00,15.37,full scoring
+2276,5,87.00,no,male,black or african american,23.48,27.15,20.77,24.98,442.00,21.72,full scoring
+2278,5,77.00,no,male,black or african american,,,,,,,unknown
+2279,5,63.00,no,female,asian,2.25,3.38,1.61,2.73,373.00,17.21,full scoring
+2280,5,63.00,no,male,hispanic,4.06,7.57,1.29,5.54,325.00,14.58,full scoring
+2282,5,77.00,no,female,white,,,,,,,unknown
+2289,5,79.00,no,female,hispanic,29.87,31.67,26.78,28.84,233.00,11.59,full scoring
+2291,5,58.00,no,male,hispanic,34.15,40.32,24.50,33.38,311.00,21.61,full scoring
+2292,5,67.00,no,female,asian,79.39,79.39,61.83,61.83,328.00,,sleep/wake only
+2297,5,78.00,no,female,black or african american,11.72,12.81,7.34,8.91,384.00,8.91,full scoring
+2299,5,74.00,no,male,hispanic,45.18,46.41,26.65,28.76,340.00,7.76,full scoring
+2300,5,57.00,no,female,black or african american,0.17,1.17,0.00,1.00,359.00,23.57,full scoring
+2303,5,86.00,no,male,white,11.83,17.04,8.35,14.61,345.00,16.00,full scoring
+2305,5,60.00,no,male,white,31.54,33.79,24.57,28.46,293.00,17.61,full scoring
+2308,5,73.00,no,male,white,24.46,29.92,13.06,21.16,363.00,24.63,full scoring
+2309,5,62.00,no,male,asian,24.58,31.08,21.69,30.36,332.00,40.66,full scoring
+2311,5,78.00,no,female,white,33.11,36.72,22.30,29.51,366.00,36.56,full scoring
+2314,5,57.00,no,female,white,9.59,13.61,8.20,12.68,388.00,19.48,full scoring
+2317,5,82.00,no,female,hispanic,36.64,39.03,27.61,30.80,226.00,10.62,full scoring
+2325,5,63.00,no,female,black or african american,8.98,10.68,5.80,8.64,528.00,12.84,full scoring
+2328,5,56.00,no,female,black or african american,18.09,22.52,15.14,20.31,325.00,20.68,full scoring
+2331,5,71.00,no,male,black or african american,,,,,,,unknown
+2333,5,81.00,no,male,white,,,,,,,unknown
+2337,5,61.00,no,female,black or african american,4.26,11.91,1.49,9.79,282.00,16.38,full scoring
+2339,5,64.00,no,female,hispanic,28.04,29.64,19.47,22.08,413.00,11.19,full scoring
+2344,5,63.00,no,male,white,,,,,,,unknown
+2345,5,79.00,no,male,black or african american,5.45,14.44,3.53,12.99,374.00,29.36,full scoring
+2349,5,74.00,no,male,black or african american,35.89,40.12,24.46,32.02,341.00,30.79,full scoring
+2362,5,75.00,no,female,hispanic,7.69,8.79,5.71,7.47,273.00,18.24,full scoring
+2363,5,67.00,no,female,hispanic,36.89,40.33,30.00,35.41,366.00,17.87,full scoring
+2368,5,57.00,no,male,asian,7.12,12.61,2.10,8.73,371.00,22.96,full scoring
+2370,5,59.00,no,female,white,,,,,,,unknown
+2371,5,79.00,no,female,black or african american,,,,,,,unknown
+2372,5,56.00,no,male,white,23.17,24.76,17.30,19.84,378.00,15.08,full scoring
+2374,5,59.00,no,female,hispanic,18.76,25.77,12.58,21.34,582.00,24.95,full scoring
+2375,5,75.00,no,female,asian,65.26,68.38,59.61,64.29,308.00,32.53,full scoring
+2376,5,60.00,no,male,black or african american,49.74,52.64,37.25,44.16,269.00,28.77,full scoring
+2377,5,62.00,no,female,asian,2.66,6.65,0.66,5.48,361.00,16.95,full scoring
+2386,5,77.00,no,female,black or african american,,,,,,,unknown
+2388,5,63.00,no,female,white,4.84,5.28,2.64,3.23,409.00,7.04,full scoring
+2392,5,61.00,no,female,white,,,,,,,unknown
+2394,5,77.00,no,female,white,11.62,17.87,7.28,14.55,470.00,18.77,full scoring
+2397,5,59.00,no,female,hispanic,17.66,20.09,9.71,13.48,445.00,16.04,full scoring
+2400,5,69.00,no,male,black or african american,24.48,28.56,18.96,23.76,250.00,18.72,full scoring
+2408,5,62.00,no,male,black or african american,68.70,72.75,56.81,63.91,414.00,48.55,full scoring
+2410,5,63.00,no,male,white,,,,,,,unknown
+2413,5,57.00,no,female,black or african american,2.84,5.69,0.41,3.79,443.00,15.71,full scoring
+2414,5,70.00,no,female,white,10.77,16.08,5.03,11.75,429.00,26.01,full scoring
+2416,5,71.00,no,male,asian,24.09,28.03,17.52,24.09,137.00,38.54,full scoring
+2421,5,75.00,no,male,white,36.17,38.08,30.06,32.69,501.00,17.84,full scoring
+2429,5,76.00,no,female,hispanic,17.89,27.07,8.07,21.21,379.00,47.34,full scoring
+2433,5,82.00,no,female,white,,,,,,,unknown
+2434,5,83.00,no,female,white,19.85,21.67,5.91,9.39,396.00,12.73,full scoring
+2441,5,79.00,no,female,hispanic,22.01,28.02,12.38,22.35,349.00,28.19,full scoring
+2443,5,74.00,no,female,asian,16.09,20.43,7.40,14.64,373.00,21.55,full scoring
+2447,5,61.00,no,male,hispanic,,,,,,,unknown
+2451,5,67.00,no,female,hispanic,24.67,29.09,14.62,21.93,394.00,21.32,full scoring
+2452,5,85.00,no,male,white,9.16,23.34,2.59,20.23,347.00,33.72,full scoring
+2455,5,68.00,no,male,hispanic,63.68,67.06,52.35,57.65,408.00,24.26,full scoring
+2459,5,57.00,no,female,hispanic,2.88,12.23,1.29,11.37,417.00,20.00,full scoring
+2463,5,55.00,no,female,white,6.81,9.53,2.50,6.58,529.00,14.63,full scoring
+2464,5,76.00,no,male,black or african american,31.17,33.52,21.79,25.64,358.00,22.29,full scoring
+2467,5,75.00,no,male,black or african american,54.06,54.98,47.74,50.53,323.00,48.30,full scoring
+2468,5,70.00,no,male,white,20.35,23.19,10.80,14.69,339.00,15.40,full scoring
+2470,5,59.00,no,female,hispanic,7.34,7.66,4.06,4.84,384.00,14.38,full scoring
+2472,5,73.00,no,male,hispanic,7.47,16.53,3.33,13.60,450.00,37.87,full scoring
+2473,5,64.00,no,female,hispanic,0.98,5.69,0.98,5.69,369.00,29.76,full scoring
+2474,5,72.00,no,male,white,32.50,39.58,18.33,30.83,288.00,42.08,full scoring
+2484,5,63.00,no,female,hispanic,5.42,9.86,1.81,6.90,365.00,11.34,full scoring
+2487,5,57.00,no,male,white,10.78,19.08,4.66,16.31,412.00,30.44,full scoring
+2488,5,70.00,no,female,black or african american,3.01,9.22,0.56,7.34,319.00,24.64,full scoring
+2494,5,79.00,no,male,black or african american,62.16,63.36,60.48,61.92,250.00,51.36,full scoring
+2496,5,59.00,no,male,white,7.98,13.30,2.99,10.14,361.00,32.24,full scoring
+2499,5,65.00,no,male,white,,,,,,,unknown
+2504,5,78.00,no,male,hispanic,19.30,20.00,12.82,14.37,426.00,9.58,full scoring
+2507,5,68.00,no,male,white,23.20,25.76,17.76,22.72,375.00,20.48,full scoring
+2509,5,86.00,no,male,white,21.54,24.40,14.29,20.00,273.00,28.35,full scoring
+2510,5,67.00,no,female,white,9.94,12.11,5.24,8.49,332.00,12.65,full scoring
+2513,5,62.00,no,female,asian,13.94,19.24,6.97,14.70,396.00,20.45,full scoring
+2519,5,75.00,no,female,black or african american,10.24,12.15,4.68,7.76,410.00,8.78,full scoring
+2523,5,84.00,no,male,white,31.49,43.91,24.83,41.38,261.00,53.33,full scoring
+2527,5,76.00,no,female,black or african american,32.15,34.31,18.77,22.31,390.00,15.23,full scoring
+2531,5,64.00,no,male,asian,,,,,,,unknown
+2533,5,78.00,no,male,white,23.82,33.23,13.29,27.32,325.00,34.15,full scoring
+2537,5,82.00,no,male,black or african american,76.36,76.36,67.09,67.09,330.00,,sleep/wake only
+2538,5,85.00,no,female,white,28.67,40.49,15.52,33.10,406.00,39.46,full scoring
+2539,5,70.00,no,female,hispanic,31.74,38.04,19.55,29.20,448.00,27.32,full scoring
+2544,5,63.00,no,female,black or african american,,,,,,,unknown
+2548,5,58.00,no,female,black or african american,14.85,16.18,11.18,13.38,408.00,18.68,full scoring
+2549,5,60.00,no,female,hispanic,1.13,1.93,0.32,1.29,373.00,9.33,full scoring
+2551,5,62.00,no,female,asian,10.00,11.59,8.84,11.01,414.00,24.20,full scoring
+2556,5,67.00,no,male,black or african american,7.20,11.04,2.16,7.68,250.00,17.52,full scoring
+2565,5,75.00,no,male,white,,,,,,,unknown
+2567,5,78.00,no,female,black or african american,2.29,5.83,0.83,5.21,288.00,26.67,full scoring
+2572,5,61.00,no,female,hispanic,31.40,41.51,20.00,34.19,279.00,36.99,full scoring
+2573,5,65.00,no,female,asian,25.92,29.00,20.48,24.29,331.00,19.58,full scoring
+2574,5,79.00,no,male,white,30.83,34.84,19.63,26.27,434.00,21.71,full scoring
+2581,5,63.00,no,female,white,3.28,3.92,1.14,2.15,475.00,7.83,full scoring
+2582,5,78.00,no,male,white,0.93,1.86,0.37,1.49,323.00,11.33,full scoring
+2590,5,60.00,no,male,black or african american,50.25,51.78,43.55,46.60,197.00,28.32,full scoring
+2593,5,66.00,no,female,white,20.87,21.88,13.77,15.22,414.00,9.13,full scoring
+2598,5,76.00,no,female,asian,17.37,21.63,10.26,17.05,380.00,24.32,full scoring
+2602,5,71.00,no,female,hispanic,2.38,5.35,1.19,4.55,303.00,14.26,full scoring
+2603,5,59.00,no,female,white,8.65,11.49,4.40,8.37,423.00,28.94,full scoring
+2604,5,67.00,no,female,hispanic,3.89,11.68,1.78,10.70,370.00,27.41,full scoring
+2608,5,79.00,no,female,hispanic,17.98,19.95,13.24,15.69,367.00,9.65,full scoring
+2613,5,75.00,no,male,hispanic,10.19,16.60,6.74,14.79,365.00,33.04,full scoring
+2614,5,68.00,no,female,asian,19.43,21.39,9.65,12.13,460.00,11.74,full scoring
+2615,5,72.00,no,female,black or african american,6.13,6.55,3.59,4.44,284.00,5.49,full scoring
+2616,5,78.00,no,female,black or african american,3.84,9.70,1.83,8.05,328.00,15.37,full scoring
+2626,5,77.00,no,male,black or african american,78.82,85.36,64.64,79.91,220.00,60.82,full scoring
+2628,5,65.00,no,female,black or african american,,,,,,,unknown
+2632,5,90.00,yes,female,black or african american,0.80,1.60,0.50,1.30,601.00,8.69,full scoring
+2634,5,67.00,no,female,white,0.78,1.30,0.00,0.52,460.00,5.87,full scoring
+2636,5,68.00,no,male,black or african american,17.74,25.57,14.78,22.96,345.00,17.39,full scoring
+2638,5,65.00,no,male,white,3.88,4.57,1.94,3.05,433.00,6.24,full scoring
+2639,5,72.00,no,female,black or african american,3.41,5.53,1.63,4.55,369.00,20.16,full scoring
+2648,5,64.00,no,female,white,16.33,28.27,7.70,22.96,452.00,43.01,full scoring
+2650,5,67.00,no,female,hispanic,0.91,14.00,0.52,13.87,463.00,21.51,full scoring
+2651,5,71.00,no,male,white,49.35,56.79,38.03,49.52,355.00,42.08,full scoring
+2655,5,56.00,no,female,black or african american,44.34,48.68,36.23,43.96,318.00,31.70,full scoring
+2659,5,66.00,no,female,hispanic,3.38,4.32,2.16,3.11,444.00,12.03,full scoring
+2660,5,59.00,no,male,white,14.04,16.38,9.36,12.13,282.00,12.34,full scoring
+2665,5,90.00,yes,male,white,19.88,20.81,11.21,12.72,519.00,15.03,full scoring
+2668,5,68.00,no,male,hispanic,42.22,42.59,31.11,31.48,162.00,,sleep/wake only
+2670,5,71.00,no,male,black or african american,1.71,2.49,0.94,1.71,385.00,7.17,full scoring
+2676,5,57.00,no,male,white,1.17,4.02,0.34,3.52,358.00,20.45,full scoring
+2677,5,70.00,no,male,hispanic,2.24,4.48,1.55,3.79,348.00,21.90,full scoring
+2680,5,61.00,no,female,white,14.41,16.36,9.37,12.03,429.00,14.83,full scoring
+2681,5,57.00,no,female,hispanic,0.29,5.56,0.29,5.56,410.00,21.51,full scoring
+2685,5,68.00,no,female,black or african american,17.09,18.97,11.70,14.80,446.00,17.49,full scoring
+2687,5,63.00,no,female,white,10.86,17.46,6.08,14.48,464.00,29.22,full scoring
+2688,5,58.00,no,male,asian,30.58,39.17,21.16,32.56,363.00,30.25,full scoring
+2690,5,75.00,no,female,black or african american,,,,,,,unknown
+2694,5,80.00,no,female,hispanic,8.68,11.77,6.37,10.61,311.00,47.65,full scoring
+2696,5,75.00,no,female,black or african american,2.23,3.26,0.17,1.71,350.00,16.80,full scoring
+2700,5,70.00,no,male,hispanic,,,,,,,unknown
+2701,5,59.00,no,female,white,18.73,20.56,11.97,15.92,426.00,20.42,full scoring
+2705,5,80.00,no,male,hispanic,14.45,16.20,9.64,13.80,274.00,23.87,full scoring
+2707,5,84.00,no,male,hispanic,,,,,,,unknown
+2709,5,81.00,no,female,black or african american,15.67,18.03,13.15,15.51,356.00,6.91,full scoring
+2711,5,64.00,no,female,white,3.84,15.35,1.23,14.12,391.00,23.32,full scoring
+2714,5,77.00,no,male,hispanic,21.19,24.76,13.85,19.09,286.00,19.30,full scoring
+2715,5,87.00,no,male,hispanic,12.94,16.81,8.07,12.77,357.00,19.50,full scoring
+2722,5,74.00,no,male,white,22.43,31.12,9.81,20.33,428.00,32.52,full scoring
+2723,5,64.00,no,male,black or african american,1.55,5.58,0.62,5.12,387.00,23.10,full scoring
+2725,5,59.00,no,male,black or african american,4.22,5.71,2.59,4.63,441.00,9.12,full scoring
+2727,5,74.00,no,female,black or african american,5.65,6.74,2.39,4.13,276.00,15.22,full scoring
+2728,5,76.00,no,male,white,37.83,39.05,32.75,36.00,295.00,18.10,full scoring
+2729,5,77.00,no,female,black or african american,19.01,32.32,10.77,27.89,284.00,25.77,full scoring
+2734,5,75.00,no,female,hispanic,,,,,,,unknown
+2735,5,71.00,no,male,black or african american,44.17,47.65,35.46,41.00,379.00,29.29,full scoring
+2736,5,90.00,yes,female,white,,,,,,,unknown
+2738,5,68.00,no,female,white,4.04,5.11,1.21,2.69,446.00,19.78,full scoring
+2739,5,63.00,no,female,black or african american,9.04,9.81,7.69,8.46,312.00,62.50,full scoring
+2747,5,57.00,no,male,asian,41.41,45.33,32.45,39.13,368.00,35.05,full scoring
+2750,5,58.00,no,female,white,11.14,15.85,6.03,13.23,458.00,24.24,full scoring
+2752,5,69.00,no,male,hispanic,14.95,17.98,10.71,14.75,297.00,15.35,full scoring
+2756,5,72.00,no,female,white,,,,,,,unknown
+2757,5,66.00,no,male,white,7.58,54.15,1.95,50.47,277.00,85.99,full scoring
+2759,5,85.00,no,male,white,36.38,38.44,29.38,32.54,437.00,15.38,full scoring
+2762,5,62.00,no,female,white,26.96,32.32,16.52,24.06,414.00,23.48,full scoring
+2764,5,76.00,no,female,black or african american,14.89,18.55,9.84,14.19,427.00,15.60,full scoring
+2771,5,57.00,no,female,hispanic,10.24,30.24,6.14,28.35,381.00,37.95,full scoring
+2772,5,61.00,no,female,black or african american,4.32,7.34,2.37,5.83,278.00,12.95,full scoring
+2778,5,86.00,no,female,hispanic,,,,,,,unknown
+2780,5,64.00,no,female,white,17.99,30.62,16.34,30.21,437.00,55.06,full scoring
+2781,5,70.00,no,male,hispanic,36.27,42.89,22.36,34.22,263.00,39.24,full scoring
+2787,5,64.00,no,female,white,1.94,6.85,0.30,5.36,403.00,18.46,full scoring
+2792,5,76.00,no,female,hispanic,1.64,2.05,0.55,1.09,440.00,8.32,full scoring
+2796,5,81.00,no,female,black or african american,11.32,15.53,5.92,11.32,456.00,19.47,full scoring
+2798,5,76.00,no,female,black or african american,23.46,24.23,16.20,18.01,463.00,14.13,full scoring
+2800,5,76.00,no,male,asian,27.93,33.35,23.94,31.50,421.00,33.92,full scoring
+2802,5,61.00,no,male,white,13.32,18.36,6.87,13.74,428.00,28.46,full scoring
+2803,5,76.00,no,male,hispanic,,,,,,,unknown
+2807,5,60.00,no,male,white,5.09,7.00,1.59,4.46,377.00,11.46,full scoring
+2808,5,63.00,no,female,hispanic,5.99,8.53,2.54,6.28,401.00,20.20,full scoring
+2811,5,61.00,no,male,black or african american,6.76,8.31,2.68,5.49,426.00,9.01,full scoring
+2814,5,85.00,no,female,black or african american,48.14,48.43,44.82,45.54,415.00,19.66,full scoring
+2819,5,61.00,no,male,hispanic,43.45,53.09,29.64,44.18,330.00,34.18,full scoring
+2820,5,56.00,no,female,asian,1.79,3.59,1.14,2.93,368.00,11.09,full scoring
+2821,5,63.00,no,female,white,37.24,38.90,32.69,34.34,145.00,13.66,full scoring
+2826,5,62.00,no,male,hispanic,,,,,,,unknown
+2828,5,75.00,no,female,hispanic,5.08,15.76,1.53,13.90,354.00,28.47,full scoring
+2830,5,77.00,no,male,hispanic,22.99,29.13,11.97,21.42,381.00,56.54,full scoring
+2834,5,78.00,no,male,asian,30.77,32.32,25.90,28.51,505.00,28.40,full scoring
+2836,5,82.00,no,female,asian,16.59,18.96,10.67,14.07,405.00,18.67,full scoring
+2838,5,72.00,no,female,hispanic,14.03,14.81,9.66,10.94,466.00,3.99,full scoring
+2843,5,57.00,no,male,white,,,,,,,unknown
+2846,5,90.00,yes,female,black or african american,7.35,8.88,3.52,5.51,392.00,15.46,full scoring
+2848,5,65.00,no,female,black or african american,31.85,34.90,16.43,22.29,471.00,18.73,full scoring
+2851,5,61.00,no,female,black or african american,20.53,23.68,14.68,19.26,380.00,21.00,full scoring
+2852,5,74.00,no,male,hispanic,7.63,9.01,4.73,6.56,393.00,14.35,full scoring
+2854,5,65.00,no,female,white,13.96,16.57,7.52,12.43,391.00,21.79,full scoring
+2862,5,55.00,no,female,black or african american,0.32,0.86,0.00,0.65,556.00,8.85,full scoring
+2863,5,85.00,no,female,asian,5.22,5.40,1.86,2.80,322.00,7.64,full scoring
+2868,5,79.00,no,female,hispanic,4.15,5.88,1.04,3.29,347.00,17.12,full scoring
+2876,5,76.00,no,male,white,12.82,19.16,8.39,16.62,379.00,26.28,full scoring
+2877,5,56.00,no,female,hispanic,17.43,23.44,11.72,19.13,389.00,29.15,full scoring
+2879,5,81.00,no,male,asian,45.00,47.59,41.48,45.56,324.00,42.59,full scoring
+2880,5,57.00,no,female,white,8.74,11.07,4.27,7.57,309.00,11.65,full scoring
+2881,5,77.00,no,male,hispanic,62.63,66.58,57.37,63.42,228.00,53.68,full scoring
+2887,5,76.00,no,male,black or african american,19.81,24.87,9.83,16.19,415.00,20.96,full scoring
+2892,5,78.00,no,female,hispanic,19.43,22.25,15.82,19.27,383.00,15.20,full scoring
+2894,5,62.00,no,male,white,18.51,20.51,10.80,14.50,389.00,16.50,full scoring
+2896,5,70.00,no,male,asian,32.29,46.73,20.05,41.13,407.00,42.90,full scoring
+2897,5,55.00,no,female,black or african american,40.86,42.52,34.79,36.99,326.00,19.33,full scoring
+2898,5,60.00,no,male,black or african american,8.08,12.55,4.81,10.66,349.00,22.35,full scoring
+2903,5,80.00,no,female,white,59.35,65.42,47.65,59.57,277.00,54.80,full scoring
+2904,5,73.00,no,male,hispanic,2.82,4.76,0.71,3.53,340.00,16.24,full scoring
+2906,5,73.00,no,male,hispanic,72.00,72.52,69.91,70.70,230.00,20.09,full scoring
+2911,5,60.00,no,female,hispanic,8.55,11.16,3.48,7.10,414.00,15.36,full scoring
+2913,5,64.00,no,female,white,0.97,2.90,0.00,2.42,496.00,13.79,full scoring
+2915,5,63.00,no,female,white,16.71,17.97,10.51,12.53,474.00,17.47,full scoring
+2926,5,70.00,no,female,black or african american,18.45,19.29,12.72,15.05,283.00,10.18,full scoring
+2930,5,63.00,no,male,white,12.16,12.35,10.39,10.98,306.00,13.73,full scoring
+2932,5,60.00,no,female,hispanic,3.19,4.63,1.44,3.67,376.00,16.91,full scoring
+2933,5,76.00,no,female,hispanic,41.68,48.04,31.96,41.12,321.00,29.72,full scoring
+2934,5,81.00,no,male,asian,58.28,60.43,50.54,54.19,279.00,39.14,full scoring
+2938,5,61.00,no,female,hispanic,5.10,6.51,2.46,4.05,341.00,26.22,full scoring
+2941,5,60.00,no,male,black or african american,2.18,3.13,1.63,2.72,441.00,8.98,full scoring
+2946,5,58.00,no,female,asian,0.14,0.86,0.14,0.86,420.00,7.14,full scoring
+2952,5,65.00,no,male,black or african american,2.23,10.88,1.67,10.33,215.00,27.63,full scoring
+2954,5,68.00,no,male,white,43.15,47.07,37.77,44.02,413.00,35.59,full scoring
+2957,5,63.00,no,female,black or african american,20.09,21.79,13.73,16.70,424.00,11.75,full scoring
+2958,5,78.00,no,female,hispanic,18.45,20.27,12.36,15.61,296.00,11.96,full scoring
+2961,5,75.00,no,male,white,27.77,35.29,21.02,29.77,391.00,32.69,full scoring
+2966,5,58.00,no,female,white,33.64,41.85,21.85,34.97,453.00,34.04,full scoring
+2969,5,76.00,no,male,black or african american,41.17,43.81,32.02,36.60,341.00,21.29,full scoring
+2970,5,63.00,no,female,black or african american,5.29,5.29,3.20,3.20,431.00,9.05,full scoring
+2975,5,57.00,no,female,hispanic,,,,,,,unknown
+2977,5,57.00,no,female,hispanic,4.57,7.55,1.99,5.56,302.00,23.25,full scoring
+2982,5,55.00,no,female,white,7.93,12.93,5.34,11.72,348.00,20.69,full scoring
+2987,5,71.00,no,male,black or african american,0.00,2.20,0.00,2.20,191.00,26.39,full scoring
+2988,5,75.00,no,male,black or african american,4.30,6.35,2.05,5.53,293.00,18.43,full scoring
+2993,5,64.00,no,female,white,2.76,6.78,1.26,5.27,478.00,13.43,full scoring
+2995,5,77.00,no,male,white,46.93,50.20,31.63,38.76,404.00,28.66,full scoring
+2996,5,74.00,no,male,black or african american,3.14,4.71,1.96,3.53,153.00,13.33,full scoring
+2999,5,71.00,no,female,hispanic,4.97,7.03,2.30,4.97,495.00,14.79,full scoring
+3003,5,74.00,no,female,black or african american,2.75,3.11,2.27,2.63,502.00,6.33,full scoring
+3006,5,64.00,no,female,asian,5.71,6.76,3.61,5.24,515.00,14.56,full scoring
+3011,5,56.00,no,female,black or african american,17.92,19.73,9.53,12.33,365.00,15.95,full scoring
+3012,5,84.00,no,male,hispanic,56.61,59.44,44.01,48.34,319.00,26.90,full scoring
+3013,5,64.00,no,female,white,34.81,36.57,27.63,30.74,443.00,22.21,full scoring
+3015,5,66.00,no,female,hispanic,39.95,41.91,33.92,38.14,398.00,29.25,full scoring
+3016,5,64.00,no,male,hispanic,88.66,93.40,84.74,91.55,291.00,71.34,full scoring
+3018,5,87.00,no,male,hispanic,23.88,26.37,15.57,20.55,289.00,26.99,full scoring
+3019,5,84.00,no,female,white,,,,,,,unknown
+3021,5,75.00,no,female,white,11.10,13.35,6.60,9.75,400.00,12.15,full scoring
+3024,5,63.00,no,female,black or african american,35.43,37.24,26.64,29.22,464.00,15.91,full scoring
+3025,5,80.00,no,male,black or african american,51.88,60.74,34.34,52.06,325.00,40.98,full scoring
+3028,5,63.00,no,female,white,29.39,31.14,23.27,26.76,343.00,15.39,full scoring
+3029,5,60.00,no,male,hispanic,,,,,,,unknown
+3032,5,64.00,no,female,black or african american,14.88,15.83,10.45,12.19,379.00,14.09,full scoring
+3036,5,64.00,no,female,hispanic,,,,,,,unknown
+3037,5,78.00,no,female,white,40.45,49.14,21.18,36.92,442.00,32.44,full scoring
+3040,5,71.00,no,male,white,22.18,24.75,13.07,17.62,303.00,15.64,full scoring
+3042,5,59.00,no,male,white,53.61,56.73,41.36,47.62,441.00,41.09,full scoring
+3043,5,83.00,no,male,white,19.31,20.77,13.69,15.40,491.00,18.70,full scoring
+3044,5,75.00,no,female,white,9.76,11.54,5.37,7.48,369.00,8.78,full scoring
+3048,5,71.00,no,female,hispanic,25.55,28.95,21.02,25.55,371.00,27.01,full scoring
+3052,5,71.00,no,male,black or african american,18.37,25.93,9.04,20.59,405.00,27.41,full scoring
+3053,5,57.00,no,male,hispanic,53.47,64.24,38.29,52.76,340.00,28.59,full scoring
+3061,5,73.00,no,female,black or african american,2.05,5.85,1.32,5.27,410.00,10.68,full scoring
+3066,5,66.00,no,female,white,7.98,13.30,2.96,10.05,406.00,32.81,full scoring
+3068,5,68.00,no,male,white,16.63,20.06,10.48,15.36,332.00,29.46,full scoring
+3072,5,75.00,no,female,white,7.40,10.68,5.55,9.86,292.00,20.34,full scoring
+3073,5,69.00,no,female,black or african american,20.52,20.52,12.76,12.76,348.00,,sleep/wake only
+3086,5,75.00,no,female,black or african american,12.19,13.30,7.48,10.12,433.00,13.72,full scoring
+3089,5,67.00,no,female,white,0.47,0.71,0.00,0.24,254.00,16.06,full scoring
+3094,5,85.00,no,male,white,5.78,9.58,2.89,7.77,332.00,13.73,full scoring
+3101,5,64.00,no,female,white,34.54,38.99,27.53,34.22,377.00,31.83,full scoring
+3102,5,82.00,no,female,white,4.73,5.65,2.75,3.82,393.00,7.33,full scoring
+3104,5,63.00,no,female,white,2.46,10.00,0.92,9.23,390.00,26.00,full scoring
+3106,5,79.00,no,female,white,20.90,24.71,13.30,19.00,442.00,30.14,full scoring
+3111,5,66.00,no,male,white,4.46,8.35,1.44,6.33,417.00,22.45,full scoring
+3112,5,57.00,no,male,asian,25.11,28.80,19.75,24.37,325.00,29.91,full scoring
+3113,5,61.00,no,female,white,0.14,1.41,0.00,1.41,426.00,6.06,full scoring
+3121,5,65.00,no,female,white,96.25,98.00,95.50,97.50,240.00,76.50,full scoring
+3126,5,72.00,no,female,black or african american,,,,,,,unknown
+3132,5,57.00,no,male,black or african american,9.04,11.05,2.76,6.53,239.00,15.06,full scoring
+3133,5,77.00,no,female,white,12.07,16.14,11.25,15.49,368.00,25.92,full scoring
+3135,5,58.00,no,female,asian,0.37,1.95,0.24,1.83,492.00,13.29,full scoring
+3136,5,73.00,no,male,asian,52.22,56.59,45.73,52.70,370.00,43.46,full scoring
+3140,5,69.00,no,female,hispanic,11.80,12.66,6.62,8.49,417.00,19.14,full scoring
+3147,5,62.00,no,female,asian,24.42,31.92,16.35,25.77,312.00,27.50,full scoring
+3149,5,65.00,no,male,black or african american,20.50,21.77,17.74,19.35,521.00,14.17,full scoring
+3150,5,71.00,no,female,asian,51.75,51.75,48.00,48.00,80.00,,sleep/wake only
+3153,5,76.00,no,female,white,5.29,9.12,1.82,6.57,329.00,16.05,full scoring
+3155,5,69.00,no,female,hispanic,19.01,20.79,12.92,16.93,404.00,16.49,full scoring
+3156,5,60.00,no,female,white,24.50,28.65,17.66,24.14,333.00,26.31,full scoring
+3158,5,68.00,no,male,black or african american,77.03,78.00,56.92,59.68,370.00,21.89,full scoring
+3168,5,59.00,no,male,hispanic,31.50,34.31,23.75,27.45,341.00,16.19,full scoring
+3173,5,86.00,no,female,asian,4.95,6.70,2.87,5.11,376.00,23.78,full scoring
+3180,5,75.00,no,female,hispanic,10.91,12.99,6.74,9.30,374.00,16.04,full scoring
+3184,5,60.00,no,female,black or african american,,,,,,,unknown
+3186,5,62.00,no,female,black or african american,5.00,5.56,1.67,2.22,216.00,5.83,full scoring
+3190,5,56.00,no,male,hispanic,46.94,48.98,42.72,45.58,441.00,25.71,full scoring
+3193,5,67.00,no,female,hispanic,5.94,8.18,2.09,4.49,374.00,16.52,full scoring
+3203,5,62.00,no,female,white,3.07,13.02,0.88,12.15,410.00,28.83,full scoring
+3204,5,76.00,no,female,white,12.30,14.73,10.33,12.91,395.00,13.37,full scoring
+3206,5,70.00,no,male,hispanic,46.70,51.80,40.98,47.78,388.00,41.75,full scoring
+3208,5,69.00,no,female,white,8.74,9.76,7.72,8.88,412.00,10.34,full scoring
+3211,5,75.00,no,female,black or african american,0.71,3.18,0.00,2.47,170.00,26.82,full scoring
+3212,5,76.00,no,female,white,13.41,19.62,6.21,13.41,425.00,18.78,full scoring
+3216,5,59.00,no,female,asian,12.25,15.21,7.61,11.41,426.00,11.41,full scoring
+3218,5,62.00,no,male,white,52.58,55.00,37.42,44.24,396.00,39.70,full scoring
+3223,5,70.00,no,male,hispanic,11.84,20.21,10.89,19.58,380.00,24.47,full scoring
+3224,5,76.00,no,male,white,7.57,9.60,2.40,5.35,325.00,11.63,full scoring
+3233,5,61.00,no,female,white,,,,,,,unknown
+3236,5,80.00,no,female,hispanic,22.05,29.28,17.17,26.57,332.00,30.54,full scoring
+3237,5,67.00,no,female,hispanic,,,,,,,unknown
+3239,5,68.00,no,female,white,4.62,11.87,2.14,9.89,364.00,20.11,full scoring
+3250,5,63.00,no,female,black or african american,,,,,,,unknown
+3251,5,79.00,no,female,asian,27.17,34.01,15.64,27.36,307.00,29.12,full scoring
+3257,5,70.00,no,female,black or african american,1.01,2.03,1.01,2.03,414.00,17.10,full scoring
+3259,5,75.00,no,female,black or african american,0.17,0.33,0.00,0.33,361.00,12.13,full scoring
+3262,5,56.00,no,female,black or african american,28.34,37.08,20.59,32.32,542.00,27.01,full scoring
+3264,5,66.00,no,female,hispanic,18.26,22.09,15.30,19.65,345.00,15.13,full scoring
+3267,5,75.00,no,female,white,16.65,20.77,11.48,17.03,465.00,16.26,full scoring
+3275,5,85.00,no,male,hispanic,74.88,75.12,72.96,73.44,250.00,42.00,full scoring
+3280,5,66.00,no,male,white,62.10,64.06,54.97,58.18,429.00,38.32,full scoring
+3281,5,75.00,no,female,hispanic,3.16,3.61,0.75,1.95,399.00,6.92,full scoring
+3285,5,75.00,no,female,white,,,,,,,unknown
+3290,5,72.00,no,female,black or african american,6.22,15.32,4.79,14.36,376.00,23.94,full scoring
+3293,5,81.00,no,male,white,37.43,46.11,19.29,33.38,311.00,38.97,full scoring
+3294,5,62.00,no,male,white,62.56,79.34,43.79,72.94,422.00,62.99,full scoring
+3297,5,62.00,no,female,hispanic,27.51,33.95,21.07,30.44,410.00,27.37,full scoring
+3298,5,62.00,no,female,white,2.10,6.31,0.99,5.81,485.00,18.31,full scoring
+3299,5,83.00,no,female,white,17.17,27.10,5.59,17.59,290.00,23.79,full scoring
+3302,5,56.00,no,female,white,7.45,8.18,3.09,4.00,330.00,8.91,full scoring
+3303,5,62.00,no,male,asian,3.97,5.49,1.70,3.41,317.00,10.22,full scoring
+3308,5,72.00,no,male,hispanic,6.20,10.07,1.77,6.20,542.00,19.59,full scoring
+3310,5,75.00,no,male,white,34.89,38.20,27.22,32.63,399.00,27.67,full scoring
+3311,5,88.00,no,female,white,7.41,10.13,6.65,9.52,397.00,10.58,full scoring
+3313,5,59.00,no,male,hispanic,23.08,25.24,13.27,16.44,416.00,14.28,full scoring
+3314,5,56.00,no,male,white,11.45,17.48,5.41,13.46,477.00,30.31,full scoring
+3317,5,69.00,no,female,black or african american,6.67,12.53,4.24,11.92,297.00,18.38,full scoring
+3324,5,82.00,no,female,hispanic,12.21,14.31,6.43,9.32,457.00,10.63,full scoring
+3332,5,84.00,no,male,white,8.65,12.46,4.85,9.23,520.00,14.42,full scoring
+3335,5,60.00,no,female,hispanic,12.74,13.90,8.57,11.12,259.00,26.18,full scoring
+3336,5,64.00,no,male,black or african american,4.15,4.56,2.35,2.90,434.00,7.74,full scoring
+3337,5,72.00,no,female,asian,62.17,63.52,42.26,44.42,443.00,10.43,full scoring
+3341,5,81.00,no,female,black or african american,10.53,12.40,5.87,8.67,450.00,11.20,full scoring
+3344,5,58.00,no,female,black or african american,2.27,3.78,0.50,2.77,238.00,12.35,full scoring
+3347,5,59.00,no,male,white,23.74,25.42,17.42,21.03,465.00,21.94,full scoring
+3349,5,63.00,no,female,black or african american,41.08,42.71,32.07,34.58,406.00,19.66,full scoring
+3352,5,64.00,no,male,black or african american,64.13,64.63,64.13,64.63,363.00,57.85,full scoring
+3354,5,81.00,no,female,hispanic,10.94,17.50,9.38,16.56,192.00,18.75,full scoring
+3356,5,66.00,no,female,asian,32.43,33.89,25.46,28.86,370.00,15.73,full scoring
+3362,5,73.00,no,male,white,,,,,,,unknown
+3367,5,73.00,no,female,white,8.74,9.93,5.63,7.26,405.00,10.37,full scoring
+3369,5,79.00,no,female,white,4.39,6.42,3.38,5.58,355.00,15.89,full scoring
+3373,5,76.00,no,male,black or african american,14.54,16.88,9.61,13.06,487.00,12.32,full scoring
+3375,5,65.00,no,male,hispanic,18.95,20.88,12.63,17.19,342.00,24.39,full scoring
+3377,5,85.00,no,male,white,15.51,25.39,9.89,23.15,267.00,26.07,full scoring
+3378,5,63.00,no,female,asian,12.99,15.94,7.90,11.38,448.00,8.84,full scoring
+3382,5,58.00,no,female,hispanic,7.87,17.38,2.95,14.10,183.00,26.23,full scoring
+3387,5,60.00,no,male,asian,36.51,47.41,18.96,38.07,424.00,42.45,full scoring
+3389,5,58.00,no,male,white,1.17,1.17,0.29,0.29,205.00,3.51,full scoring
+3390,5,67.00,no,female,white,23.34,28.75,11.77,21.61,311.00,25.27,full scoring
+3392,5,67.00,no,female,black or african american,12.70,21.24,5.47,18.83,274.00,38.54,full scoring
+3394,5,66.00,no,female,white,18.89,28.09,4.85,19.66,235.00,37.53,full scoring
+3396,5,65.00,no,female,white,56.12,70.19,41.20,64.31,418.00,56.99,full scoring
+3399,5,81.00,no,female,white,3.65,6.13,2.04,4.53,411.00,15.04,full scoring
+3404,5,73.00,no,male,white,60.30,61.83,37.77,39.90,197.00,14.92,full scoring
+3405,5,74.00,no,female,asian,,,,,,,unknown
+3407,5,81.00,no,male,asian,72.61,73.69,69.55,72.07,333.00,31.89,full scoring
+3408,5,64.00,no,male,black or african american,4.91,9.30,1.58,7.02,342.00,17.54,full scoring
+3409,5,58.00,no,male,black or african american,87.40,88.30,87.40,88.30,335.00,78.27,full scoring
+3410,5,72.00,no,female,hispanic,21.36,22.99,17.28,19.40,368.00,14.67,full scoring
+3413,5,65.00,no,female,hispanic,0.68,2.17,0.41,1.90,442.00,13.03,full scoring
+3415,5,58.00,no,female,white,9.36,14.55,4.90,12.03,404.00,23.47,full scoring
+3419,5,59.00,no,male,white,31.11,42.47,11.53,29.21,380.00,41.84,full scoring
+3422,5,77.00,no,male,black or african american,,,,,,,unknown
+3423,5,70.00,no,female,white,17.38,22.15,7.01,14.58,428.00,22.57,full scoring
+3426,5,74.00,no,male,black or african american,0.61,1.23,0.00,0.82,293.00,10.44,full scoring
+3431,5,61.00,no,female,black or african american,1.60,1.60,0.96,0.96,374.00,6.90,full scoring
+3432,5,67.00,no,male,hispanic,37.74,43.77,27.17,36.79,318.00,28.87,full scoring
+3437,5,82.00,no,female,black or african american,,,,,,,unknown
+3439,5,79.00,no,male,black or african american,35.16,40.10,35.16,40.10,401.00,43.24,full scoring
+3440,5,74.00,no,female,white,16.35,22.92,7.18,17.34,301.00,24.92,full scoring
+3441,5,56.00,no,male,asian,32.49,35.45,24.00,29.91,325.00,30.65,full scoring
+3442,5,80.00,no,female,black or african american,2.06,3.44,1.24,2.75,436.00,14.31,full scoring
+3449,5,67.00,no,male,white,58.66,66.90,49.65,65.75,313.00,55.59,full scoring
+3452,5,55.00,no,male,white,44.72,48.03,37.16,42.80,436.00,29.04,full scoring
+3455,5,59.00,no,male,white,9.59,10.99,5.76,8.20,344.00,11.51,full scoring
+3457,5,75.00,no,female,hispanic,43.80,45.24,34.97,37.38,374.00,14.92,full scoring
+3464,5,73.00,no,male,white,2.64,4.26,1.42,4.05,296.00,10.14,full scoring
+3468,5,75.00,no,female,white,61.98,62.44,60.15,61.22,394.00,43.55,full scoring
+3469,5,76.00,no,female,asian,17.35,20.05,10.95,14.79,422.00,17.06,full scoring
+3472,5,61.00,no,female,white,5.82,7.90,2.08,5.27,433.00,12.89,full scoring
+3477,5,76.00,no,male,white,0.37,1.68,0.00,1.30,322.00,26.65,full scoring
+3479,5,59.00,no,male,hispanic,10.86,11.70,4.85,7.02,359.00,10.70,full scoring
+3481,5,79.00,no,female,white,15.89,18.82,9.72,13.88,389.00,22.21,full scoring
+3486,5,78.00,no,female,black or african american,28.74,29.53,18.00,19.89,380.00,10.11,full scoring
+3492,5,66.00,no,male,white,15.58,22.21,8.33,17.43,389.00,31.62,full scoring
+3495,5,67.00,no,male,hispanic,2.62,4.19,1.31,3.67,458.00,18.08,full scoring
+3499,5,66.00,no,female,hispanic,6.37,7.78,3.25,5.52,424.00,13.73,full scoring
+3500,5,56.00,no,male,white,42.60,46.86,28.84,35.90,493.00,27.51,full scoring
+3506,5,77.00,no,female,asian,28.02,31.24,14.38,18.84,242.00,13.88,full scoring
+3508,5,81.00,no,female,white,1.67,5.00,0.42,4.17,288.00,27.92,full scoring
+3510,5,64.00,no,male,white,14.45,17.63,10.78,15.92,245.00,16.65,full scoring
+3516,5,90.00,yes,female,hispanic,26.94,28.06,19.44,21.81,432.00,21.81,full scoring
+3519,5,70.00,no,female,asian,0.52,1.05,0.17,0.87,344.00,15.00,full scoring
+3520,5,56.00,no,female,black or african american,2.73,2.86,1.64,2.05,440.00,9.00,full scoring
+3529,5,74.00,no,male,hispanic,53.08,58.27,37.87,49.63,347.00,39.42,full scoring
+3530,5,67.00,no,female,asian,25.84,29.65,19.60,23.93,346.00,15.78,full scoring
+3533,5,76.00,no,male,white,9.61,10.39,6.51,7.91,387.00,23.88,full scoring
+3537,5,74.00,no,female,hispanic,17.07,19.67,11.06,14.31,369.00,16.75,full scoring
+3538,5,58.00,no,female,black or african american,3.64,5.33,1.96,3.93,214.00,7.57,full scoring
+3539,5,74.00,no,female,black or african american,15.26,17.66,10.97,14.23,350.00,10.80,full scoring
+3541,5,87.00,no,female,hispanic,45.45,46.18,38.18,39.27,330.00,16.18,full scoring
+3542,5,58.00,no,female,white,6.47,10.79,2.73,7.91,417.00,19.71,full scoring
+3543,5,55.00,no,female,hispanic,10.94,12.23,6.92,9.01,373.00,17.37,full scoring
+3547,5,82.00,no,female,black or african american,5.55,14.27,2.38,11.89,227.00,30.66,full scoring
+3554,5,77.00,no,male,hispanic,22.50,25.11,13.86,18.10,368.00,18.59,full scoring
+3555,5,72.00,no,male,hispanic,52.47,56.14,42.10,50.24,295.00,53.08,full scoring
+3556,5,57.00,no,male,hispanic,13.72,19.68,8.31,15.38,433.00,27.58,full scoring
+3557,5,79.00,no,female,white,5.66,7.03,2.57,3.94,350.00,6.00,full scoring
+3558,5,70.00,no,male,black or african american,33.53,39.18,25.76,35.29,170.00,33.18,full scoring
+3560,5,76.00,no,male,black or african american,0.15,4.83,0.15,4.83,410.00,11.85,full scoring
+3561,5,75.00,no,female,white,37.15,44.22,24.82,35.01,365.00,25.32,full scoring
+3564,5,69.00,no,female,white,19.90,22.79,9.52,13.70,416.00,11.68,full scoring
+3566,5,71.00,no,male,white,40.08,42.21,28.70,31.54,253.00,18.02,full scoring
+3570,5,66.00,no,male,black or african american,0.77,1.69,0.46,1.69,391.00,9.21,full scoring
+3572,5,69.00,no,male,white,10.84,12.13,7.28,9.22,371.00,9.87,full scoring
+3575,5,85.00,no,female,black or african american,23.84,31.94,14.21,27.12,511.00,33.70,full scoring
+3581,5,63.00,no,female,white,21.74,23.58,17.93,20.19,425.00,17.36,full scoring
+3583,5,89.00,no,female,hispanic,35.87,36.96,24.35,26.74,276.00,15.87,full scoring
+3585,5,62.00,no,male,black or african american,60.00,63.11,51.30,55.49,386.00,32.18,full scoring
+3587,5,74.00,no,female,white,,,,,,,unknown
+3591,5,80.00,no,male,asian,40.00,41.71,31.00,34.57,420.00,24.86,full scoring
+3592,5,66.00,no,male,hispanic,32.92,33.31,29.61,30.00,308.00,17.34,full scoring
+3594,5,67.00,no,male,white,9.81,12.06,4.02,8.36,373.00,14.80,full scoring
+3596,5,69.00,no,male,white,48.20,51.60,38.80,45.00,300.00,29.60,full scoring
+3598,5,78.00,no,female,white,1.74,3.17,0.79,2.85,379.00,19.95,full scoring
+3601,5,69.00,no,female,black or african american,,,,,,,unknown
+3603,5,72.00,no,male,asian,28.49,32.26,17.94,24.57,398.00,30.15,full scoring
+3604,5,59.00,no,male,black or african american,111.28,111.96,102.91,104.25,358.00,41.73,full scoring
+3605,5,78.00,no,female,white,,,,,,,unknown
+3612,5,85.00,no,female,black or african american,20.74,27.56,14.52,23.11,405.00,20.15,full scoring
+3622,5,61.00,no,female,white,8.16,12.82,6.21,12.23,309.00,18.45,full scoring
+3625,5,61.00,no,male,hispanic,25.76,26.82,18.35,20.47,340.00,13.76,full scoring
+3629,5,85.00,no,female,white,7.24,8.28,5.02,6.65,406.00,8.87,full scoring
+3630,5,76.00,no,male,hispanic,19.30,21.97,11.08,15.67,314.00,21.02,full scoring
+3634,5,61.00,no,male,white,17.98,26.38,5.67,18.96,307.00,39.67,full scoring
+3635,5,65.00,no,male,white,17.24,19.53,12.14,15.48,341.00,17.24,full scoring
+3637,5,67.00,no,female,asian,49.46,51.76,40.83,45.43,313.00,33.93,full scoring
+3639,5,68.00,no,male,hispanic,8.03,9.02,6.72,8.03,366.00,13.93,full scoring
+3641,5,65.00,no,female,black or african american,7.56,9.51,4.63,7.32,246.00,11.22,full scoring
+3647,5,59.00,no,male,white,16.43,20.87,12.78,18.52,230.00,26.61,full scoring
+3652,5,58.00,no,male,asian,27.07,32.30,19.47,27.23,379.00,23.11,full scoring
+3654,5,60.00,no,male,hispanic,,,,,,,unknown
+3656,5,61.00,no,female,white,5.57,8.66,2.47,6.39,291.00,14.23,full scoring
+3660,5,61.00,no,male,black or african american,17.32,17.32,12.99,14.23,97.00,16.70,full scoring
+3664,5,57.00,no,female,black or african american,0.39,1.68,0.26,1.55,465.00,23.74,full scoring
+3666,5,78.00,no,male,white,6.28,7.04,3.67,4.74,392.00,5.66,full scoring
+3671,5,57.00,no,male,white,8.70,12.07,5.33,9.76,338.00,20.95,full scoring
+3674,5,87.00,no,male,white,11.79,14.67,6.29,9.69,458.00,12.31,full scoring
+3684,5,76.00,no,female,white,38.14,43.09,25.21,34.79,376.00,41.97,full scoring
+3685,5,71.00,no,male,hispanic,15.21,21.54,9.57,18.97,351.00,26.32,full scoring
+3689,5,60.00,no,female,white,0.43,1.29,0.14,1.00,418.00,8.90,full scoring
+3690,5,60.00,no,male,hispanic,6.33,15.83,4.37,15.08,398.00,22.31,full scoring
+3692,5,73.00,no,male,white,21.06,33.80,11.14,29.63,490.00,53.02,full scoring
+3693,5,57.00,no,female,black or african american,8.09,8.88,4.93,5.92,304.00,8.29,full scoring
+3696,5,60.00,no,female,black or african american,10.63,11.50,9.17,10.19,412.00,10.05,full scoring
+3698,5,77.00,no,male,black or african american,17.90,20.28,12.61,15.51,352.00,20.45,full scoring
+3702,5,74.00,no,female,hispanic,7.14,8.83,2.99,5.71,462.00,9.61,full scoring
+3703,5,71.00,no,female,white,15.48,16.50,13.18,14.20,469.00,11.26,full scoring
+3707,5,61.00,no,male,black or african american,0.56,1.50,0.56,1.50,319.00,19.18,full scoring
+3708,5,85.00,no,female,black or african american,8.14,9.10,5.84,7.19,442.00,13.30,full scoring
+3710,5,76.00,no,female,hispanic,0.26,0.92,0.00,0.79,457.00,14.31,full scoring
+3711,5,74.00,no,male,black or african american,31.06,33.00,25.06,27.71,340.00,15.71,full scoring
+3712,5,73.00,no,female,white,7.93,20.21,7.16,19.70,469.00,32.62,full scoring
+3715,5,84.00,no,female,hispanic,,,,,,,unknown
+3717,5,58.00,no,male,hispanic,0.00,1.00,0.00,1.00,421.00,20.38,full scoring
+3723,5,71.00,no,male,white,,,,,,,unknown
+3730,5,84.00,no,male,black or african american,40.96,45.21,28.39,33.65,353.00,21.25,full scoring
+3734,5,73.00,no,male,black or african american,27.91,31.92,22.23,27.41,359.00,20.39,full scoring
+3736,5,83.00,no,female,hispanic,19.32,21.78,13.56,16.23,292.00,11.92,full scoring
+3737,5,68.00,no,male,white,11.07,15.87,7.60,14.38,363.00,16.20,full scoring
+3738,5,62.00,no,male,hispanic,12.89,18.05,7.74,14.61,349.00,20.63,full scoring
+3742,5,57.00,no,female,white,3.42,4.17,2.08,2.98,403.00,10.27,full scoring
+3743,5,61.00,no,female,white,13.89,18.06,6.06,11.75,475.00,22.11,full scoring
+3745,5,56.00,no,male,white,18.82,21.90,13.42,18.05,389.00,19.90,full scoring
+3750,5,69.00,no,male,black or african american,12.65,13.96,9.38,11.56,275.00,13.31,full scoring
+3751,5,59.00,no,female,white,6.33,9.64,3.45,7.48,417.00,14.68,full scoring
+3753,5,68.00,no,female,white,,,,,,,unknown
+3754,5,75.00,no,female,hispanic,16.03,16.55,12.41,14.48,116.00,26.90,full scoring
+3760,5,63.00,no,female,white,4.41,5.83,2.99,4.55,422.00,18.06,full scoring
+3761,5,71.00,no,female,white,10.92,20.29,4.51,16.82,346.00,46.30,full scoring
+3770,5,70.00,no,male,white,56.88,60.00,51.17,55.84,231.00,41.30,full scoring
+3771,5,64.00,no,female,black or african american,2.25,3.38,1.13,2.63,320.00,8.44,full scoring
+3777,5,58.00,no,male,hispanic,45.00,56.34,33.49,51.45,344.00,43.95,full scoring
+3781,5,71.00,no,female,white,49.34,53.91,40.51,46.90,394.00,27.72,full scoring
+3782,5,64.00,no,male,asian,,,,,,,unknown
+3785,5,60.00,no,female,asian,13.94,17.11,7.39,13.10,284.00,19.86,full scoring
+3787,5,67.00,no,male,white,2.30,4.39,0.63,3.34,287.00,16.31,full scoring
+3793,5,56.00,no,female,white,3.86,6.17,1.54,4.16,389.00,7.71,full scoring
+3795,5,71.00,no,female,white,13.86,17.33,5.85,11.05,277.00,17.98,full scoring
+3801,5,79.00,no,female,white,13.50,30.19,8.63,28.31,320.00,35.63,full scoring
+3803,5,63.00,no,male,white,4.27,7.96,2.56,6.54,422.00,17.63,full scoring
+3815,5,65.00,no,female,asian,2.68,3.51,0.62,2.47,291.00,16.29,full scoring
+3818,5,62.00,no,female,white,4.24,4.55,1.73,2.51,382.00,11.78,full scoring
+3819,5,77.00,no,female,hispanic,16.80,18.72,9.12,11.52,250.00,15.12,full scoring
+3822,5,75.00,no,female,hispanic,3.17,4.49,1.06,2.51,454.00,9.12,full scoring
+3823,5,75.00,no,male,white,18.29,20.62,15.19,18.14,387.00,20.16,full scoring
+3833,5,64.00,no,male,black or african american,26.80,43.99,16.35,38.93,356.00,33.88,full scoring
+3834,5,58.00,no,female,hispanic,28.72,30.23,15.79,18.80,399.00,11.88,full scoring
+3836,5,73.00,no,female,white,20.23,21.19,13.49,15.14,436.00,11.70,full scoring
+3838,5,85.00,no,female,white,,,,,,,unknown
+3839,5,67.00,no,male,hispanic,19.62,26.69,8.21,18.48,263.00,23.73,full scoring
+3840,5,55.00,no,male,white,8.71,10.98,2.46,6.44,317.00,19.87,full scoring
+3842,5,83.00,no,female,asian,5.78,20.64,1.93,19.27,218.00,51.19,full scoring
+3848,5,67.00,no,male,white,,,,,,,unknown
+3850,5,82.00,no,male,black or african american,42.48,54.65,35.35,52.28,202.00,40.10,full scoring
+3852,5,86.00,no,male,asian,18.96,21.76,14.46,18.19,386.00,18.65,full scoring
+3854,5,73.00,no,female,white,5.65,15.43,3.48,13.91,276.00,26.74,full scoring
+3855,5,69.00,no,female,white,40.57,40.96,32.61,33.91,460.00,16.30,full scoring
+3856,5,55.00,no,male,hispanic,27.26,29.65,17.42,22.06,427.00,15.04,full scoring
+3861,5,55.00,no,female,white,3.36,3.36,2.69,2.69,446.00,1.75,full scoring
+3865,5,76.00,no,female,white,6.41,17.17,5.59,16.76,290.00,24.00,full scoring
+3867,5,69.00,no,male,black or african american,22.59,25.91,19.26,23.56,433.00,20.37,full scoring
+3873,5,78.00,no,female,black or african american,15.41,22.18,8.64,16.81,257.00,35.25,full scoring
+3874,5,69.00,no,male,hispanic,17.08,20.95,9.97,15.25,295.00,32.14,full scoring
+3876,5,62.00,no,male,asian,42.02,49.06,32.25,43.58,307.00,35.18,full scoring
+3881,5,72.00,no,male,white,,,,,,,unknown
+3886,5,83.00,no,female,black or african american,10.17,12.40,4.71,7.69,242.00,14.13,full scoring
+3887,5,62.00,no,female,black or african american,2.47,4.64,1.24,3.71,194.00,14.23,full scoring
+3889,5,59.00,no,male,black or african american,7.90,14.29,6.21,13.35,319.00,28.21,full scoring
+3890,5,63.00,no,female,hispanic,19.08,23.41,7.11,12.49,346.00,12.14,full scoring
+3892,5,64.00,no,male,white,18.80,20.82,13.73,16.19,415.00,12.00,full scoring
+3894,5,58.00,no,female,hispanic,14.96,15.74,10.60,12.00,385.00,12.31,full scoring
+3897,5,82.00,no,female,black or african american,15.28,17.22,6.94,8.89,216.00,10.00,full scoring
+3901,5,60.00,no,female,white,5.75,6.25,2.75,4.00,240.00,23.00,full scoring
+3902,5,90.00,yes,female,white,52.48,57.18,39.87,47.96,319.00,32.92,full scoring
+3904,5,57.00,no,female,hispanic,4.47,9.18,2.12,7.29,255.00,17.88,full scoring
+3906,5,82.00,no,female,white,7.14,9.42,3.04,6.68,395.00,17.32,full scoring
+3913,5,78.00,no,male,asian,26.15,27.99,23.46,26.15,358.00,18.94,full scoring
+3914,5,59.00,no,female,white,2.58,4.02,1.72,3.44,418.00,7.03,full scoring
+3917,5,61.00,no,female,black or african american,4.02,8.49,2.23,7.15,403.00,18.91,full scoring
+3918,5,64.00,no,male,asian,18.32,23.37,13.05,21.05,285.00,31.37,full scoring
+3920,5,80.00,no,male,white,14.65,17.65,8.12,13.24,340.00,24.53,full scoring
+3921,5,87.00,no,female,black or african american,5.94,15.79,3.66,14.27,475.00,23.37,full scoring
+3924,5,62.00,no,male,hispanic,29.13,36.35,20.41,29.38,241.00,27.39,full scoring
+3925,5,59.00,no,female,asian,0.70,0.98,0.00,0.28,430.00,6.42,full scoring
+3927,5,80.00,no,female,white,,,,,,,unknown
+3931,5,57.00,no,male,black or african american,14.17,14.17,8.33,8.33,360.00,,sleep/wake only
+3933,5,73.00,no,female,white,64.82,67.24,57.74,62.26,398.00,36.93,full scoring
+3934,5,75.00,no,female,white,19.95,23.32,12.23,16.73,373.00,19.79,full scoring
+3936,5,65.00,no,male,hispanic,4.00,5.67,2.00,4.00,360.00,18.67,full scoring
+3939,5,73.00,no,male,white,19.44,27.32,8.59,19.58,426.00,33.94,full scoring
+3945,5,69.00,no,female,asian,15.70,18.13,7.85,13.08,321.00,17.20,full scoring
+3948,5,68.00,no,female,black or african american,13.66,14.24,9.34,10.27,514.00,11.56,full scoring
+3950,5,68.00,no,female,hispanic,2.27,3.87,0.53,2.80,450.00,16.53,full scoring
+3951,5,73.00,no,male,black or african american,83.65,87.14,71.20,76.68,241.00,50.79,full scoring
+3963,5,85.00,no,male,hispanic,,,,,,,unknown
+3967,5,65.00,no,female,black or african american,11.37,14.25,6.93,10.33,459.00,16.47,full scoring
+3971,5,90.00,yes,female,hispanic,8.08,12.03,3.09,8.08,349.00,32.15,full scoring
+3972,5,72.00,no,female,hispanic,8.78,18.86,3.25,16.42,369.00,24.39,full scoring
+3974,5,63.00,no,male,hispanic,12.60,16.75,8.05,13.51,462.00,17.92,full scoring
+3975,5,63.00,no,female,hispanic,14.38,15.63,11.25,12.66,384.00,11.72,full scoring
+3976,5,60.00,no,male,white,5.27,12.55,2.26,10.67,478.00,25.10,full scoring
+3980,5,67.00,no,female,white,16.46,17.37,11.66,13.22,463.00,9.33,full scoring
+3987,5,80.00,no,male,white,48.18,59.12,31.94,50.82,340.00,58.94,full scoring
+3992,5,74.00,no,female,white,33.74,38.73,23.76,32.56,457.00,34.27,full scoring
+3993,5,61.00,no,female,asian,0.32,5.53,0.32,5.53,380.00,30.79,full scoring
+3996,5,64.00,no,female,white,7.93,12.29,6.21,11.50,454.00,23.00,full scoring
+3997,5,68.00,no,male,white,19.57,20.37,14.60,16.36,374.00,15.40,full scoring
+4000,5,69.00,no,female,black or african american,27.23,29.63,19.15,23.04,401.00,25.89,full scoring
+4003,5,62.00,no,female,black or african american,16.33,18.23,14.29,17.14,441.00,19.73,full scoring
+4012,5,61.00,no,female,black or african american,14.81,16.75,9.22,13.25,462.00,17.92,full scoring
+4014,5,90.00,yes,male,white,33.52,36.28,14.61,20.80,349.00,16.68,full scoring
+4015,5,84.00,no,male,asian,5.25,6.19,3.38,4.88,320.00,15.56,full scoring
+4016,5,75.00,no,female,white,2.27,3.18,1.36,2.73,132.00,10.00,full scoring
+4017,5,62.00,no,female,black or african american,1.60,3.00,0.60,2.00,300.00,16.20,full scoring
+4023,5,63.00,no,male,black or african american,24.43,28.51,17.65,24.71,221.00,19.55,full scoring
+4025,5,68.00,no,female,asian,,,,,,,unknown
+4026,5,60.00,no,male,white,22.57,30.73,16.60,28.25,412.00,29.27,full scoring
+4028,5,87.00,no,male,black or african american,2.33,8.06,0.90,7.34,335.00,24.36,full scoring
+4029,5,61.00,no,female,white,23.33,25.71,18.41,22.06,378.00,14.13,full scoring
+4032,5,83.00,no,female,hispanic,4.35,11.96,2.39,10.43,276.00,26.52,full scoring
+4036,5,78.00,no,female,black or african american,4.80,8.10,2.25,6.30,400.00,16.65,full scoring
+4038,5,65.00,no,female,white,37.31,43.53,30.76,38.49,357.00,41.18,full scoring
+4044,5,56.00,no,male,hispanic,9.47,9.92,8.24,8.85,393.00,10.99,full scoring
+4047,5,68.00,no,male,black or african american,30.40,34.99,21.37,28.34,379.00,25.17,full scoring
+4053,5,68.00,no,female,black or african american,20.37,23.19,15.35,19.11,383.00,14.88,full scoring
+4055,5,79.00,no,female,asian,31.83,32.59,20.97,22.11,475.00,9.85,full scoring
+4057,5,73.00,no,male,hispanic,51.41,52.97,43.13,45.94,384.00,28.13,full scoring
+4062,5,78.00,no,female,white,9.80,13.93,4.64,10.32,349.00,28.88,full scoring
+4070,5,57.00,no,female,white,0.15,1.49,0.00,1.49,403.00,7.44,full scoring
+4077,5,64.00,no,female,black or african american,14.60,15.08,11.11,12.22,378.00,10.32,full scoring
+4085,5,68.00,no,male,white,41.62,44.12,28.82,33.38,408.00,16.18,full scoring
+4087,5,57.00,no,male,white,1.11,5.56,0.83,5.56,216.00,60.28,full scoring
+4088,5,59.00,no,female,white,7.55,13.06,2.70,10.47,556.00,20.83,full scoring
+4090,5,59.00,no,female,white,4.40,6.53,2.00,4.80,450.00,11.87,full scoring
+4091,5,56.00,no,female,white,0.00,1.04,0.00,1.04,230.00,16.70,full scoring
+4097,5,59.00,no,female,hispanic,,,,,,,unknown
+4099,5,59.00,no,male,black or african american,23.45,27.41,18.45,24.14,348.00,22.24,full scoring
+4109,5,63.00,no,male,black or african american,1.07,2.49,0.53,1.96,337.00,11.04,full scoring
+4110,5,87.00,no,female,black or african american,11.64,14.22,4.40,8.02,232.00,10.34,full scoring
+4111,5,71.00,no,male,white,6.01,7.48,2.93,4.84,409.00,15.26,full scoring
+4114,5,78.00,no,male,black or african american,38.09,41.04,30.74,35.15,367.00,27.30,full scoring
+4116,5,73.00,no,female,hispanic,9.15,9.15,6.71,6.92,295.00,12.41,full scoring
+4117,5,77.00,no,female,white,3.76,5.02,2.72,4.18,574.00,17.35,full scoring
+4120,5,74.00,no,female,hispanic,11.57,12.28,5.67,6.85,254.00,10.63,full scoring
+4123,5,84.00,no,female,asian,9.33,24.81,6.33,23.40,341.00,43.81,full scoring
+4128,5,65.00,no,female,hispanic,16.73,29.67,13.16,26.99,269.00,37.70,full scoring
+4129,5,62.00,no,female,hispanic,19.48,20.26,11.69,12.78,385.00,8.10,full scoring
+4131,5,55.00,no,male,white,,,,,,,unknown
+4137,5,71.00,no,male,white,36.50,41.33,29.79,36.29,286.00,29.16,full scoring
+4140,5,77.00,no,female,black or african american,22.32,27.64,11.53,22.61,406.00,34.88,full scoring
+4141,5,64.00,no,female,white,12.81,15.73,5.62,9.55,534.00,18.99,full scoring
+4152,5,61.00,no,female,white,0.34,1.36,0.34,1.36,353.00,8.84,full scoring
+4157,5,67.00,no,female,white,21.56,32.14,13.66,27.86,448.00,30.80,full scoring
+4158,5,63.00,no,male,black or african american,20.84,24.97,15.45,22.10,334.00,17.78,full scoring
+4163,5,71.00,no,male,black or african american,6.56,9.29,3.28,6.70,439.00,13.67,full scoring
+4165,5,57.00,no,female,hispanic,10.32,16.33,4.13,12.55,349.00,20.11,full scoring
+4167,5,77.00,no,female,asian,28.92,30.58,20.94,23.43,361.00,20.61,full scoring
+4168,5,90.00,yes,male,hispanic,11.24,13.72,5.45,8.93,363.00,11.07,full scoring
+4169,5,59.00,no,female,white,,,,,,,unknown
+4170,5,57.00,no,male,black or african american,20.25,21.16,12.70,14.06,397.00,8.77,full scoring
+4171,5,67.00,no,female,black or african american,7.87,9.22,5.90,7.62,488.00,18.44,full scoring
+4173,5,63.00,no,female,black or african american,15.53,16.42,12.29,14.19,537.00,21.34,full scoring
+4174,5,79.00,no,male,asian,39.21,42.86,33.56,38.48,329.00,30.09,full scoring
+4178,5,87.00,no,female,hispanic,72.84,73.56,68.80,69.66,416.00,41.11,full scoring
+4186,5,55.00,no,male,black or african american,37.78,40.52,30.07,34.12,459.00,21.05,full scoring
+4189,5,76.00,no,male,black or african american,20.89,26.22,15.11,22.67,135.00,22.67,full scoring
+4190,5,80.00,no,female,white,3.88,7.21,1.11,5.27,433.00,24.25,full scoring
+4196,5,72.00,no,female,hispanic,11.55,14.65,8.17,12.11,213.00,23.38,full scoring
+4199,5,67.00,no,female,white,10.36,12.23,6.76,9.06,417.00,11.51,full scoring
+4200,5,78.00,no,male,hispanic,25.97,26.23,23.54,23.80,469.00,18.55,full scoring
+4203,5,57.00,no,female,black or african american,5.11,6.48,2.90,4.26,352.00,8.01,full scoring
+4205,5,71.00,no,male,asian,26.18,32.73,20.73,29.30,385.00,25.56,full scoring
+4211,5,82.00,no,female,white,,,,,,,unknown
+4215,5,58.00,no,male,hispanic,85.96,88.85,72.50,76.92,312.00,23.46,full scoring
+4216,5,66.00,no,male,black or african american,26.29,29.38,17.01,22.27,194.00,11.13,full scoring
+4219,5,90.00,yes,male,white,5.36,6.03,2.54,3.88,448.00,7.77,full scoring
+4221,5,77.00,no,female,black or african american,,,,,,,unknown
+4223,5,59.00,no,female,asian,4.83,5.10,4.03,4.43,447.00,8.19,full scoring
+4224,5,74.00,no,male,white,5.26,14.85,1.86,12.68,194.00,21.03,full scoring
+4227,5,67.00,no,female,hispanic,9.96,20.35,3.39,15.90,283.00,39.43,full scoring
+4228,5,64.00,no,female,white,72.78,76.90,55.23,63.47,277.00,45.92,full scoring
+4229,5,55.00,no,male,hispanic,70.69,72.33,68.52,70.51,331.00,46.04,full scoring
+4230,5,58.00,no,female,asian,14.92,16.29,11.12,13.40,394.00,14.31,full scoring
+4232,5,67.00,no,male,black or african american,13.33,19.26,5.68,15.31,243.00,23.46,full scoring
+4233,5,76.00,no,male,white,,,,,,,unknown
+4236,5,76.00,no,male,white,25.27,26.98,17.05,21.55,387.00,14.42,full scoring
+4240,5,73.00,no,female,white,13.35,30.35,5.03,26.18,346.00,53.24,full scoring
+4241,5,79.00,no,male,white,37.86,43.80,21.18,30.80,374.00,23.58,full scoring
+4244,5,79.00,no,female,hispanic,15.80,18.51,10.53,16.91,376.00,20.74,full scoring
+4245,5,67.00,no,male,black or african american,20.33,24.88,15.36,21.18,422.00,20.76,full scoring
+4247,5,71.00,no,male,white,,,,,,,unknown
+4250,5,65.00,no,female,white,33.15,40.46,17.14,30.00,476.00,22.94,full scoring
+4252,5,69.00,no,female,white,18.29,33.39,8.70,26.61,469.00,33.26,full scoring
+4254,5,57.00,no,male,white,17.88,26.68,9.23,22.36,416.00,29.71,full scoring
+4256,5,63.00,no,female,black or african american,25.37,29.53,17.18,23.89,447.00,23.22,full scoring
+4257,5,69.00,no,female,asian,5.27,5.88,3.65,4.26,296.00,11.55,full scoring
+4258,5,61.00,no,female,white,14.08,17.92,10.40,14.88,375.00,15.20,full scoring
+4265,5,57.00,no,male,black or african american,11.85,18.52,7.16,16.30,243.00,28.40,full scoring
+4266,5,62.00,no,male,asian,8.86,12.29,5.43,9.71,210.00,20.86,full scoring
+4267,5,77.00,no,female,hispanic,9.15,9.86,6.30,7.13,505.00,10.34,full scoring
+4268,5,59.00,no,male,black or african american,13.23,18.66,7.09,14.65,254.00,20.31,full scoring
+4270,5,73.00,no,male,black or african american,7.23,26.60,5.32,24.89,282.00,45.53,full scoring
+4273,5,59.00,no,female,hispanic,28.19,31.68,18.21,24.45,481.00,17.96,full scoring
+4275,5,78.00,no,female,hispanic,54.34,56.04,50.38,53.21,106.00,28.87,full scoring
+4276,5,65.00,no,female,black or african american,54.75,55.41,50.00,50.82,366.00,36.89,full scoring
+4277,5,61.00,no,female,black or african american,17.12,19.16,13.35,16.81,382.00,15.71,full scoring
+4284,5,84.00,no,male,asian,23.22,30.74,17.17,27.63,367.00,23.87,full scoring
+4285,5,64.00,no,female,white,8.96,10.09,8.25,9.53,422.00,10.09,full scoring
+4289,5,77.00,no,female,black or african american,67.65,71.48,47.48,56.35,345.00,36.70,full scoring
+4292,5,62.00,no,female,white,4.13,6.41,2.85,5.56,421.00,22.66,full scoring
+4294,5,76.00,no,female,hispanic,5.33,7.30,1.18,3.36,304.00,14.80,full scoring
+4295,5,81.00,no,male,white,82.74,83.84,81.64,82.74,219.00,66.03,full scoring
+4296,5,81.00,no,female,hispanic,5.35,13.48,2.03,11.45,325.00,15.14,full scoring
+4298,5,82.00,no,male,black or african american,12.27,15.68,9.20,13.81,352.00,19.09,full scoring
+4301,5,64.00,no,female,hispanic,4.06,5.87,2.52,5.03,429.00,16.50,full scoring
+4304,5,57.00,no,female,asian,3.26,7.70,1.70,6.65,460.00,25.70,full scoring
+4305,5,69.00,no,female,asian,14.62,17.97,11.27,15.84,394.00,23.15,full scoring
+4308,5,57.00,no,male,white,12.00,12.52,6.39,7.57,460.00,7.96,full scoring
+4309,5,86.00,no,male,asian,26.51,35.58,12.79,28.14,258.00,33.49,full scoring
+4311,5,57.00,no,female,black or african american,16.10,20.85,11.71,17.20,164.00,12.07,full scoring
+4316,5,80.00,no,female,black or african american,19.35,34.84,9.68,32.90,62.00,49.35,full scoring
+4318,5,70.00,no,female,hispanic,1.48,2.70,0.40,2.02,445.00,16.85,full scoring
+4319,5,68.00,no,male,black or african american,7.65,7.89,6.69,7.17,251.00,11.47,full scoring
+4322,5,76.00,no,male,white,6.62,12.66,3.51,10.13,308.00,15.58,full scoring
+4325,5,79.00,no,male,white,6.87,10.66,2.89,7.95,332.00,22.23,full scoring
+4330,5,87.00,no,female,white,26.84,31.45,19.32,26.32,351.00,27.01,full scoring
+4332,5,64.00,no,male,black or african american,17.96,20.19,11.69,15.31,431.00,16.15,full scoring
+4333,5,83.00,no,male,black or african american,2.53,2.89,0.36,1.08,166.00,26.39,full scoring
+4334,5,82.00,no,male,hispanic,26.93,29.07,13.07,16.27,450.00,10.67,full scoring
+4340,5,58.00,no,female,black or african american,31.14,34.83,25.31,30.28,422.00,23.60,full scoring
+4341,5,73.00,no,male,hispanic,61.04,61.25,57.72,58.34,289.00,23.46,full scoring
+4345,5,77.00,no,female,black or african american,26.67,28.21,22.82,24.87,234.00,18.21,full scoring
+4352,5,81.00,no,female,black or african american,0.58,2.88,0.29,2.74,416.00,12.69,full scoring
+4366,5,71.00,no,male,asian,30.00,32.82,23.33,28.46,234.00,23.85,full scoring
+4367,5,77.00,no,male,black or african american,3.17,3.62,2.26,2.72,265.00,14.94,full scoring
+4375,5,79.00,no,male,asian,61.03,64.14,60.00,63.36,232.00,51.72,full scoring
+4379,5,80.00,no,female,asian,5.83,8.48,4.50,7.42,453.00,18.54,full scoring
+4383,5,68.00,no,female,black or african american,20.00,22.32,15.36,18.39,336.00,15.71,full scoring
+4385,5,61.00,no,female,hispanic,11.35,14.81,5.38,11.35,312.00,21.73,full scoring
+4389,5,67.00,no,female,black or african american,72.08,74.72,56.23,61.51,159.00,40.00,full scoring
+4393,5,78.00,no,female,white,6.26,9.04,3.48,6.96,345.00,18.96,full scoring
+4394,5,70.00,no,male,asian,27.14,29.29,22.50,25.89,336.00,22.86,full scoring
+4396,5,78.00,no,male,white,11.31,13.31,9.12,11.85,329.00,19.88,full scoring
+4406,5,85.00,no,female,black or african american,9.32,13.84,4.38,10.73,425.00,21.60,full scoring
+4408,5,90.00,yes,female,hispanic,29.05,51.79,13.26,42.32,95.00,56.21,full scoring
+4409,5,74.00,no,female,hispanic,55.18,60.00,43.34,52.98,299.00,45.35,full scoring
+4410,5,61.00,no,male,black or african american,7.81,9.84,2.81,6.72,384.00,16.56,full scoring
+4411,5,56.00,no,female,white,51.49,52.72,44.07,46.27,437.00,33.91,full scoring
+4412,5,70.00,no,female,hispanic,36.00,36.83,27.83,29.83,360.00,17.83,full scoring
+4415,5,77.00,no,male,black or african american,20.38,21.54,14.81,17.12,312.00,18.65,full scoring
+4417,5,64.00,no,male,white,20.89,22.68,13.04,15.18,336.00,16.43,full scoring
+4420,5,61.00,no,female,white,4.41,5.97,1.56,3.55,422.00,16.21,full scoring
+4428,5,70.00,no,male,hispanic,44.20,48.51,31.44,38.62,376.00,32.71,full scoring
+4432,5,57.00,no,female,white,1.03,1.92,0.88,1.77,407.00,13.12,full scoring
+4436,5,68.00,no,male,black or african american,3.66,4.30,0.95,2.23,377.00,23.08,full scoring
+4437,5,62.00,no,male,white,28.95,36.84,18.82,30.56,373.00,35.23,full scoring
+4443,5,61.00,no,male,white,61.18,61.18,45.17,45.17,356.00,,sleep/wake only
+4449,5,74.00,no,female,asian,11.01,12.03,6.81,9.42,414.00,21.01,full scoring
+4450,5,56.00,no,female,asian,50.27,55.21,39.04,46.71,438.00,28.36,full scoring
+4460,5,63.00,no,female,black or african american,7.84,12.03,2.57,8.11,444.00,13.38,full scoring
+4461,5,62.00,no,male,black or african american,5.51,7.39,2.03,4.93,414.00,12.32,full scoring
+4462,5,67.00,no,female,black or african american,14.53,17.70,7.91,11.65,417.00,25.47,full scoring
+4465,5,73.00,no,female,white,26.73,27.61,20.00,21.77,339.00,18.76,full scoring
+4467,5,57.00,no,female,asian,,,,,,,unknown
+4469,5,75.00,no,male,black or african american,71.12,71.38,62.84,64.66,232.00,52.24,full scoring
+4474,5,56.00,no,male,white,4.46,10.19,3.57,9.94,471.00,29.55,full scoring
+4476,5,68.00,no,male,hispanic,30.38,34.99,19.64,27.77,391.00,30.08,full scoring
+4477,5,84.00,no,female,black or african american,17.08,20.37,8.62,14.26,383.00,23.19,full scoring
+4478,5,89.00,no,male,hispanic,26.97,43.87,19.41,38.82,238.00,72.35,full scoring
+4479,5,79.00,no,male,hispanic,13.18,15.85,9.97,13.35,337.00,15.85,full scoring
+4480,5,76.00,no,male,white,17.83,25.03,7.89,19.54,175.00,19.20,full scoring
+4484,5,69.00,no,male,white,66.98,74.83,43.95,62.79,344.00,68.90,full scoring
+4488,5,55.00,no,female,black or african american,9.65,12.16,4.63,7.93,454.00,9.65,full scoring
+4490,5,67.00,no,male,white,30.00,32.32,20.32,27.48,310.00,29.42,full scoring
+4492,5,71.00,no,female,hispanic,28.15,33.63,20.89,29.17,471.00,22.93,full scoring
+4493,5,76.00,no,female,asian,0.14,1.10,0.00,0.96,437.00,11.40,full scoring
+4495,5,90.00,yes,female,hispanic,8.24,13.73,5.69,12.35,306.00,15.88,full scoring
+4496,5,58.00,no,female,black or african american,19.66,21.71,14.02,16.58,351.00,11.11,full scoring
+4497,5,69.00,no,male,white,15.72,18.89,7.50,13.41,416.00,15.72,full scoring
+4499,5,73.00,no,female,asian,3.13,12.53,1.69,12.05,249.00,22.17,full scoring
+4500,5,83.00,no,female,white,7.06,10.78,3.53,9.61,306.00,29.22,full scoring
+4501,5,62.00,no,female,black or african american,7.89,12.24,6.12,11.05,304.00,19.54,full scoring
+4506,5,56.00,no,female,hispanic,4.11,8.40,2.40,7.03,350.00,16.46,full scoring
+4508,5,61.00,no,female,asian,6.51,12.38,3.96,10.47,470.00,21.96,full scoring
+4511,5,80.00,no,female,hispanic,31.76,34.64,24.97,29.54,459.00,20.13,full scoring
+4512,5,85.00,no,female,white,9.61,11.97,5.35,8.98,381.00,12.28,full scoring
+4514,5,80.00,no,female,black or african american,31.48,33.13,23.57,27.03,364.00,18.13,full scoring
+4515,5,66.00,no,male,hispanic,43.11,51.55,31.50,46.98,341.00,39.41,full scoring
+4517,5,57.00,no,female,white,,,,,,,unknown
+4520,5,61.00,no,female,hispanic,5.47,5.47,4.63,5.26,285.00,27.58,full scoring
+4521,5,81.00,no,female,black or african american,12.08,19.39,7.17,15.74,427.00,24.17,full scoring
+4527,5,74.00,no,male,white,50.19,66.91,33.68,55.76,269.00,45.50,full scoring
+4529,5,60.00,no,male,asian,54.11,55.97,50.54,53.49,387.00,29.61,full scoring
+4535,5,70.00,no,female,white,24.76,26.98,15.89,19.96,487.00,24.39,full scoring
+4538,5,71.00,no,female,white,5.25,5.50,2.94,3.20,469.00,6.14,full scoring
+4541,5,71.00,no,female,hispanic,41.93,44.53,27.33,33.11,415.00,28.77,full scoring
+4544,5,55.00,no,male,white,40.31,41.37,32.06,34.35,393.00,17.10,full scoring
+4545,5,57.00,no,male,asian,44.43,45.73,43.30,44.92,370.00,32.59,full scoring
+4552,5,69.00,no,male,black or african american,3.21,7.79,1.60,7.10,262.00,15.34,full scoring
+4554,5,74.00,no,male,hispanic,30.37,33.02,22.70,26.54,407.00,22.11,full scoring
+4555,5,56.00,no,male,white,27.72,31.65,14.96,21.57,381.00,25.98,full scoring
+4557,5,65.00,no,female,white,12.28,16.89,8.32,13.43,469.00,14.20,full scoring
+4561,5,74.00,no,male,black or african american,9.13,13.91,6.30,12.17,276.00,12.61,full scoring
+4563,5,65.00,no,male,hispanic,15.74,17.38,11.14,13.37,404.00,8.47,full scoring
+4570,5,72.00,no,male,white,10.03,11.28,6.42,9.56,383.00,13.16,full scoring
+4575,5,63.00,no,female,black or african american,0.15,0.30,0.00,0.15,401.00,13.32,full scoring
+4576,5,62.00,no,male,black or african american,20.19,21.73,14.62,17.69,312.00,15.00,full scoring
+4577,5,68.00,no,female,black or african american,15.26,16.82,13.01,14.91,346.00,11.62,full scoring
+4579,5,74.00,no,female,black or african american,39.93,42.16,28.78,33.04,296.00,26.35,full scoring
+4580,5,72.00,no,male,white,62.52,67.77,54.76,62.14,309.00,35.92,full scoring
+4582,5,58.00,no,female,white,25.28,29.34,13.23,22.79,458.00,24.37,full scoring
+4584,5,69.00,no,male,white,9.27,15.92,5.95,14.52,343.00,27.29,full scoring
+4586,5,68.00,no,female,black or african american,,,,,,,unknown
+4588,5,69.00,no,female,asian,23.70,26.42,21.73,24.69,243.00,17.28,full scoring
+4590,5,60.00,no,female,hispanic,4.34,8.18,1.61,6.07,484.00,27.77,full scoring
+4592,5,73.00,no,female,hispanic,46.01,48.19,33.89,38.70,386.00,31.55,full scoring
+4594,5,56.00,no,female,black or african american,,,,,,,unknown
+4597,5,79.00,no,female,hispanic,3.18,7.00,1.11,5.09,377.00,23.40,full scoring
+4598,5,59.00,no,female,white,3.17,3.40,1.36,1.58,265.00,4.30,full scoring
+4600,5,77.00,no,female,black or african american,15.92,16.09,13.07,13.24,358.00,2.35,full scoring
+4611,5,82.00,no,male,asian,76.48,80.44,61.65,70.55,182.00,62.31,full scoring
+4612,5,75.00,no,female,hispanic,4.72,5.06,1.52,1.85,356.00,7.75,full scoring
+4614,5,76.00,no,male,black or african american,7.57,15.31,3.87,12.32,341.00,30.44,full scoring
+4615,5,72.00,no,male,black or african american,12.41,13.60,6.46,8.50,353.00,18.36,full scoring
+4617,5,67.00,no,female,hispanic,4.13,4.74,2.19,3.04,494.00,9.11,full scoring
+4618,5,87.00,no,male,white,1.10,1.83,0.24,1.10,491.00,9.16,full scoring
+4622,5,61.00,no,female,white,23.01,28.94,14.96,24.99,425.00,30.78,full scoring
+4623,5,74.00,no,male,asian,0.79,3.78,0.63,3.62,381.00,17.48,full scoring
+4624,5,62.00,no,male,black or african american,97.61,99.71,93.41,96.73,343.00,73.29,full scoring
+4627,5,61.00,no,female,hispanic,6.17,7.29,6.03,7.15,428.00,9.53,full scoring
+4635,5,82.00,no,female,hispanic,8.41,11.40,5.23,9.16,321.00,20.00,full scoring
+4638,5,64.00,no,female,black or african american,54.82,63.67,39.71,52.88,278.00,41.22,full scoring
+4641,5,68.00,no,male,black or african american,58.55,61.81,50.60,55.66,166.00,37.95,full scoring
+4642,5,64.00,no,female,white,1.33,2.39,0.27,1.60,451.00,16.36,full scoring
+4644,5,72.00,no,female,black or african american,,,,,,,unknown
+4646,5,62.00,no,male,white,,,,,,,unknown
+4648,5,85.00,no,male,hispanic,8.91,10.50,6.68,9.23,377.00,12.10,full scoring
+4649,5,71.00,no,male,hispanic,69.51,73.17,69.51,73.17,164.00,72.07,full scoring
+4650,5,62.00,no,male,black or african american,6.00,8.47,1.76,6.35,170.00,30.00,full scoring
+4658,5,84.00,no,female,asian,1.29,5.73,0.29,4.73,419.00,23.34,full scoring
+4659,5,74.00,no,male,hispanic,,,,,,,unknown
+4661,5,86.00,no,female,hispanic,19.01,22.31,6.78,11.07,363.00,8.76,full scoring
+4662,5,77.00,no,female,black or african american,5.20,6.13,2.41,3.53,323.00,27.49,full scoring
+4663,5,77.00,no,female,asian,,,,,,,unknown
+4667,5,73.00,no,female,black or african american,1.72,3.45,1.38,3.28,348.00,27.59,full scoring
+4668,5,75.00,no,female,asian,2.11,6.21,0.37,4.72,483.00,11.18,full scoring
+4671,5,66.00,no,male,hispanic,27.87,33.23,20.79,30.39,381.00,33.23,full scoring
+4675,5,86.00,no,female,black or african american,14.07,22.04,6.90,16.19,226.00,24.16,full scoring
+4677,5,66.00,no,female,black or african american,5.80,7.16,3.92,5.80,352.00,12.95,full scoring
+4682,5,68.00,no,female,black or african american,3.80,5.78,1.99,4.88,332.00,11.02,full scoring
+4683,5,57.00,no,male,hispanic,13.48,16.01,8.26,12.47,356.00,16.52,full scoring
+4701,5,70.00,no,female,white,12.77,13.23,9.69,10.15,390.00,5.23,full scoring
+4706,5,80.00,no,male,white,2.41,2.66,1.27,1.52,474.00,8.35,full scoring
+4710,5,80.00,no,male,white,,,,,,,unknown
+4715,5,64.00,no,female,white,0.30,1.94,0.30,1.94,403.00,16.38,full scoring
+4720,5,65.00,no,male,hispanic,31.29,34.91,24.05,29.74,232.00,24.05,full scoring
+4721,5,78.00,no,female,white,,,,,,,unknown
+4723,5,77.00,no,female,asian,13.87,25.32,6.94,21.61,372.00,37.10,full scoring
+4728,5,64.00,no,female,white,6.34,10.79,1.08,6.74,445.00,19.01,full scoring
+4729,5,60.00,no,female,white,0.00,1.39,0.00,1.39,345.00,31.48,full scoring
+4730,5,75.00,no,female,black or african american,20.36,22.34,16.22,19.46,333.00,13.87,full scoring
+4731,5,63.00,no,female,white,18.80,31.11,12.44,26.68,434.00,30.97,full scoring
+4732,5,64.00,no,male,hispanic,26.81,28.85,18.13,21.19,470.00,20.68,full scoring
+4734,5,66.00,no,male,white,32.16,37.78,20.78,28.89,459.00,24.05,full scoring
+4750,5,59.00,no,male,black or african american,10.52,11.88,5.45,7.60,308.00,9.74,full scoring
+4756,5,62.00,no,male,black or african american,11.09,15.09,8.00,13.09,330.00,15.64,full scoring
+4759,5,71.00,no,female,white,59.42,64.05,46.84,55.08,415.00,47.13,full scoring
+4760,5,82.00,no,male,white,10.23,10.93,4.88,6.28,258.00,8.60,full scoring
+4763,5,90.00,yes,female,white,15.21,22.46,9.10,17.91,422.00,28.01,full scoring
+4765,5,58.00,no,female,white,2.91,6.44,1.14,5.18,475.00,16.29,full scoring
+4766,5,82.00,no,female,black or african american,,,,,,,unknown
+4772,5,62.00,no,female,asian,24.43,29.01,18.17,25.80,393.00,33.13,full scoring
+4774,5,73.00,no,male,white,7.87,22.92,3.60,20.45,267.00,42.92,full scoring
+4775,5,70.00,no,female,hispanic,,,,,,,unknown
+4777,5,82.00,no,male,hispanic,48.43,53.62,44.17,50.79,254.00,32.83,full scoring
+4778,5,78.00,no,female,hispanic,4.90,6.28,3.01,4.52,478.00,8.79,full scoring
+4782,5,65.00,no,female,white,0.57,1.71,0.43,1.71,422.00,12.23,full scoring
+4783,5,61.00,no,male,black or african american,6.72,14.64,5.04,13.20,250.00,31.44,full scoring
+4786,5,68.00,no,female,black or african american,16.71,16.84,11.77,12.53,474.00,9.24,full scoring
+4789,5,69.00,no,female,black or african american,40.98,44.15,32.32,36.34,492.00,21.46,full scoring
+4794,5,86.00,no,female,hispanic,46.79,52.52,36.29,45.36,377.00,40.27,full scoring
+4795,5,56.00,no,female,hispanic,6.47,7.24,3.62,4.91,232.00,7.50,full scoring
+4805,5,61.00,no,male,hispanic,25.10,30.75,20.11,28.42,361.00,35.57,full scoring
+4806,5,59.00,no,female,asian,4.74,8.74,2.22,6.96,405.00,14.67,full scoring
+4808,5,77.00,no,female,black or african american,18.58,22.65,13.10,18.94,339.00,20.71,full scoring
+4815,5,57.00,no,male,hispanic,2.11,3.52,1.23,2.99,341.00,14.08,full scoring
+4816,5,67.00,no,male,hispanic,76.10,77.56,63.90,68.13,369.00,41.30,full scoring
+4820,5,65.00,no,male,white,20.74,29.84,13.24,25.37,376.00,26.81,full scoring
+4822,5,75.00,no,female,asian,13.26,15.47,10.26,12.79,380.00,16.74,full scoring
+4826,5,75.00,no,male,white,62.89,70.12,52.77,65.24,332.00,58.73,full scoring
+4830,5,56.00,no,female,white,10.95,12.55,7.74,9.93,411.00,9.05,full scoring
+4831,5,57.00,no,female,black or african american,3.21,3.50,1.31,1.90,411.00,4.53,full scoring
+4839,5,81.00,no,female,hispanic,15.64,18.77,12.37,17.06,422.00,25.73,full scoring
+4842,5,64.00,no,female,hispanic,0.00,3.56,0.00,3.56,253.00,19.68,full scoring
+4846,5,82.00,no,male,black or african american,4.42,7.73,2.21,5.89,163.00,9.20,full scoring
+4849,5,61.00,no,male,white,32.63,37.08,23.24,30.88,377.00,30.24,full scoring
+4854,5,62.00,no,female,black or african american,7.46,14.77,4.72,12.49,394.00,19.34,full scoring
+4860,5,67.00,no,male,white,4.43,13.70,1.70,12.13,460.00,18.52,full scoring
+4861,5,61.00,no,female,black or african american,3.12,4.29,1.75,2.92,308.00,9.35,full scoring
+4864,5,63.00,no,male,black or african american,17.32,20.29,11.02,15.74,343.00,15.22,full scoring
+4865,5,64.00,no,female,white,13.79,15.76,10.45,13.48,396.00,15.91,full scoring
+4873,5,74.00,no,male,asian,27.03,30.17,15.87,21.80,344.00,17.97,full scoring
+4875,5,64.00,no,female,white,8.18,11.18,4.77,9.27,440.00,19.91,full scoring
+4878,5,74.00,no,female,black or african american,56.10,57.08,48.30,51.01,554.00,20.69,full scoring
+4880,5,79.00,no,female,white,24.81,47.22,16.39,43.16,399.00,40.60,full scoring
+4886,5,78.00,no,male,black or african american,57.73,61.22,47.09,52.67,344.00,31.22,full scoring
+4888,5,71.00,no,female,white,7.02,8.75,4.07,6.16,487.00,9.61,full scoring
+4892,5,60.00,no,female,black or african american,2.88,3.48,1.56,2.40,500.00,9.12,full scoring
+4895,5,74.00,no,female,white,1.39,1.56,0.69,0.87,346.00,10.58,full scoring
+4897,5,72.00,no,male,white,,,,,,,unknown
+4912,5,77.00,no,male,hispanic,32.35,41.93,18.61,35.06,332.00,30.36,full scoring
+4918,5,74.00,no,female,white,5.42,7.31,2.17,5.15,443.00,18.96,full scoring
+4920,5,73.00,no,male,black or african american,,,,,,,unknown
+4928,5,60.00,no,female,white,36.32,41.19,18.65,27.08,370.00,18.49,full scoring
+4929,5,63.00,no,male,asian,11.07,17.12,7.09,14.70,347.00,18.50,full scoring
+4935,5,56.00,no,female,black or african american,6.21,8.82,3.35,6.46,483.00,15.16,full scoring
+4939,5,63.00,no,male,white,12.32,13.33,9.42,11.01,414.00,16.81,full scoring
+4940,5,59.00,no,male,asian,,,,,,,unknown
+4947,5,64.00,no,male,asian,42.56,43.12,38.09,39.49,430.00,22.60,full scoring
+4948,5,82.00,no,female,white,30.29,39.76,17.77,29.71,412.00,23.45,full scoring
+4950,5,75.00,no,male,black or african american,22.88,30.22,15.40,26.19,417.00,28.78,full scoring
+4951,5,59.00,no,female,asian,5.38,11.43,3.77,10.49,446.00,23.54,full scoring
+4958,5,65.00,no,female,hispanic,23.41,23.83,16.68,18.36,428.00,16.96,full scoring
+4961,5,68.00,no,male,hispanic,7.13,9.33,2.59,5.70,463.00,13.09,full scoring
+4968,5,84.00,no,male,hispanic,,,,,,,unknown
+4969,5,80.00,no,female,asian,2.36,3.81,1.45,2.90,331.00,19.40,full scoring
+4971,5,71.00,no,female,hispanic,,,,,,,unknown
+4974,5,63.00,no,female,asian,19.58,25.62,13.05,22.28,377.00,27.06,full scoring
+4980,5,62.00,no,female,white,2.91,5.95,1.85,4.89,454.00,32.91,full scoring
+4989,5,59.00,no,female,black or african american,30.48,32.40,23.04,25.92,250.00,18.72,full scoring
+4994,5,80.00,no,female,asian,0.00,0.41,0.00,0.41,296.00,7.30,full scoring
+4995,5,86.00,no,female,hispanic,24.50,39.75,9.50,28.00,240.00,29.50,full scoring
+4998,5,71.00,no,male,white,4.63,7.03,2.23,5.66,350.00,20.57,full scoring
+5000,5,89.00,no,female,black or african american,25.81,28.43,15.98,21.22,458.00,15.98,full scoring
+5001,5,64.00,no,male,white,1.55,4.47,0.19,4.08,309.00,28.54,full scoring
+5002,5,75.00,no,female,white,17.24,22.81,10.63,19.05,463.00,19.05,full scoring
+5006,5,75.00,no,female,hispanic,28.65,30.55,21.85,24.38,379.00,8.23,full scoring
+5007,5,58.00,no,male,hispanic,19.39,20.91,14.70,16.97,396.00,10.61,full scoring
+5009,5,74.00,no,female,asian,9.66,10.60,4.21,5.30,385.00,9.04,full scoring
+5011,5,77.00,no,female,black or african american,14.31,45.08,6.09,38.68,197.00,41.42,full scoring
+5013,5,77.00,no,male,black or african american,,,,,,,unknown
+5017,5,88.00,no,female,white,31.44,34.56,24.72,30.00,250.00,23.76,full scoring
+5029,5,63.00,no,male,asian,15.66,22.24,9.07,17.12,410.00,20.93,full scoring
+5031,5,55.00,no,female,black or african american,48.66,49.22,39.82,41.47,217.00,23.50,full scoring
+5033,5,68.00,no,male,black or african american,32.78,51.28,18.77,42.56,227.00,47.05,full scoring
+5038,5,62.00,no,male,hispanic,12.11,14.57,6.44,10.03,317.00,13.06,full scoring
+5040,5,70.00,no,female,black or african american,20.49,23.78,12.07,18.11,328.00,21.40,full scoring
+5047,5,67.00,no,male,white,21.79,23.13,16.12,18.51,402.00,19.10,full scoring
+5053,5,75.00,no,female,white,38.47,45.73,23.95,35.93,496.00,42.46,full scoring
+5056,5,73.00,no,female,white,10.74,31.07,5.45,30.41,363.00,50.91,full scoring
+5060,5,83.00,no,female,white,,,,,,,unknown
+5063,5,84.00,no,male,black or african american,10.99,22.93,10.68,22.93,191.00,21.36,full scoring
+5067,5,55.00,no,male,white,11.22,14.79,6.63,11.56,353.00,18.70,full scoring
+5072,5,71.00,no,female,white,4.81,5.58,2.95,4.19,387.00,11.32,full scoring
+5073,5,90.00,yes,male,asian,32.81,34.74,29.12,32.46,342.00,16.32,full scoring
+5075,5,57.00,no,male,asian,42.08,50.00,32.45,45.85,318.00,45.47,full scoring
+5077,5,61.00,no,female,black or african american,37.31,42.69,29.25,35.52,402.00,24.33,full scoring
+5079,5,71.00,no,male,white,32.14,47.34,15.19,36.23,308.00,31.56,full scoring
+5092,5,56.00,no,male,hispanic,13.14,20.00,10.39,18.04,306.00,17.65,full scoring
+5096,5,68.00,no,female,white,34.70,39.55,20.61,28.64,396.00,29.55,full scoring
+5097,5,77.00,no,female,asian,31.22,34.49,22.45,27.14,294.00,25.92,full scoring
+5101,5,67.00,no,male,black or african american,37.61,45.13,23.93,34.53,351.00,28.03,full scoring
+5103,5,80.00,no,female,black or african american,36.55,37.10,28.83,30.76,435.00,13.24,full scoring
+5104,5,75.00,no,female,white,28.05,33.04,15.90,23.38,385.00,21.35,full scoring
+5105,5,61.00,no,male,white,,,,,,,unknown
+5106,5,90.00,yes,female,black or african american,,,,,,,unknown
+5108,5,59.00,no,female,white,23.15,31.52,16.45,26.80,394.00,32.44,full scoring
+5113,5,76.00,no,male,white,,,,,,,unknown
+5116,5,56.00,no,female,black or african american,,,,,,,unknown
+5117,5,80.00,no,female,white,81.63,81.63,80.88,81.07,319.00,64.70,full scoring
+5118,5,69.00,no,female,white,23.30,31.81,12.14,24.42,430.00,23.16,full scoring
+5119,5,83.00,no,female,white,2.09,4.49,0.90,3.89,401.00,22.59,full scoring
+5121,5,59.00,no,female,hispanic,20.38,21.36,15.33,16.96,368.00,10.76,full scoring
+5127,5,59.00,no,female,white,0.76,0.89,0.38,0.51,474.00,6.08,full scoring
+5129,5,60.00,no,male,asian,14.85,15.88,12.78,14.23,291.00,7.84,full scoring
+5131,5,66.00,no,female,hispanic,2.20,3.89,1.30,3.11,463.00,12.57,full scoring
+5134,5,87.00,no,female,white,7.10,8.46,4.08,5.44,397.00,6.95,full scoring
+5135,5,64.00,no,male,asian,13.92,21.60,6.56,17.76,375.00,29.12,full scoring
+5137,5,63.00,no,male,hispanic,27.45,30.55,20.18,24.36,330.00,18.91,full scoring
+5148,5,84.00,no,male,black or african american,39.28,40.72,26.52,30.72,414.00,20.14,full scoring
+5149,5,73.00,no,male,white,6.79,13.21,5.36,12.14,168.00,18.93,full scoring
+5151,5,58.00,no,male,black or african american,18.46,24.83,10.82,19.10,377.00,21.49,full scoring
+5155,5,82.00,no,male,hispanic,32.44,35.84,31.22,35.02,442.00,34.89,full scoring
+5157,5,75.00,no,male,hispanic,5.02,12.64,1.61,10.43,299.00,21.27,full scoring
+5162,5,78.00,no,male,black or african american,44.36,46.51,35.57,38.89,307.00,19.54,full scoring
+5163,5,60.00,no,male,asian,53.01,63.13,46.01,58.71,326.00,47.12,full scoring
+5166,5,76.00,no,female,white,4.79,14.88,2.31,13.39,363.00,23.31,full scoring
+5167,5,67.00,no,female,hispanic,52.83,56.26,43.79,49.25,385.00,42.39,full scoring
+5169,5,69.00,no,female,white,18.43,24.57,13.86,20.63,381.00,22.99,full scoring
+5173,5,65.00,no,female,hispanic,4.20,6.22,1.01,3.53,357.00,10.25,full scoring
+5177,5,68.00,no,female,hispanic,54.04,61.94,41.99,56.13,403.00,44.67,full scoring
+5179,5,61.00,no,female,hispanic,16.28,30.06,4.90,23.00,527.00,38.71,full scoring
+5182,5,84.00,no,male,white,42.63,45.87,36.53,42.04,501.00,37.84,full scoring
+5187,5,58.00,no,male,hispanic,28.78,33.13,19.70,25.97,469.00,28.14,full scoring
+5195,5,73.00,no,male,black or african american,16.33,17.31,13.77,14.95,305.00,12.39,full scoring
+5196,5,78.00,no,female,asian,10.04,20.74,6.69,18.07,269.00,32.57,full scoring
+5197,5,83.00,no,female,white,,,,,,,unknown
+5199,5,88.00,no,female,white,2.58,6.21,1.21,5.30,396.00,26.36,full scoring
+5201,5,67.00,no,female,white,5.40,10.95,2.29,9.81,367.00,19.13,full scoring
+5202,5,81.00,no,male,black or african american,62.97,66.36,61.27,64.88,283.00,41.34,full scoring
+5203,5,84.00,no,male,black or african american,56.58,59.28,45.41,50.27,333.00,36.40,full scoring
+5208,5,79.00,no,male,white,41.06,44.24,35.17,39.15,377.00,28.81,full scoring
+5214,5,83.00,no,female,hispanic,57.63,58.65,49.18,51.21,355.00,13.52,full scoring
+5219,5,66.00,no,male,black or african american,1.53,2.29,0.25,1.02,236.00,10.42,full scoring
+5221,5,83.00,no,male,asian,8.07,10.71,4.55,8.22,409.00,17.16,full scoring
+5224,5,63.00,no,female,white,102.04,104.27,78.43,84.31,511.00,32.29,full scoring
+5225,5,89.00,no,female,white,,,,,,,unknown
+5231,5,67.00,no,male,white,6.39,15.08,2.30,11.97,366.00,23.44,full scoring
+5232,5,61.00,no,male,white,58.70,58.96,56.63,57.15,463.00,27.47,full scoring
+5234,5,81.00,no,male,hispanic,24.64,28.70,15.07,22.90,207.00,17.97,full scoring
+5236,5,82.00,no,male,black or african american,,,,,,,unknown
+5237,5,61.00,no,female,black or african american,,,,,,,unknown
+5238,5,66.00,no,female,asian,61.77,63.95,41.63,44.49,441.00,11.97,full scoring
+5239,5,71.00,no,male,hispanic,3.62,10.27,0.81,8.66,298.00,26.98,full scoring
+5240,5,61.00,no,female,white,9.10,12.03,7.48,11.44,409.00,20.54,full scoring
+5241,5,62.00,no,female,black or african american,14.25,18.25,11.25,15.75,240.00,30.50,full scoring
+5243,5,68.00,no,female,asian,0.00,1.76,0.00,1.76,170.00,7.06,full scoring
+5255,5,61.00,no,male,asian,11.83,15.17,9.05,13.78,431.00,18.79,full scoring
+5259,5,81.00,no,male,black or african american,9.14,11.07,5.61,8.18,374.00,14.12,full scoring
+5261,5,65.00,no,male,white,29.11,31.25,23.04,27.14,336.00,29.82,full scoring
+5267,5,66.00,no,female,white,5.03,6.32,3.10,4.77,465.00,8.52,full scoring
+5268,5,71.00,no,female,white,10.38,15.24,5.80,11.73,445.00,17.26,full scoring
+5272,5,65.00,no,male,asian,20.07,24.34,15.37,21.78,281.00,23.49,full scoring
+5273,5,69.00,no,female,white,20.51,27.99,14.19,24.73,313.00,34.12,full scoring
+5274,5,55.00,no,female,hispanic,15.74,18.71,11.88,15.89,404.00,14.41,full scoring
+5276,5,66.00,no,male,white,18.00,26.84,8.68,19.74,380.00,22.26,full scoring
+5277,5,74.00,no,female,hispanic,25.74,31.11,15.37,22.41,324.00,21.67,full scoring
+5281,5,57.00,no,male,asian,14.21,15.72,8.61,10.58,397.00,7.71,full scoring
+5283,5,61.00,no,female,white,33.98,43.93,18.21,34.29,392.00,36.89,full scoring
+5284,5,57.00,no,female,white,8.64,9.01,6.05,6.67,486.00,7.04,full scoring
+5287,5,76.00,no,male,black or african american,10.70,19.47,8.42,17.72,342.00,20.00,full scoring
+5292,5,62.00,no,female,asian,1.52,1.71,0.76,1.33,316.00,5.89,full scoring
+5295,5,77.00,no,female,white,11.16,16.98,7.44,14.07,371.00,13.26,full scoring
+5298,5,75.00,no,male,white,6.79,11.81,4.20,10.19,371.00,26.04,full scoring
+5299,5,57.00,no,male,white,2.84,4.26,1.74,3.47,380.00,13.11,full scoring
+5300,5,74.00,no,female,hispanic,8.12,11.15,5.64,9.08,436.00,15.14,full scoring
+5302,5,66.00,no,male,white,15.72,17.06,10.73,13.04,313.00,11.50,full scoring
+5303,5,67.00,no,male,white,53.26,62.33,32.56,51.16,258.00,48.14,full scoring
+5304,5,63.00,no,male,black or african american,21.40,25.74,14.36,19.15,401.00,18.25,full scoring
+5308,5,88.00,no,male,white,26.23,33.19,16.67,25.80,414.00,26.09,full scoring
+5309,5,74.00,no,male,hispanic,46.28,53.78,28.40,41.49,376.00,39.41,full scoring
+5311,5,60.00,no,male,black or african american,31.53,34.78,25.83,31.32,295.00,28.68,full scoring
+5316,5,84.00,no,male,hispanic,11.62,40.54,10.81,40.27,222.00,54.32,full scoring
+5318,5,56.00,no,female,black or african american,6.41,7.69,3.63,4.91,281.00,7.47,full scoring
+5326,5,59.00,no,male,hispanic,8.20,9.33,4.18,5.79,373.00,8.85,full scoring
+5328,5,63.00,no,male,asian,8.38,15.88,4.19,13.90,272.00,24.71,full scoring
+5331,5,63.00,no,male,white,9.66,17.24,3.45,13.10,261.00,21.61,full scoring
+5332,5,61.00,no,male,hispanic,2.44,8.44,2.06,8.44,320.00,17.63,full scoring
+5339,5,90.00,yes,male,black or african american,12.89,21.33,10.43,20.26,391.00,24.55,full scoring
+5341,5,66.00,no,male,white,,,,,,,unknown
+5343,5,66.00,no,female,white,9.51,11.80,7.21,9.84,366.00,17.05,full scoring
+5348,5,76.00,no,female,white,,,,,,,unknown
+5351,5,80.00,no,female,white,28.86,33.00,17.14,22.86,420.00,25.57,full scoring
+5353,5,64.00,no,male,white,4.25,6.05,2.45,4.58,367.00,14.55,full scoring
+5354,5,69.00,no,male,asian,32.14,33.43,27.86,29.79,280.00,15.21,full scoring
+5357,5,79.00,no,male,white,39.32,46.14,26.82,35.91,264.00,26.14,full scoring
+5358,5,63.00,no,male,asian,59.67,64.31,56.85,62.82,362.00,56.69,full scoring
+5362,5,64.00,no,female,white,9.88,12.26,6.59,9.33,328.00,11.89,full scoring
+5364,5,62.00,no,female,hispanic,10.69,12.07,8.45,10.17,348.00,12.07,full scoring
+5365,5,68.00,no,male,black or african american,48.57,52.95,38.10,45.33,315.00,39.81,full scoring
+5366,5,79.00,no,female,black or african american,11.91,15.15,7.35,12.06,408.00,17.06,full scoring
+5369,5,80.00,no,male,black or african american,37.20,49.35,26.17,47.29,321.00,37.94,full scoring
+5372,5,77.00,no,female,black or african american,9.62,10.76,5.95,8.02,262.00,12.37,full scoring
+5373,5,76.00,no,male,black or african american,86.98,88.11,75.66,77.74,318.00,10.75,full scoring
+5381,5,84.00,no,male,white,6.00,8.28,3.10,6.62,290.00,16.14,full scoring
+5387,5,72.00,no,male,white,17.14,21.96,6.25,13.75,336.00,19.64,full scoring
+5390,5,67.00,no,female,white,0.21,0.85,0.00,0.64,281.00,20.28,full scoring
+5393,5,56.00,no,female,hispanic,13.04,15.03,6.46,10.31,483.00,17.39,full scoring
+5395,5,82.00,no,male,black or african american,59.62,59.81,58.86,59.24,316.00,23.92,full scoring
+5396,5,81.00,no,female,white,7.40,16.85,6.99,16.71,438.00,27.26,full scoring
+5397,5,61.00,no,male,white,19.55,23.43,16.35,20.39,356.00,25.28,full scoring
+5402,5,62.00,no,female,black or african american,27.13,28.54,19.49,22.04,471.00,12.99,full scoring
+5405,5,66.00,no,male,black or african american,8.00,10.31,6.00,9.38,390.00,12.00,full scoring
+5409,5,64.00,no,male,white,6.89,17.08,2.51,15.35,383.00,26.16,full scoring
+5414,5,73.00,no,male,white,7.29,8.54,2.29,4.17,288.00,12.08,full scoring
+5423,5,69.00,no,male,asian,43.88,46.39,37.61,41.19,335.00,22.03,full scoring
+5426,5,90.00,yes,male,white,,,,,,,unknown
+5427,5,75.00,no,female,hispanic,15.58,17.18,9.47,11.94,412.00,10.63,full scoring
+5429,5,89.00,no,male,hispanic,47.53,53.13,36.69,45.90,332.00,35.78,full scoring
+5431,5,76.00,no,male,hispanic,48.44,68.37,34.88,63.19,301.00,47.84,full scoring
+5433,5,61.00,no,male,white,21.89,26.61,11.81,19.06,381.00,28.03,full scoring
+5438,5,75.00,no,male,white,9.15,15.03,3.92,11.63,459.00,26.27,full scoring
+5439,5,57.00,no,male,white,,,,,,,unknown
+5440,5,69.00,no,male,white,48.55,52.44,42.37,49.24,262.00,41.45,full scoring
+5443,5,60.00,no,female,white,12.59,15.66,7.90,13.61,410.00,37.61,full scoring
+5445,5,58.00,no,male,black or african american,,,,,,,unknown
+5447,5,89.00,no,male,black or african american,42.99,47.24,34.96,42.05,127.00,36.85,full scoring
+5450,5,67.00,no,female,black or african american,4.23,5.58,3.38,4.73,355.00,6.76,full scoring
+5451,5,70.00,no,male,white,14.79,23.50,6.22,17.42,434.00,28.89,full scoring
+5457,5,82.00,no,male,white,22.74,29.68,12.56,21.66,277.00,25.99,full scoring
+5463,5,56.00,no,female,hispanic,0.00,0.00,0.00,0.00,419.00,11.89,full scoring
+5464,5,87.00,no,male,asian,51.28,59.21,41.23,53.13,227.00,55.51,full scoring
+5469,5,67.00,no,female,asian,29.56,36.35,20.39,30.74,406.00,26.90,full scoring
+5472,5,85.00,no,male,black or african american,10.77,13.02,4.62,7.93,507.00,13.96,full scoring
+5474,5,86.00,no,male,asian,27.12,32.55,11.84,20.05,365.00,16.27,full scoring
+5475,5,76.00,no,female,white,2.68,5.05,1.26,3.95,380.00,19.89,full scoring
+5476,5,62.00,no,male,black or african american,8.55,12.91,4.55,10.18,330.00,21.45,full scoring
+5479,5,75.00,no,female,black or african american,2.11,4.59,0.74,3.60,484.00,5.95,full scoring
+5480,5,75.00,no,male,hispanic,19.95,25.18,12.80,19.40,436.00,20.23,full scoring
+5482,5,73.00,no,male,white,,,,,,,unknown
+5489,5,59.00,no,female,black or african american,11.30,13.12,5.58,8.18,462.00,10.78,full scoring
+5491,5,58.00,no,male,hispanic,41.87,49.25,32.46,44.10,268.00,40.75,full scoring
+5494,5,83.00,no,female,asian,26.63,26.97,20.56,21.40,356.00,7.58,full scoring
+5496,5,65.00,no,female,white,8.24,12.08,4.26,9.34,437.00,17.99,full scoring
+5499,5,67.00,no,male,white,28.78,41.55,16.22,35.68,296.00,42.77,full scoring
+5500,5,56.00,no,male,hispanic,8.71,11.84,3.54,8.98,441.00,19.86,full scoring
+5501,5,84.00,no,female,black or african american,,,,,,,unknown
+5503,5,69.00,no,female,white,32.52,34.58,24.05,28.17,524.00,21.76,full scoring
+5510,5,55.00,no,female,white,8.98,10.71,3.94,6.30,381.00,18.11,full scoring
+5513,5,63.00,no,male,white,3.51,5.54,1.29,4.06,325.00,16.80,full scoring
+5514,5,77.00,no,male,black or african american,8.33,10.03,4.08,6.29,353.00,10.37,full scoring
+5518,5,69.00,no,male,white,42.06,42.66,41.46,42.06,301.00,33.49,full scoring
+5522,5,72.00,no,male,white,23.30,33.40,12.78,27.63,291.00,39.79,full scoring
+5527,5,62.00,no,male,asian,6.92,13.84,5.93,13.55,425.00,17.08,full scoring
+5529,5,67.00,no,female,black or african american,2.18,4.15,0.22,3.05,275.00,23.56,full scoring
+5532,5,67.00,no,female,white,5.49,15.05,1.63,13.02,295.00,13.83,full scoring
+5537,5,71.00,no,female,hispanic,10.00,10.33,6.67,7.00,360.00,3.50,full scoring
+5543,5,85.00,no,male,black or african american,69.62,73.02,67.92,71.89,106.00,50.94,full scoring
+5550,5,63.00,no,female,white,11.10,13.47,4.49,7.36,481.00,11.60,full scoring
+5551,5,56.00,no,female,asian,3.32,6.36,0.83,4.01,434.00,11.75,full scoring
+5552,5,83.00,no,female,hispanic,,,,,,,unknown
+5555,5,57.00,no,female,white,13.15,14.96,8.46,11.94,397.00,18.59,full scoring
+5557,5,71.00,no,female,black or african american,65.43,67.87,53.48,59.46,221.00,31.49,full scoring
+5559,5,78.00,no,male,hispanic,28.19,29.46,20.96,24.04,332.00,29.10,full scoring
+5563,5,68.00,no,female,white,14.93,17.63,11.37,14.93,422.00,30.28,full scoring
+5565,5,60.00,no,male,white,85.93,87.76,73.80,77.12,361.00,34.90,full scoring
+5568,5,66.00,no,female,asian,4.38,5.51,2.38,3.88,479.00,16.53,full scoring
+5570,5,77.00,no,male,white,16.13,22.90,9.68,19.19,372.00,26.77,full scoring
+5574,5,61.00,no,male,white,4.19,11.12,2.37,10.58,329.00,30.82,full scoring
+5577,5,67.00,no,female,white,7.48,25.84,2.89,23.12,353.00,38.41,full scoring
+5580,5,60.00,no,male,hispanic,26.80,34.11,15.53,26.19,394.00,26.95,full scoring
+5581,5,65.00,no,female,white,9.81,12.20,4.63,8.83,428.00,13.04,full scoring
+5582,5,77.00,no,male,asian,27.01,28.79,25.55,27.33,371.00,15.36,full scoring
+5586,5,87.00,no,male,hispanic,26.16,36.28,10.47,25.47,344.00,31.74,full scoring
+5587,5,64.00,no,male,hispanic,,,,,,,unknown
+5592,5,71.00,no,male,white,10.36,17.26,3.45,12.49,365.00,22.68,full scoring
+5596,5,65.00,no,female,black or african american,16.17,37.02,11.49,34.68,282.00,45.11,full scoring
+5599,5,77.00,no,female,hispanic,26.18,30.71,18.66,25.27,463.00,24.10,full scoring
+5603,5,66.00,no,male,black or african american,7.97,11.51,5.98,9.74,271.00,14.61,full scoring
+5606,5,75.00,no,female,asian,1.66,3.60,0.97,3.33,433.00,10.25,full scoring
+5608,5,68.00,no,male,black or african american,53.57,56.69,48.70,52.99,308.00,45.39,full scoring
+5617,5,68.00,no,female,black or african american,33.96,34.98,29.11,30.64,235.00,26.81,full scoring
+5619,5,64.00,no,female,black or african american,9.39,13.22,4.52,10.43,345.00,28.70,full scoring
+5621,5,72.00,no,female,asian,16.35,22.59,12.61,19.54,433.00,20.23,full scoring
+5622,5,61.00,no,female,white,4.62,6.67,2.31,5.26,468.00,12.82,full scoring
+5623,5,68.00,no,male,black or african american,34.83,34.83,28.58,28.58,317.00,,sleep/wake only
+5627,5,73.00,no,female,asian,11.61,12.90,7.74,9.68,372.00,15.48,full scoring
+5631,5,67.00,no,male,black or african american,17.26,18.68,9.66,12.82,379.00,15.67,full scoring
+5632,5,75.00,no,female,white,17.07,18.28,13.27,14.90,443.00,17.07,full scoring
+5635,5,68.00,no,male,white,7.74,11.47,1.94,5.94,434.00,17.00,full scoring
+5654,5,89.00,no,female,black or african american,2.77,7.78,2.07,7.44,347.00,33.37,full scoring
+5656,5,71.00,no,female,black or african american,5.79,7.61,3.20,5.03,394.00,8.98,full scoring
+5658,5,60.00,no,female,black or african american,2.11,7.04,0.35,6.33,341.00,33.08,full scoring
+5659,5,58.00,no,male,black or african american,6.92,8.41,4.30,6.54,321.00,9.72,full scoring
+5660,5,65.00,no,female,black or african american,5.80,10.40,3.58,9.38,352.00,18.24,full scoring
+5662,5,87.00,no,female,white,8.29,10.79,4.87,7.76,456.00,10.39,full scoring
+5665,5,55.00,no,female,white,0.66,5.62,0.17,5.45,363.00,13.22,full scoring
+5669,5,65.00,no,male,black or african american,1.24,3.01,0.71,2.48,339.00,14.51,full scoring
+5673,5,61.00,no,female,black or african american,2.35,2.87,0.78,1.43,460.00,9.13,full scoring
+5677,5,58.00,no,female,hispanic,3.38,11.72,0.79,10.13,302.00,21.85,full scoring
+5680,5,83.00,no,female,black or african american,6.99,8.01,4.95,5.97,412.00,11.36,full scoring
+5686,5,67.00,no,female,white,34.64,35.97,25.95,27.86,407.00,10.91,full scoring
+5692,5,66.00,no,male,hispanic,13.79,17.33,5.22,9.32,322.00,12.67,full scoring
+5695,5,72.00,no,female,asian,30.57,35.01,25.24,30.95,473.00,20.55,full scoring
+5696,5,57.00,no,male,asian,19.57,25.00,13.43,21.14,420.00,19.14,full scoring
+5697,5,76.00,no,female,white,22.65,25.54,11.95,16.06,437.00,14.55,full scoring
+5703,5,66.00,no,male,white,41.10,50.68,24.11,37.53,219.00,31.51,full scoring
+5704,5,56.00,no,female,white,0.40,0.40,0.00,0.00,450.00,5.73,full scoring
+5706,5,73.00,no,male,white,5.20,11.73,1.84,9.05,358.00,24.97,full scoring
+5708,5,74.00,no,male,asian,4.41,5.40,3.11,4.25,367.00,12.59,full scoring
+5714,5,63.00,no,male,white,64.20,65.15,47.40,49.98,443.00,18.42,full scoring
+5716,5,70.00,no,female,hispanic,7.01,9.81,3.50,7.29,428.00,13.18,full scoring
+5721,5,80.00,no,female,black or african american,26.74,29.60,20.37,25.31,377.00,27.37,full scoring
+5722,5,56.00,no,female,hispanic,7.32,8.57,3.90,6.55,385.00,13.71,full scoring
+5733,5,73.00,no,female,black or african american,5.56,7.35,1.79,4.37,302.00,20.46,full scoring
+5734,5,75.00,no,male,white,95.81,100.19,58.10,64.95,315.00,19.81,full scoring
+5737,5,62.00,no,male,white,3.82,9.91,1.27,8.49,424.00,24.62,full scoring
+5740,5,64.00,no,female,black or african american,11.84,18.10,5.03,14.15,441.00,31.70,full scoring
+5748,5,70.00,no,female,black or african american,3.84,4.57,1.28,2.20,328.00,12.62,full scoring
+5749,5,67.00,no,female,white,11.28,11.77,7.85,8.66,367.00,11.61,full scoring
+5753,5,58.00,no,female,white,13.38,16.89,5.68,10.14,444.00,13.78,full scoring
+5754,5,58.00,no,male,hispanic,0.95,1.74,0.16,1.27,379.00,13.93,full scoring
+5759,5,76.00,no,female,white,56.83,59.17,45.79,50.48,435.00,25.93,full scoring
+5760,5,84.00,no,male,white,,,,,,,unknown
+5769,5,74.00,no,female,black or african american,,,,,,,unknown
+5775,5,57.00,no,male,asian,7.04,9.35,4.74,7.31,443.00,14.63,full scoring
+5777,5,77.00,no,male,white,18.03,19.42,12.14,14.57,346.00,13.18,full scoring
+5780,5,58.00,no,female,black or african american,3.97,4.19,2.21,2.43,272.00,9.26,full scoring
+5782,5,61.00,no,male,asian,17.68,28.05,11.84,24.81,370.00,27.41,full scoring
+5784,5,74.00,no,male,white,3.49,8.72,1.05,7.85,344.00,27.73,full scoring
+5786,5,71.00,no,male,black or african american,22.40,23.42,16.64,18.49,292.00,14.59,full scoring
+5788,5,66.00,no,female,white,71.02,73.78,44.09,48.48,479.00,27.68,full scoring
+5789,5,65.00,no,male,black or african american,16.20,18.29,10.11,13.48,374.00,13.16,full scoring
+5792,5,64.00,no,male,white,18.71,26.91,9.12,20.26,388.00,24.43,full scoring
+5793,5,58.00,no,male,asian,29.32,32.93,22.11,27.52,266.00,16.69,full scoring
+5796,5,72.00,no,male,asian,50.48,55.86,40.97,49.66,145.00,44.28,full scoring
+5797,5,72.00,no,female,white,6.09,11.08,3.14,9.23,325.00,26.03,full scoring
+5798,5,82.00,no,female,white,7.11,8.55,2.37,4.34,456.00,22.89,full scoring
+5801,5,90.00,yes,male,black or african american,28.09,40.57,16.74,34.75,423.00,37.73,full scoring
+5805,5,56.00,no,male,black or african american,13.03,14.48,9.72,11.38,290.00,11.79,full scoring
+5806,5,69.00,no,female,black or african american,0.00,0.51,0.00,0.51,354.00,11.36,full scoring
+5810,5,74.00,no,female,hispanic,25.66,30.39,18.95,27.50,456.00,27.63,full scoring
+5814,5,57.00,no,female,white,8.59,10.55,4.54,8.10,489.00,22.94,full scoring
+5821,5,55.00,no,male,hispanic,18.64,20.22,13.26,15.10,457.00,8.40,full scoring
+5827,5,60.00,no,female,white,10.87,12.31,7.34,9.69,458.00,26.86,full scoring
+5828,5,83.00,no,male,white,11.61,11.85,6.77,7.74,248.00,6.29,full scoring
+5830,5,73.00,no,female,hispanic,20.35,20.64,16.04,17.08,404.00,16.63,full scoring
+5831,5,65.00,no,female,white,7.39,10.03,3.52,6.33,341.00,17.42,full scoring
+5832,5,61.00,no,female,black or african american,21.03,21.38,14.48,15.00,348.00,7.59,full scoring
+5837,5,57.00,no,male,white,26.67,33.62,19.43,28.65,423.00,26.38,full scoring
+5838,5,60.00,no,female,asian,11.77,17.66,6.32,14.64,418.00,19.95,full scoring
+5841,5,74.00,no,male,hispanic,23.27,25.84,13.88,21.35,281.00,28.83,full scoring
+5842,5,75.00,no,female,white,1.18,1.35,0.17,0.34,356.00,6.57,full scoring
+5844,5,74.00,no,female,white,,,,,,,unknown
+5845,5,67.00,no,female,black or african american,79.25,79.43,77.92,78.49,318.00,72.83,full scoring
+5846,5,62.00,no,female,black or african american,0.00,1.03,0.00,1.03,58.00,4.14,full scoring
+5847,5,62.00,no,female,white,43.45,45.61,30.81,34.44,446.00,16.14,full scoring
+5851,5,65.00,no,male,white,12.34,17.58,7.40,15.58,389.00,21.13,full scoring
+5854,5,60.00,no,female,hispanic,12.46,13.98,10.04,11.82,472.00,18.81,full scoring
+5857,5,66.00,no,female,white,21.63,22.37,16.59,17.63,405.00,9.33,full scoring
+5858,5,63.00,no,male,hispanic,68.57,69.08,68.07,68.74,357.00,63.53,full scoring
+5859,5,72.00,no,female,hispanic,,,,,,,unknown
+5863,5,69.00,no,female,white,,,,,,,unknown
+5864,5,78.00,no,male,white,4.29,14.29,1.61,13.57,336.00,15.71,full scoring
+5868,5,58.00,no,male,asian,9.47,12.63,1.58,6.00,190.00,12.32,full scoring
+5869,5,77.00,no,female,black or african american,3.64,5.45,2.98,4.79,363.00,12.23,full scoring
+5871,5,75.00,no,female,black or african american,15.79,28.11,12.95,26.68,380.00,34.26,full scoring
+5875,5,66.00,no,male,hispanic,11.62,13.95,7.26,13.08,413.00,23.83,full scoring
+5876,5,81.00,no,female,white,2.43,5.74,0.66,5.07,272.00,22.06,full scoring
+5877,5,87.00,no,female,white,4.18,7.16,2.09,5.37,201.00,20.00,full scoring
+5881,5,62.00,no,female,asian,16.52,22.78,9.57,18.61,345.00,21.91,full scoring
+5882,5,67.00,no,female,white,12.17,15.22,5.65,11.30,414.00,30.43,full scoring
+5884,5,73.00,no,female,black or african american,33.05,37.16,23.76,30.30,394.00,22.39,full scoring
+5885,5,88.00,no,female,white,10.29,16.68,6.70,14.34,385.00,33.19,full scoring
+5886,5,62.00,no,male,white,2.20,3.30,0.86,2.32,491.00,7.82,full scoring
+5887,5,65.00,no,male,black or african american,9.47,10.91,6.89,8.61,418.00,16.22,full scoring
+5888,5,64.00,no,male,black or african american,56.72,59.77,46.41,51.33,256.00,34.22,full scoring
+5890,5,75.00,no,female,black or african american,3.61,3.75,1.94,2.08,432.00,14.31,full scoring
+5891,5,90.00,yes,female,white,1.43,1.61,0.54,1.07,336.00,12.14,full scoring
+5896,5,57.00,no,male,hispanic,8.12,10.00,4.94,7.06,510.00,12.59,full scoring
+5897,5,67.00,no,female,white,30.34,34.56,21.77,29.25,441.00,41.63,full scoring
+5899,5,67.00,no,female,black or african american,12.80,19.09,7.34,17.20,286.00,31.68,full scoring
+5906,5,58.00,no,female,black or african american,0.00,0.54,0.00,0.54,332.00,13.19,full scoring
+5907,5,63.00,no,female,white,33.28,35.57,17.87,21.97,366.00,10.00,full scoring
+5909,5,60.00,no,male,black or african american,13.50,16.87,6.45,9.98,409.00,12.76,full scoring
+5911,5,69.00,no,female,black or african american,10.35,17.47,4.20,12.61,371.00,26.04,full scoring
+5921,5,60.00,no,male,white,2.28,2.61,0.00,0.65,184.00,13.37,full scoring
+5924,5,74.00,no,male,white,11.06,12.84,5.47,8.01,472.00,16.91,full scoring
+5932,5,71.00,no,female,black or african american,29.52,31.69,19.35,23.95,248.00,22.26,full scoring
+5939,5,76.00,no,male,hispanic,10.24,14.19,5.39,10.96,334.00,20.30,full scoring
+5942,5,63.00,no,female,hispanic,5.88,6.80,2.88,3.92,459.00,9.93,full scoring
+5945,5,83.00,no,female,black or african american,10.74,13.26,10.11,12.95,190.00,26.21,full scoring
+5947,5,59.00,no,female,asian,3.29,6.44,1.00,5.01,419.00,14.75,full scoring
+5954,5,62.00,no,female,black or african american,28.21,30.52,20.96,25.22,521.00,23.38,full scoring
+5955,5,59.00,no,male,hispanic,0.79,3.67,0.26,3.14,229.00,9.17,full scoring
+5957,5,86.00,no,male,white,25.53,29.28,17.31,22.79,416.00,30.29,full scoring
+5958,5,70.00,no,male,asian,23.44,25.16,16.88,19.38,384.00,20.00,full scoring
+5969,5,65.00,no,male,hispanic,16.13,27.17,9.34,25.19,212.00,41.32,full scoring
+5970,5,59.00,no,male,white,13.89,15.70,9.06,12.48,298.00,19.93,full scoring
+5977,5,64.00,no,female,white,3.68,5.66,2.24,4.87,456.00,22.24,full scoring
+5980,5,55.00,no,female,black or african american,1.38,2.92,0.34,2.23,349.00,14.27,full scoring
+5982,5,64.00,no,female,white,30.87,31.28,20.40,21.74,447.00,16.38,full scoring
+5983,5,75.00,no,male,black or african american,30.33,31.67,20.97,23.64,269.00,12.04,full scoring
+5986,5,73.00,no,female,white,60.90,62.45,45.32,48.54,466.00,18.67,full scoring
+5988,5,56.00,no,male,hispanic,22.02,22.76,15.22,17.14,406.00,11.08,full scoring
+5990,5,61.00,no,female,white,9.61,11.58,4.40,7.76,518.00,11.70,full scoring
+5993,5,74.00,no,female,asian,2.37,2.96,0.44,1.19,405.00,6.96,full scoring
+5995,5,80.00,no,female,white,7.35,7.86,2.39,3.25,351.00,6.84,full scoring
+5998,5,60.00,no,male,asian,9.49,11.42,3.70,6.92,373.00,16.57,full scoring
+6000,5,63.00,no,female,white,3.60,5.04,1.68,3.84,250.00,13.44,full scoring
+6001,5,65.00,no,female,hispanic,12.56,12.91,8.20,9.24,344.00,12.38,full scoring
+6002,5,76.00,no,male,hispanic,20.19,22.72,11.46,15.34,309.00,13.98,full scoring
+6003,5,54.00,no,female,white,27.90,30.52,22.01,25.94,458.00,31.83,full scoring
+6005,5,62.00,no,female,black or african american,57.86,61.22,53.27,59.08,196.00,47.45,full scoring
+6009,5,73.00,no,female,black or african american,44.38,47.20,26.76,32.58,361.00,20.78,full scoring
+6011,5,68.00,no,male,white,1.84,4.10,1.02,3.48,293.00,14.13,full scoring
+6015,5,79.00,no,female,black or african american,9.82,11.58,6.14,8.60,342.00,10.53,full scoring
+6019,5,81.00,no,female,white,16.13,19.30,8.89,13.87,398.00,21.56,full scoring
+6020,5,66.00,no,male,white,13.09,13.40,9.89,11.33,376.00,17.07,full scoring
+6022,5,84.00,no,male,white,16.73,23.01,9.54,18.30,459.00,21.05,full scoring
+6024,5,63.00,no,female,black or african american,6.27,6.42,1.94,2.24,402.00,10.75,full scoring
+6027,5,63.00,no,female,asian,18.03,21.38,12.61,17.39,376.00,20.90,full scoring
+6029,5,63.00,no,male,asian,1.50,2.99,1.00,2.87,481.00,19.96,full scoring
+6036,5,90.00,yes,female,hispanic,41.41,45.63,27.61,34.08,213.00,13.24,full scoring
+6037,5,76.00,no,male,asian,21.29,26.38,14.65,21.59,389.00,21.59,full scoring
+6039,5,83.00,no,female,hispanic,11.04,17.31,5.11,14.18,364.00,19.45,full scoring
+6043,5,83.00,no,male,black or african american,48.26,48.26,47.28,47.28,184.00,,sleep/wake only
+6047,5,62.00,no,male,hispanic,54.57,58.48,45.43,50.43,276.00,41.52,full scoring
+6050,5,71.00,no,female,white,18.37,20.99,10.50,13.82,343.00,14.87,full scoring
+6052,5,74.00,no,female,black or african american,19.52,20.30,12.49,13.54,461.00,8.46,full scoring
+6053,5,63.00,no,male,asian,38.32,40.52,22.46,25.13,382.00,8.48,full scoring
+6057,5,61.00,no,male,black or african american,,,,,,,unknown
+6064,5,86.00,no,female,hispanic,8.24,8.53,6.47,6.76,204.00,18.53,full scoring
+6065,5,76.00,no,male,black or african american,6.35,8.72,3.55,7.68,406.00,14.33,full scoring
+6067,5,72.00,no,male,white,50.27,52.16,45.41,48.11,222.00,21.08,full scoring
+6071,5,64.00,no,male,hispanic,3.38,3.38,2.34,2.34,231.00,6.75,full scoring
+6072,5,72.00,no,female,black or african american,3.83,12.84,1.34,11.31,313.00,21.28,full scoring
+6073,5,66.00,no,male,white,21.96,23.40,16.71,19.89,377.00,30.72,full scoring
+6074,5,78.00,no,male,white,4.95,14.40,4.05,13.50,400.00,28.95,full scoring
+6075,5,66.00,no,male,white,1.16,6.81,0.58,6.38,414.00,16.09,full scoring
+6076,5,60.00,no,female,white,4.13,5.33,2.27,4.00,450.00,12.80,full scoring
+6077,5,90.00,yes,female,black or african american,15.26,19.03,7.20,12.69,350.00,13.37,full scoring
+6081,5,72.00,no,female,white,2.69,5.24,1.70,4.39,424.00,16.70,full scoring
+6087,5,76.00,no,female,white,3.13,4.06,1.88,3.13,384.00,20.78,full scoring
+6088,5,87.00,no,female,white,10.22,12.39,6.30,9.57,276.00,20.43,full scoring
+6091,5,64.00,no,male,black or african american,39.69,50.08,22.90,40.00,393.00,39.85,full scoring
+6095,5,70.00,no,female,hispanic,43.59,45.75,33.81,36.63,362.00,12.43,full scoring
+6097,5,56.00,no,male,white,2.96,6.25,1.15,5.59,365.00,12.49,full scoring
+6099,5,90.00,yes,female,black or african american,0.60,2.15,0.36,1.91,503.00,9.66,full scoring
+6104,5,57.00,no,female,asian,,,,,,,unknown
+6106,5,59.00,no,male,black or african american,13.33,13.92,10.59,11.57,306.00,8.82,full scoring
+6113,5,90.00,yes,female,white,,,,,,,unknown
+6115,5,69.00,no,female,hispanic,22.63,25.51,15.63,21.38,334.00,21.74,full scoring
+6117,5,85.00,no,male,white,25.90,32.13,16.72,26.72,366.00,31.48,full scoring
+6119,5,68.00,no,male,white,11.36,14.32,6.82,10.68,264.00,19.09,full scoring
+6123,5,64.00,no,female,white,4.98,4.98,3.40,3.85,265.00,3.40,full scoring
+6128,5,70.00,no,female,white,69.33,73.00,56.50,64.00,360.00,64.67,full scoring
+6131,5,89.00,no,female,white,0.29,1.92,0.29,1.92,407.00,35.09,full scoring
+6132,5,60.00,no,female,asian,0.13,0.13,0.13,0.13,470.00,5.49,full scoring
+6136,5,80.00,no,female,hispanic,32.94,42.80,21.40,37.13,286.00,46.99,full scoring
+6138,5,58.00,no,male,white,36.65,41.29,23.81,32.78,388.00,33.40,full scoring
+6139,5,73.00,no,female,black or african american,42.39,42.74,31.85,33.36,518.00,11.70,full scoring
+6140,5,81.00,no,male,black or african american,40.65,41.54,28.05,29.29,338.00,5.33,full scoring
+6145,5,83.00,no,male,hispanic,36.60,40.50,32.10,37.50,200.00,24.60,full scoring
+6151,5,66.00,no,male,black or african american,5.45,10.44,3.12,8.42,385.00,15.90,full scoring
+6155,5,56.00,no,female,hispanic,2.30,4.02,1.15,2.87,209.00,8.61,full scoring
+6156,5,57.00,no,male,hispanic,29.18,34.62,20.60,28.35,364.00,22.42,full scoring
+6157,5,78.00,no,male,black or african american,20.00,20.93,18.13,19.44,321.00,10.84,full scoring
+6160,5,77.00,no,female,hispanic,15.86,26.21,10.34,22.93,348.00,34.31,full scoring
+6172,5,61.00,no,male,hispanic,61.06,61.76,55.76,57.88,340.00,42.53,full scoring
+6174,5,69.00,no,male,black or african american,44.32,51.26,33.17,43.72,199.00,36.48,full scoring
+6176,5,58.00,no,male,hispanic,43.11,44.44,35.11,37.11,270.00,18.00,full scoring
+6180,5,57.00,no,male,hispanic,32.59,46.52,13.33,33.48,405.00,37.93,full scoring
+6183,5,69.00,no,female,asian,14.20,16.12,7.50,10.21,376.00,17.71,full scoring
+6193,5,67.00,no,male,black or african american,93.42,94.38,81.01,82.60,377.00,45.68,full scoring
+6195,5,71.00,no,female,black or african american,9.42,15.69,3.69,11.82,325.00,24.55,full scoring
+6202,5,59.00,no,male,black or african american,12.83,14.53,7.74,10.57,318.00,16.60,full scoring
+6205,5,70.00,no,male,white,13.57,17.58,7.26,13.38,314.00,19.87,full scoring
+6209,5,58.00,no,female,black or african american,2.84,3.37,1.78,2.49,338.00,9.76,full scoring
+6215,5,88.00,no,female,black or african american,22.78,26.09,13.74,19.30,345.00,15.65,full scoring
+6217,5,75.00,no,female,black or african american,5.78,6.94,2.83,3.98,467.00,6.81,full scoring
+6221,5,64.00,no,female,hispanic,7.08,12.11,3.91,10.06,322.00,15.09,full scoring
+6223,5,90.00,yes,male,hispanic,20.20,26.34,11.71,20.78,205.00,43.02,full scoring
+6224,5,71.00,no,female,white,1.90,10.22,0.15,9.20,411.00,20.15,full scoring
+6226,5,70.00,no,female,black or african american,9.58,11.76,6.05,8.74,357.00,16.81,full scoring
+6228,5,83.00,no,female,white,,,,,,,unknown
+6230,5,73.00,no,female,black or african american,10.63,13.67,7.59,11.14,237.00,18.48,full scoring
+6236,5,65.00,no,female,asian,9.68,14.71,4.65,10.71,465.00,15.87,full scoring
+6238,5,62.00,no,female,black or african american,13.73,14.90,6.08,9.02,306.00,15.69,full scoring
+6240,5,64.00,no,male,hispanic,3.91,4.47,1.40,2.23,430.00,10.05,full scoring
+6244,5,89.00,no,male,black or african american,33.15,36.46,24.03,31.66,362.00,33.31,full scoring
+6245,5,68.00,no,male,hispanic,31.13,39.38,13.50,25.50,160.00,27.00,full scoring
+6248,5,82.00,no,male,black or african american,12.00,22.41,6.18,20.47,340.00,33.00,full scoring
+6252,5,56.00,no,female,black or african american,0.00,0.15,0.00,0.15,392.00,7.35,full scoring
+6261,5,62.00,no,male,white,19.37,27.84,10.53,22.57,319.00,23.13,full scoring
+6262,5,61.00,no,female,hispanic,3.98,4.74,2.76,3.52,392.00,8.27,full scoring
+6263,5,61.00,no,male,hispanic,32.86,36.55,24.37,28.98,325.00,18.65,full scoring
+6266,5,78.00,no,female,hispanic,20.76,21.56,16.21,17.54,448.00,11.92,full scoring
+6270,5,70.00,no,male,hispanic,,,,,,,unknown
+6274,5,63.00,no,female,asian,42.35,44.87,33.53,38.32,476.00,28.11,full scoring
+6278,5,82.00,no,female,white,12.43,13.51,6.49,10.27,111.00,28.11,full scoring
+6279,5,77.00,no,male,white,19.29,23.01,15.58,20.00,339.00,22.65,full scoring
+6280,5,65.00,no,male,black or african american,63.95,65.08,63.20,64.33,319.00,42.88,full scoring
+6281,5,64.00,no,female,black or african american,31.90,36.83,22.22,29.37,378.00,19.84,full scoring
+6286,5,83.00,no,female,asian,7.17,11.55,5.07,10.50,343.00,20.82,full scoring
+6288,5,81.00,no,female,hispanic,7.14,10.38,4.38,8.43,370.00,20.76,full scoring
+6290,5,58.00,no,male,asian,4.79,8.36,3.42,7.53,438.00,19.73,full scoring
+6291,5,82.00,no,female,black or african american,18.07,23.28,8.34,15.29,518.00,19.58,full scoring
+6292,5,55.00,no,male,asian,17.27,19.77,15.23,18.41,264.00,24.09,full scoring
+6295,5,77.00,no,male,black or african american,22.06,23.53,20.29,22.94,204.00,23.82,full scoring
+6296,5,67.00,no,male,white,6.32,10.38,2.92,7.95,370.00,15.89,full scoring
+6298,5,67.00,no,male,hispanic,21.82,27.13,10.05,18.80,418.00,21.10,full scoring
+6300,5,89.00,no,female,white,0.00,2.82,0.00,2.82,340.00,13.06,full scoring
+6306,5,63.00,no,male,white,14.18,16.23,8.42,11.51,292.00,11.10,full scoring
+6308,5,80.00,no,male,black or african american,6.75,8.57,3.28,5.84,329.00,11.49,full scoring
+6309,5,62.00,no,female,black or african american,26.14,30.87,17.93,26.14,241.00,29.13,full scoring
+6311,5,74.00,no,female,black or african american,13.02,14.81,8.23,10.47,401.00,9.88,full scoring
+6313,5,66.00,no,female,white,13.58,17.01,6.14,11.34,508.00,14.41,full scoring
+6314,5,61.00,no,female,white,4.18,5.79,2.90,4.50,373.00,10.78,full scoring
+6316,5,66.00,no,male,black or african american,3.43,9.25,1.64,8.21,402.00,20.60,full scoring
+6317,5,59.00,no,female,white,8.69,9.36,3.51,5.18,359.00,9.69,full scoring
+6318,5,66.00,no,male,hispanic,80.64,80.85,72.77,73.40,282.00,43.40,full scoring
+6320,5,61.00,no,female,hispanic,12.74,16.73,9.03,14.07,452.00,17.26,full scoring
+6321,5,73.00,no,female,hispanic,9.84,13.87,4.84,9.35,372.00,25.48,full scoring
+6322,5,61.00,no,female,white,77.14,79.34,60.22,64.40,273.00,21.98,full scoring
+6323,5,77.00,no,male,black or african american,7.87,8.75,5.42,6.65,343.00,11.72,full scoring
+6327,5,83.00,no,female,white,,,,,,,unknown
+6330,5,80.00,no,male,black or african american,16.14,17.89,12.28,14.39,171.00,9.47,full scoring
+6331,5,60.00,no,female,white,1.90,2.25,1.30,1.78,506.00,7.11,full scoring
+6333,5,71.00,no,male,white,12.07,13.77,5.61,9.69,353.00,15.81,full scoring
+6335,5,67.00,no,female,black or african american,51.46,55.34,37.28,44.66,309.00,28.93,full scoring
+6336,5,55.00,no,female,white,4.62,6.04,1.78,3.37,338.00,12.78,full scoring
+6337,5,56.00,no,male,white,0.72,4.31,0.36,4.31,334.00,23.71,full scoring
+6340,5,63.00,no,female,black or african american,5.37,11.94,3.58,10.60,402.00,12.39,full scoring
+6350,5,65.00,no,male,hispanic,75.16,79.35,65.48,70.00,186.00,25.16,full scoring
+6351,5,62.00,no,female,white,27.68,28.18,21.42,22.42,479.00,5.76,full scoring
+6353,5,65.00,no,female,black or african american,8.25,10.65,5.25,8.55,400.00,15.90,full scoring
+6354,5,57.00,no,female,white,,,,,,,unknown
+6362,5,89.00,no,male,hispanic,11.25,16.88,7.50,16.88,32.00,35.63,full scoring
+6366,5,62.00,no,male,white,31.98,33.01,23.91,26.26,409.00,21.56,full scoring
+6367,5,67.00,no,female,black or african american,25.94,27.10,19.16,20.32,310.00,13.35,full scoring
+6370,5,59.00,no,female,white,0.65,6.77,0.16,6.45,372.00,30.00,full scoring
+6372,5,67.00,no,male,white,24.23,32.83,16.08,28.30,265.00,39.85,full scoring
+6374,5,79.00,no,female,black or african american,4.40,5.38,3.42,4.40,368.00,20.05,full scoring
+6376,5,80.00,no,female,black or african american,10.43,12.71,4.14,8.43,420.00,17.29,full scoring
+6382,5,57.00,no,male,white,31.21,34.48,21.21,27.24,348.00,21.38,full scoring
+6383,5,62.00,no,female,hispanic,6.15,9.17,3.95,7.89,517.00,19.15,full scoring
+6384,5,68.00,no,female,asian,5.77,11.17,4.05,9.94,489.00,18.77,full scoring
+6385,5,59.00,no,male,black or african american,38.87,46.59,27.49,39.82,443.00,36.03,full scoring
+6390,5,88.00,no,male,white,31.49,36.93,14.90,24.10,463.00,24.23,full scoring
+6396,5,77.00,no,male,white,,,,,,,unknown
+6401,5,83.00,no,female,white,18.68,23.80,10.41,18.51,363.00,18.35,full scoring
+6402,5,72.00,no,female,white,,,,,,,unknown
+6408,5,90.00,yes,male,black or african american,,,,,,,unknown
+6410,5,62.00,no,female,hispanic,0.73,1.02,0.73,1.02,410.00,4.68,full scoring
+6413,5,65.00,no,male,black or african american,62.86,66.43,54.76,60.24,252.00,31.90,full scoring
+6414,5,77.00,no,female,asian,3.86,5.43,1.86,3.86,420.00,22.86,full scoring
+6415,5,78.00,no,male,white,10.62,13.60,5.40,9.50,322.00,15.65,full scoring
+6416,5,74.00,no,male,white,7.75,10.77,5.02,8.76,418.00,24.11,full scoring
+6417,5,81.00,no,male,white,25.86,36.65,16.26,30.30,406.00,31.33,full scoring
+6419,5,73.00,no,female,black or african american,3.84,6.06,1.77,4.58,406.00,19.51,full scoring
+6422,5,81.00,no,female,white,11.28,15.31,5.15,10.86,431.00,16.15,full scoring
+6424,5,69.00,no,female,black or african american,15.20,18.02,10.97,13.94,383.00,11.91,full scoring
+6430,5,58.00,no,male,black or african american,0.36,1.42,0.36,1.42,337.00,6.05,full scoring
+6431,5,67.00,no,male,asian,15.29,19.61,8.14,14.63,361.00,13.96,full scoring
+6432,5,60.00,no,female,black or african american,92.88,94.32,74.64,79.92,250.00,45.60,full scoring
+6433,5,76.00,no,female,black or african american,12.30,15.19,7.44,11.70,395.00,17.77,full scoring
+6435,5,70.00,no,female,white,2.92,3.51,0.97,2.14,308.00,10.91,full scoring
+6438,5,61.00,no,female,black or african american,4.48,5.84,0.97,2.92,308.00,19.68,full scoring
+6440,5,85.00,no,male,white,29.18,33.08,17.36,23.40,477.00,23.90,full scoring
+6442,5,88.00,no,male,white,22.82,23.85,15.13,17.95,468.00,14.36,full scoring
+6444,5,63.00,no,male,black or african american,39.76,42.93,33.41,38.54,246.00,26.83,full scoring
+6445,5,60.00,no,female,hispanic,11.67,15.50,9.48,14.04,329.00,14.04,full scoring
+6447,5,69.00,no,female,black or african american,0.33,1.66,0.17,1.49,362.00,25.19,full scoring
+6450,5,67.00,no,female,black or african american,4.29,10.22,1.98,8.90,182.00,17.14,full scoring
+6452,5,75.00,no,male,hispanic,9.33,16.57,5.95,14.64,373.00,28.47,full scoring
+6454,5,65.00,no,male,white,6.25,7.81,2.34,5.16,384.00,19.06,full scoring
+6460,5,57.00,no,female,hispanic,1.03,1.20,0.34,0.51,350.00,12.17,full scoring
+6462,5,58.00,no,female,white,35.10,37.87,29.05,33.72,347.00,30.26,full scoring
+6467,5,60.00,no,male,hispanic,10.98,12.79,5.25,7.54,366.00,9.84,full scoring
+6471,5,62.00,no,female,white,9.74,20.41,5.88,17.47,388.00,22.11,full scoring
+6475,5,63.00,no,male,asian,18.49,27.15,12.59,24.20,305.00,31.67,full scoring
+6476,5,83.00,no,female,white,0.60,2.53,0.15,2.08,403.00,18.61,full scoring
+6477,5,57.00,no,male,hispanic,45.35,61.23,33.16,54.60,389.00,50.13,full scoring
+6479,5,61.00,no,male,black or african american,,,,,,,unknown
+6482,5,72.00,no,male,hispanic,20.98,22.78,13.98,18.95,266.00,22.56,full scoring
+6485,5,71.00,no,male,hispanic,64.16,70.10,56.14,64.75,202.00,44.26,full scoring
+6491,5,64.00,no,male,white,1.56,8.91,0.78,8.59,384.00,23.13,full scoring
+6492,5,88.00,no,male,hispanic,52.57,53.94,48.08,50.42,307.00,28.34,full scoring
+6493,5,61.00,no,male,hispanic,11.88,15.84,7.92,13.10,197.00,25.89,full scoring
+6500,5,67.00,no,male,asian,1.10,3.29,1.10,3.29,492.00,19.02,full scoring
+6501,5,64.00,no,male,black or african american,4.19,5.90,1.71,4.19,315.00,7.43,full scoring
+6502,5,74.00,no,female,asian,5.93,8.44,4.13,7.01,334.00,22.63,full scoring
+6503,5,60.00,no,female,asian,4.50,5.67,2.00,3.33,360.00,11.50,full scoring
+6505,5,63.00,no,female,hispanic,0.00,6.83,0.00,6.83,202.00,31.78,full scoring
+6506,5,64.00,no,female,asian,85.95,94.05,74.59,84.32,37.00,66.49,full scoring
+6509,5,76.00,no,female,white,6.62,10.03,6.62,10.03,317.00,17.41,full scoring
+6514,5,76.00,no,female,hispanic,7.52,9.26,4.24,6.17,311.00,7.91,full scoring
+6516,5,80.00,no,male,white,25.67,27.61,15.37,17.91,402.00,14.18,full scoring
+6521,5,76.00,no,male,white,61.27,63.02,46.67,49.37,378.00,20.16,full scoring
+6527,5,59.00,no,female,white,1.11,3.47,0.16,2.84,380.00,11.37,full scoring
+6528,5,60.00,no,female,white,29.50,32.00,11.00,16.25,240.00,18.00,full scoring
+6538,5,82.00,no,male,white,77.72,82.03,65.06,75.95,237.00,57.72,full scoring
+6549,5,65.00,no,male,asian,44.69,48.91,33.78,40.65,341.00,33.26,full scoring
+6550,5,63.00,no,male,white,,,,,,,unknown
+6557,5,58.00,no,male,black or african american,22.33,33.36,16.68,30.67,223.00,30.67,full scoring
+6566,5,77.00,no,female,black or african american,17.12,22.98,5.85,15.37,410.00,30.88,full scoring
+6567,5,70.00,no,male,hispanic,18.82,24.90,12.94,22.16,306.00,46.67,full scoring
+6568,5,58.00,no,female,white,21.13,24.05,15.55,19.19,247.00,17.25,full scoring
+6569,5,76.00,no,male,asian,,,,,,,unknown
+6575,5,80.00,no,female,white,,,,,,,unknown
+6577,5,71.00,no,female,black or african american,28.89,34.29,18.25,27.62,378.00,32.70,full scoring
+6582,5,78.00,no,female,asian,19.39,23.70,12.43,18.73,362.00,24.86,full scoring
+6583,5,78.00,no,female,hispanic,15.86,16.34,12.72,13.35,382.00,5.34,full scoring
+6593,5,58.00,no,female,hispanic,3.38,4.46,1.85,3.38,390.00,8.31,full scoring
+6599,5,68.00,no,male,hispanic,9.74,10.74,7.73,9.02,419.00,22.34,full scoring
+6607,5,70.00,no,female,asian,4.73,8.80,2.76,7.48,457.00,20.09,full scoring
+6610,5,74.00,no,female,white,24.09,34.19,6.67,23.66,279.00,34.19,full scoring
+6614,5,77.00,no,male,hispanic,11.53,16.36,6.86,13.09,385.00,18.86,full scoring
+6616,5,74.00,no,male,asian,56.64,57.52,56.50,57.37,411.00,15.18,full scoring
+6618,5,72.00,no,male,asian,,,,,,,unknown
+6619,5,69.00,no,female,black or african american,15.96,21.27,8.64,15.46,361.00,24.93,full scoring
+6621,5,58.00,no,female,white,1.74,3.84,0.62,3.10,484.00,14.63,full scoring
+6622,5,82.00,no,female,white,15.52,21.20,4.73,12.11,317.00,25.93,full scoring
+6625,5,80.00,no,male,asian,,,,,,,unknown
+6627,5,64.00,no,female,white,9.56,22.89,8.22,22.44,270.00,30.44,full scoring
+6629,5,78.00,no,female,hispanic,31.62,32.65,27.50,28.97,408.00,15.00,full scoring
+6630,5,77.00,no,female,hispanic,22.84,28.84,15.48,24.97,310.00,24.19,full scoring
+6632,5,83.00,no,female,white,36.80,39.36,27.04,31.20,375.00,23.84,full scoring
+6641,5,87.00,no,female,hispanic,16.96,22.36,12.30,19.19,322.00,19.75,full scoring
+6646,5,73.00,no,male,asian,31.87,34.45,19.23,23.83,209.00,21.53,full scoring
+6648,5,66.00,no,male,hispanic,24.61,28.47,16.57,21.88,373.00,13.35,full scoring
+6653,5,61.00,no,male,white,35.23,37.16,24.61,29.12,373.00,22.04,full scoring
+6655,5,74.00,no,female,black or african american,40.88,45.88,26.47,35.88,204.00,27.06,full scoring
+6656,5,65.00,no,male,asian,36.74,41.74,24.78,33.70,276.00,28.26,full scoring
+6657,5,57.00,no,female,black or african american,7.65,22.71,2.39,18.88,251.00,32.27,full scoring
+6663,5,68.00,no,male,black or african american,5.55,11.32,2.35,9.61,281.00,17.08,full scoring
+6671,5,58.00,no,male,black or african american,14.12,18.66,7.06,14.45,357.00,25.71,full scoring
+6672,5,90.00,yes,male,white,29.09,34.34,19.19,27.07,297.00,20.81,full scoring
+6680,5,69.00,no,female,black or african american,14.17,15.46,9.57,11.96,326.00,16.20,full scoring
+6682,5,70.00,no,male,white,16.88,20.94,11.46,18.23,487.00,25.26,full scoring
+6685,5,69.00,no,male,white,24.63,26.57,21.82,24.63,341.00,16.54,full scoring
+6686,5,74.00,no,female,hispanic,22.63,26.06,7.54,14.57,350.00,26.40,full scoring
+6693,5,62.00,no,female,hispanic,21.00,22.42,13.58,15.16,380.00,9.63,full scoring
+6695,5,55.00,no,male,white,50.60,55.55,40.38,48.13,364.00,33.46,full scoring
+6697,5,65.00,no,male,white,34.52,38.06,26.29,32.58,372.00,26.29,full scoring
+6699,5,76.00,no,male,hispanic,,,,,,,unknown
+6704,5,86.00,no,male,white,77.33,81.23,71.70,78.41,277.00,52.42,full scoring
+6707,5,82.00,no,female,black or african american,13.69,17.30,11.89,16.40,333.00,24.32,full scoring
+6709,5,85.00,no,female,hispanic,25.88,29.54,21.07,26.79,262.00,21.98,full scoring
+6722,5,61.00,no,female,hispanic,8.26,10.71,4.65,8.65,465.00,17.16,full scoring
+6723,5,58.00,no,male,white,3.84,7.90,0.64,5.98,281.00,24.77,full scoring
+6726,5,63.00,no,female,black or african american,80.62,84.89,74.86,81.73,323.00,68.17,full scoring
+6727,5,71.00,no,female,white,8.86,12.12,4.82,8.39,386.00,10.57,full scoring
+6730,5,60.00,no,female,black or african american,0.29,0.71,0.14,0.57,421.00,13.68,full scoring
+6734,5,61.00,no,female,white,79.76,93.41,61.62,81.74,334.00,62.51,full scoring
+6737,5,62.00,no,male,white,10.02,10.98,3.71,5.08,437.00,4.26,full scoring
+6739,5,77.00,no,female,white,11.59,13.24,8.28,10.07,435.00,9.52,full scoring
+6741,5,81.00,no,male,asian,44.10,47.44,40.26,46.15,234.00,38.46,full scoring
+6746,5,71.00,no,female,hispanic,2.91,3.25,0.68,1.37,351.00,,sleep/wake only
+6751,5,68.00,no,male,white,9.50,17.50,2.88,12.88,480.00,21.38,full scoring
+6754,5,62.00,no,male,white,5.26,12.92,0.66,8.76,274.00,23.21,full scoring
+6755,5,63.00,no,female,white,18.47,28.82,10.79,23.65,406.00,29.85,full scoring
+6756,5,71.00,no,female,white,39.77,43.67,32.79,39.21,430.00,39.91,full scoring
+6757,5,73.00,no,female,hispanic,3.64,7.79,1.82,6.23,231.00,15.32,full scoring
+6759,5,63.00,no,female,hispanic,4.42,5.21,2.21,3.32,380.00,12.00,full scoring
+6773,5,60.00,no,female,hispanic,1.65,3.29,0.47,2.35,255.00,10.82,full scoring
+6781,5,66.00,no,male,hispanic,24.54,37.47,16.51,33.90,269.00,33.01,full scoring
+6783,5,85.00,no,female,white,7.42,12.33,4.40,10.69,477.00,23.77,full scoring
+6784,5,78.00,no,female,black or african american,16.52,18.08,12.62,14.96,385.00,17.92,full scoring
+6786,5,60.00,no,female,black or african american,13.35,14.74,9.36,11.10,346.00,10.75,full scoring
+6788,5,59.00,no,female,black or african american,8.16,8.41,4.52,5.02,478.00,5.27,full scoring
+6789,5,74.00,no,male,black or african american,21.38,23.44,15.94,20.44,320.00,28.13,full scoring
+6790,5,72.00,no,male,white,22.12,22.60,14.32,16.07,377.00,16.23,full scoring
+6792,5,62.00,no,male,white,30.75,39.69,21.80,35.40,322.00,34.47,full scoring
+6795,5,63.00,no,female,white,7.48,9.20,3.83,6.33,313.00,10.73,full scoring
+6796,5,55.00,no,female,black or african american,8.52,11.53,3.93,7.73,458.00,21.09,full scoring
+6802,5,65.00,no,female,black or african american,9.58,13.65,6.83,11.68,457.00,21.27,full scoring
+6804,5,77.00,no,female,black or african american,34.02,35.77,25.23,28.37,478.00,18.20,full scoring
+6807,5,60.00,no,male,hispanic,48.24,49.60,43.42,46.58,398.00,30.75,full scoring
+6810,5,77.00,no,male,hispanic,25.84,30.44,15.58,21.95,339.00,20.35,full scoring
+6811,5,79.00,no,male,hispanic,34.24,45.33,29.18,43.53,368.00,58.04,full scoring
+6812,5,68.00,no,female,hispanic,5.89,11.16,2.32,9.26,285.00,18.53,full scoring
